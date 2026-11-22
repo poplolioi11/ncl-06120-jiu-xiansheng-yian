@@ -20,4 +20,8 @@ TXT 依幅、面與欄提供閱讀定位。JSON 和 TEI 採同一固定取文。
 
 ## 引用與訂正 / Citation and corrections
 
+- [覆核版 v0.2.0 DOI](https://doi.org/10.5281/zenodo.24443453)
+- [初錄版 v0.1.0 DOI](https://doi.org/10.5281/zenodo.24442808)
+- [所有版本 Concept DOI](https://doi.org/10.5281/zenodo.24442807)
+
 曲宸宇（Chu, Chen-Yu）整理。引用請參考 [CITATION.cff](CITATION.cff)。訂正請附原圖及欄位，使用 [Issues](https://github.com/poplolioi11/ncl-06120-jiu-xiansheng-yian/issues)。權利見 [LICENSE.md](LICENSE.md)。
