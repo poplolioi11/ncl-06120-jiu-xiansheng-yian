@@ -1,0 +1,3861 @@
+{
+  "source": "https://catalog.digitalarchives.tw/item/00/08/67/7d.html",
+  "image_viewer": "https://commons.wikimedia.org/wiki/File:NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf",
+  "source_rights": "https://commons.wikimedia.org/wiki/File:NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#Licensing",
+  "shelfmark": "臺灣國家圖書館 06120",
+  "data_version": "0.1.0",
+  "image_inventory": [
+    {
+      "image": 1,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=1",
+      "sha256": "f1d218039e1ac95bb1dcb8eee1804efa5009679db93ff50ca5b82d4cd9497f31",
+      "scan_width": 497,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 1,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 2,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=2",
+      "sha256": "19ab740da5c324a2aaf79f33d60c1cbcf1ff4d8a34b0ceb6f8b760ac33e0abc1",
+      "scan_width": 772,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔登記號〕"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 12,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 15,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 17,
+          "surface_text": "〔手鈔〕"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 21,
+          "surface_text": "□□□"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "char_offset_0based": 28,
+          "surface_text": "〔六〕"
+        },
+        {
+          "unit_id": "f002-R-physical_label-01",
+          "surface_text": "",
+          "note": "數字與末行「六」較可見；第三行與數位紅水印相疊，未能定讀。"
+        },
+        {
+          "unit_id": "f002-R-seal-01",
+          "surface_text": "",
+          "note": "印文待釋。"
+        },
+        {
+          "unit_id": "f002-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f002-L-annotation-01",
+          "surface_text": "",
+          "note": "旋轉後似西文筆跡，難辨。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "front_endpapers_with_label"
+    },
+    {
+      "image": 3,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=3",
+      "sha256": "6a7d29005e241e9dcabd7507deb4bc1da9cc1d7abafa89c2b4f8424826cf6209",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f003-L-01",
+          "char_offset_0based": 1,
+          "surface_text": "〔𪼇〕"
+        },
+        {
+          "unit_id": "f003-L-01",
+          "surface_text": "",
+          "note": "第二字原字右部近「毚」一類密筆，Unicode 暫隨館藏題名取字。"
+        },
+        {
+          "unit_id": "f003-L-02",
+          "surface_text": "",
+          "note": "末字上捺下工。"
+        },
+        {
+          "unit_id": "f003-L-03",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f003-L-03",
+          "surface_text": "",
+          "note": "首字病頭，暫讀，腎督後數字待核"
+        },
+        {
+          "unit_id": "f003-L-04",
+          "surface_text": "",
+          "note": "「全蝎」待核，劑量小寫多處。"
+        },
+        {
+          "unit_id": "f003-L-05",
+          "surface_text": "",
+          "note": "「角針」前或有一字，待核。"
+        },
+        {
+          "unit_id": "f003-L-07",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f003-L-07",
+          "surface_text": "",
+          "note": "欄下小字兩筆待核。"
+        },
+        {
+          "unit_id": "f003-L-08",
+          "surface_text": "",
+          "note": "「之」「飲」「一咳」待核。"
+        },
+        {
+          "unit_id": "f003-L-09",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f003-L-09",
+          "surface_text": "",
+          "note": "「食氣」上兩字淡。"
+        },
+        {
+          "unit_id": "f003-L-10",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f003-L-11",
+          "surface_text": "",
+          "note": "「調養撤去」待核。"
+        },
+        {
+          "unit_id": "f003-L-12",
+          "surface_text": "",
+          "note": "「老邁」以下字形與句讀仍待核。"
+        },
+        {
+          "unit_id": "f003-L-seal-01",
+          "surface_text": "",
+          "note": "印文待釋。"
+        },
+        {
+          "unit_id": "f003-L-seal-02",
+          "surface_text": "",
+          "note": "印文待釋。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 4,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=4",
+      "sha256": "5211644fc01e411346b5f07b35db5986920610a715c8baa95a663b006a02d2c8",
+      "scan_width": 779,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f004-R-01",
+          "surface_text": "",
+          "note": "「煎」待核。"
+        },
+        {
+          "unit_id": "f004-R-02",
+          "surface_text": "",
+          "note": "過半劑量字特小，上下若干字待覆。"
+        },
+        {
+          "unit_id": "f004-R-03",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f004-R-03",
+          "surface_text": "",
+          "note": "此欄起點較低，上部空。"
+        },
+        {
+          "unit_id": "f004-R-04",
+          "surface_text": "",
+          "note": "「觸在」「七勞」待核。"
+        },
+        {
+          "unit_id": "f004-R-06",
+          "surface_text": "",
+          "note": "尾「欠息」待核。"
+        },
+        {
+          "unit_id": "f004-R-07",
+          "surface_text": "",
+          "note": "數字與「受」均待核。"
+        },
+        {
+          "unit_id": "f004-R-08",
+          "surface_text": "",
+          "note": "「固懂」及下待核。"
+        },
+        {
+          "unit_id": "f004-R-10",
+          "surface_text": "",
+          "note": "「帶遂」與「便」待核。"
+        },
+        {
+          "unit_id": "f004-R-11",
+          "char_offset_0based": 9,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f004-R-12",
+          "surface_text": "",
+          "note": "「不瘂」及下待核。"
+        },
+        {
+          "unit_id": "f004-L-01",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-01",
+          "surface_text": "",
+          "note": "「眇」與兩字待核。"
+        },
+        {
+          "unit_id": "f004-L-03",
+          "surface_text": "",
+          "note": "「夜交藤」及劑量待核。"
+        },
+        {
+          "unit_id": "f004-L-05",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-05",
+          "surface_text": "",
+          "note": "兩行短名是否同筆待核。"
+        },
+        {
+          "unit_id": "f004-L-07",
+          "surface_text": "",
+          "note": "「年壯」「不振」待核。"
+        },
+        {
+          "unit_id": "f004-L-08",
+          "surface_text": "",
+          "note": "局部墨淡。"
+        },
+        {
+          "unit_id": "f004-L-09",
+          "surface_text": "",
+          "note": "「海參」至「合雄」待核。"
+        },
+        {
+          "unit_id": "f004-L-11",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-11",
+          "char_offset_0based": 13,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-11",
+          "char_offset_0based": 18,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-11",
+          "char_offset_0based": 22,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-11",
+          "surface_text": "",
+          "note": "主藥行小字加工法待核。"
+        },
+        {
+          "unit_id": "f004-L-12",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-12",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-12",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f004-L-12",
+          "surface_text": "",
+          "note": "欄尾以後待核。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 5,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=5",
+      "sha256": "090992c56f1eeb52d6813da93131a731a5170bd668e5f0b8dbde75f64753bdfe",
+      "scan_width": 775,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f005-R-01",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f005-R-01",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f005-R-01",
+          "char_offset_0based": 10,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f005-R-01",
+          "char_offset_0based": 14,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f005-R-01",
+          "surface_text": "",
+          "note": "配量、製法小字待核"
+        },
+        {
+          "unit_id": "f005-R-02",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-02",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-02",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-03",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-03",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-03",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-03",
+          "char_offset_0based": 17,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-04",
+          "surface_text": "",
+          "note": "欄中小字「另煎入」後待核"
+        },
+        {
+          "unit_id": "f005-R-05",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f005-R-07",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-09",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-09",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-09",
+          "surface_text": "",
+          "note": "藥量小字待核"
+        },
+        {
+          "unit_id": "f005-R-10",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-10",
+          "surface_text": "",
+          "note": "起頭與是否人名待核"
+        },
+        {
+          "unit_id": "f005-R-12",
+          "char_offset_0based": 16,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-R-12",
+          "surface_text": "",
+          "note": "中段、末字均待核"
+        },
+        {
+          "unit_id": "f005-L-04",
+          "surface_text": "",
+          "note": "「濕」「東方」字待核"
+        },
+        {
+          "unit_id": "f005-L-07",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-07",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-07",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-07",
+          "char_offset_0based": 18,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-08",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-08",
+          "char_offset_0based": 21,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-09",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f005-L-09",
+          "surface_text": "",
+          "note": "末兩藥小字待核"
+        },
+        {
+          "unit_id": "f005-L-12",
+          "char_offset_0based": 18,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 6,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=6",
+      "sha256": "04e780fbe48f02397181e8e7287867c3f21060a9569d54f8f9cebdd2dbc7e5c1",
+      "scan_width": 779,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f006-R-03",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f006-R-03",
+          "surface_text": "",
+          "note": "人名末字待核。"
+        },
+        {
+          "unit_id": "f006-R-04",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f006-R-04",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-04",
+          "char_offset_0based": 16,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f006-R-04",
+          "char_offset_0based": 20,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-05",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-05",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-05",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-05",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-05",
+          "char_offset_0based": 19,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-09",
+          "char_offset_0based": 7,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f006-R-09",
+          "surface_text": "",
+          "note": "方藥首、末待核。"
+        },
+        {
+          "unit_id": "f006-R-10",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-10",
+          "surface_text": "",
+          "note": "紙破影入前段。"
+        },
+        {
+          "unit_id": "f006-R-12",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-R-12",
+          "surface_text": "",
+          "note": "起於半欄。"
+        },
+        {
+          "unit_id": "f006-L-07",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-L-08",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-L-08",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-L-08",
+          "char_offset_0based": 13,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-L-08",
+          "char_offset_0based": 17,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f006-L-10",
+          "surface_text": "",
+          "note": "「家巷」待核。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 7,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=7",
+      "sha256": "a20825c79c3340beb5723c4ba0d06be507db349311055c53a7141dca32834d45",
+      "scan_width": 777,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f007-R-01",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-06",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-06",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-08",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f007-R-08",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-08",
+          "char_offset_0based": 15,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-09",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-09",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-R-09",
+          "char_offset_0based": 19,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-04",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-04",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-06",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f007-L-07",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-09",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-09",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-10",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f007-L-11",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 8,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=8",
+      "sha256": "2a4a16bab32e49b0e770cc0b011f80cb64681bf5f45b3d08ba6491319eab55c3",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f008-R-01",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f008-R-11",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f008-R-11",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f008-L-05",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f008-L-05",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 9,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=9",
+      "sha256": "7c4dd67f672382306ec63dcc8d002b599dc35342316ac6701b40e51e2bce6972",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f009-R-03",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f009-R-08",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f009-R-08",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f009-R-09",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f009-R-09",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f009-R-09",
+          "surface_text": "",
+          "note": "半欄，局部淡。"
+        },
+        {
+          "unit_id": "f009-L-04",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f009-L-04",
+          "char_offset_0based": 13,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f009-L-06",
+          "surface_text": "",
+          "note": "地名暫讀。"
+        },
+        {
+          "unit_id": "f009-L-12",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 10,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=10",
+      "sha256": "56a13c3e2d7c471900e1034bbdc5152d52204df0d9224281cd560d8a048616d8",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f010-R-02",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-02",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-02",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-02",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-04",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-04",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-04",
+          "char_offset_0based": 15,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-07",
+          "char_offset_0based": 16,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f010-R-08",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-R-08",
+          "char_offset_0based": 14,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f010-L-01",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-L-04",
+          "char_offset_0based": 4,
+          "surface_text": "□□□"
+        },
+        {
+          "unit_id": "f010-L-04",
+          "surface_text": "",
+          "note": "似敘人物或居所，局部待核。"
+        },
+        {
+          "unit_id": "f010-L-05",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f010-L-05",
+          "char_offset_0based": 13,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f010-L-06",
+          "char_offset_0based": 11,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f010-L-08",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f010-L-09",
+          "char_offset_0based": 12,
+          "surface_text": "□□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 11,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=11",
+      "sha256": "1b709a09e8e41933223f7e088d36f063888896eac694bc8ce3ead253dcca0fd2",
+      "scan_width": 774,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f011-R-06",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-R-06",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-R-06",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-02",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-02",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-02",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-02",
+          "char_offset_0based": 16,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-03",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-03",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-03",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-10",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f011-L-12",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 12,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=12",
+      "sha256": "b935ad765011b35d3e81bc2c4fa5d349c889cbcaab7e94ecce39c5c6176e4988",
+      "scan_width": 776,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f012-R-01",
+          "char_offset_0based": 8,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f012-R-02",
+          "char_offset_0based": 17,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f012-R-03",
+          "char_offset_0based": 1,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f012-R-03",
+          "surface_text": "",
+          "note": "此欄藥名、劑量均待核。"
+        },
+        {
+          "unit_id": "f012-L-01",
+          "surface_text": "",
+          "note": "人名末字暫讀。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 13,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=13",
+      "sha256": "d21b483cb1ddeb38e4fafd5ba7304ad8bf7dabcc856635706903fec8d696a806",
+      "scan_width": 774,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f013-R-04",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f013-R-06",
+          "surface_text": "",
+          "note": "夾在右五、七欄之間，自頁中段起筆。"
+        },
+        {
+          "unit_id": "f013-R-10",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f013-R-12",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f013-L-05",
+          "char_offset_0based": 20,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f013-L-08",
+          "char_offset_0based": 15,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f013-L-08",
+          "char_offset_0based": 19,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f013-L-09",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 14,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=14",
+      "sha256": "4796e2fc7ca843c7c9ac65945405275ba39367d7ab87d99b851e060b34499a15",
+      "scan_width": 774,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f014-R-02",
+          "char_offset_0based": 16,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f014-R-08",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f014-L-01",
+          "char_offset_0based": 3,
+          "surface_text": "□□□"
+        },
+        {
+          "unit_id": "f014-L-01",
+          "surface_text": "",
+          "note": "下旁小字讀法待核"
+        },
+        {
+          "unit_id": "f014-L-02",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f014-L-02",
+          "surface_text": "",
+          "note": "此欄字偏中段"
+        },
+        {
+          "unit_id": "f014-L-03",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 15,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=15",
+      "sha256": "7047578017e98e830ae369f373c8e8afa8b9e7c3339ad58b8d0c6f21eebde49b",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f015-R-02",
+          "char_offset_0based": 0,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f015-R-02",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f015-R-04",
+          "surface_text": "",
+          "note": "首二字似地名。"
+        },
+        {
+          "unit_id": "f015-L-09",
+          "surface_text": "",
+          "note": "姓名待核。"
+        },
+        {
+          "unit_id": "f015-L-11",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 16,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=16",
+      "sha256": "9893d943fede8700121b99963a4684841ab0058b9572a3db78f0958f279846d9",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f016-R-09",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f016-R-09",
+          "surface_text": "",
+          "note": "短稱謂末兩筆待核。"
+        },
+        {
+          "unit_id": "f016-L-10",
+          "char_offset_0based": 18,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f016-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔穫〕"
+        },
+        {
+          "unit_id": "f016-L-annotation-01",
+          "surface_text": "",
+          "note": "左部似禾，右部密筆，與正文關係待核。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 17,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=17",
+      "sha256": "1a9a27826a31cdaa5323bb2e08e5956319f8eb34c8515546aeb58b0ccd2f6004",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f017-R-06",
+          "char_offset_0based": 11,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f017-L-11",
+          "surface_text": "",
+          "note": "起筆較低。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 18,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=18",
+      "sha256": "7353cdc7e786e20db31aa173b792ba37ded3418e6554e57c1a0b9382966fa0bd",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f018-R-06",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f018-R-06",
+          "char_offset_0based": 15,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f018-R-08",
+          "char_offset_0based": 8,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f018-R-10",
+          "surface_text": "",
+          "note": "「君」及年數待核。"
+        },
+        {
+          "unit_id": "f018-R-11",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f018-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔脉〕"
+        },
+        {
+          "unit_id": "f018-L-annotation-01",
+          "surface_text": "",
+          "note": "疑補字。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 19,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=19",
+      "sha256": "a842d95b7880cb685e7b4d5971b1982cff5734095c82e0027f7d03753e13cdba",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f019-R-02",
+          "surface_text": "",
+          "note": "「竅」與「半」待核。"
+        },
+        {
+          "unit_id": "f019-L-01",
+          "char_offset_0based": 3,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f019-L-03",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 20,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=20",
+      "sha256": "d07237bde78c1883014f11aab3124551838b0e5365ad7112f7ef455428a2db9b",
+      "scan_width": 770,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f020-R-10",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f020-R-11",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f020-R-12",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f020-R-12",
+          "char_offset_0based": 17,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f020-L-03",
+          "char_offset_0based": 0,
+          "surface_text": "〔泉〕"
+        },
+        {
+          "unit_id": "f020-L-03",
+          "surface_text": "",
+          "note": "單字續欄，「在泉」疑作術語。"
+        },
+        {
+          "unit_id": "f020-L-08",
+          "surface_text": "",
+          "note": "號、人名暫讀。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 21,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=21",
+      "sha256": "e491101171d2c45800d45b2d651b675f0b92cb9c4a2ff925e67b7334746efd9a",
+      "scan_width": 771,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f021-L-02",
+          "surface_text": "",
+          "note": "小字融於直欄並待核。"
+        },
+        {
+          "unit_id": "f021-L-09",
+          "surface_text": "",
+          "note": "短欄起句待核。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 22,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=22",
+      "sha256": "1dfba46b25e680ccf60bce9089dc2778dce221d72576aa9a13b515bce77f81c2",
+      "scan_width": 771,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f022-L-01",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f022-L-02",
+          "surface_text": "",
+          "note": "欄內小寫有「可冲」等。"
+        },
+        {
+          "unit_id": "f022-L-annotation-01",
+          "surface_text": "",
+          "note": "疑句讀墨記或紙斑。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 23,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=23",
+      "sha256": "7cfa3b8c8718e9ba56bcb9b3141a8f0e5166e1002003f18e2c856931a97bc680",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f023-R-05",
+          "char_offset_0based": 6,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f023-R-07",
+          "surface_text": "",
+          "note": "欄上部「枯菁」、中間「冰花無醉」待核。"
+        }
+      ],
+      "physical_volume_order": 1,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 24,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=24",
+      "sha256": "87b2dfb92f82c845428fb9ce47e92cf31f6df525bcc33e7f926bf3ab69dba69a",
+      "scan_width": 500,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 1,
+      "frame_type": "back_cover"
+    },
+    {
+      "image": 25,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=25",
+      "sha256": "47366d37d28d4af9656188851f2605bfc90581759dc33a57b4f3f1b3432aaee3",
+      "scan_width": 506,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 2,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 26,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=26",
+      "sha256": "4b9400d79c658c7066d2ebd5323ef5e7dccd78e1f01444f979befe9554ba5c5d",
+      "scan_width": 774,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f026-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f026-L-annotation-01",
+          "surface_text": "",
+          "note": "與第002頁相同位置亦有倒向淡跡，似西文字；待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "front_endpapers"
+    },
+    {
+      "image": 27,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=27",
+      "sha256": "8f1092fc3ab17b1ec1048f79b01ef787eaa807becee4ade6bc16de10a04f2700",
+      "scan_width": 772,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f027-L-09",
+          "surface_text": "",
+          "note": "「煨脾」及末字待核。"
+        },
+        {
+          "unit_id": "f027-L-10",
+          "char_offset_0based": 1,
+          "surface_text": "〔寒〕"
+        },
+        {
+          "unit_id": "f027-L-seal-01",
+          "surface_text": "",
+          "note": "章法及印文待覆，灰色數位館徽另有。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 28,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=28",
+      "sha256": "67edefee7ca98ba03d6ad2d8919da94c9966b3c8e290403bc74ea10915db598f",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f028-R-01",
+          "surface_text": "",
+          "note": "首字與「二」待核。"
+        },
+        {
+          "unit_id": "f028-R-04",
+          "surface_text": "",
+          "note": "三字淡。"
+        },
+        {
+          "unit_id": "f028-L-08",
+          "surface_text": "",
+          "note": "末藥待核。"
+        },
+        {
+          "unit_id": "f028-L-09",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f028-L-09",
+          "surface_text": "",
+          "note": "短稱謂待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 29,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=29",
+      "sha256": "a1173e7f3853c5ad188588f4ed8f89fd2bd9fe71cd87287496a61273768fa2f6",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f029-R-09",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-R-10",
+          "surface_text": "",
+          "note": "首兩字待核。"
+        },
+        {
+          "unit_id": "f029-R-11",
+          "char_offset_0based": 12,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-R-11",
+          "char_offset_0based": 21,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-L-01",
+          "char_offset_0based": 4,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-L-01",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-L-02",
+          "char_offset_0based": 1,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f029-L-09",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f029-L-annotation-01",
+          "char_offset_0based": 6,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f029-L-annotation-01",
+          "surface_text": "",
+          "note": "細筆另成一列，待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 30,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=30",
+      "sha256": "8402389d7737e56efe3bccae7108dea8286b3193a6ff1a164934b35643fe9caa",
+      "scan_width": 778,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f030-R-01",
+          "surface_text": "",
+          "note": "尾字及是否抬頭另記待核。"
+        },
+        {
+          "unit_id": "f030-R-03",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 31,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=31",
+      "sha256": "a2b1c4aad94d8cca9498f5cd9e1f6f3bca11c55b367e504e74f9f344c1b2a976",
+      "scan_width": 777,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f031-R-01",
+          "surface_text": "",
+          "note": "起筆居本面偏中。"
+        },
+        {
+          "unit_id": "f031-R-02",
+          "surface_text": "",
+          "note": "「何丈夫」和參名待覆。"
+        },
+        {
+          "unit_id": "f031-L-02",
+          "surface_text": "",
+          "note": "「茴茹」「畢」待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 32,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=32",
+      "sha256": "732ac647b7bdbe581c91914aba49b4c30c2a1c434d395f011a43663c48271df0",
+      "scan_width": 777,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f032-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔脈不知〕"
+        },
+        {
+          "unit_id": "f032-R-annotation-01",
+          "char_offset_0based": 5,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f032-R-annotation-01",
+          "char_offset_0based": 8,
+          "surface_text": "〔此方〕"
+        },
+        {
+          "unit_id": "f032-R-annotation-01",
+          "char_offset_0based": 12,
+          "surface_text": "□□□□"
+        },
+        {
+          "unit_id": "f032-R-annotation-01",
+          "surface_text": "",
+          "note": "約在全幅 x75%、y47%，兩列先後與字形待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 33,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=33",
+      "sha256": "5d24d95c711dd52a21a4eeeb4669462ca886a742fa0ba77241821bd2da7b6676",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f033-L-03",
+          "surface_text": "",
+          "note": "此欄中下小寫待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 34,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=34",
+      "sha256": "078f8b43f0b2365dcd141a3a300a506151b0b6b4089a331a3caf2dd487ec3771",
+      "scan_width": 774,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f034-R-08",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f034-L-09",
+          "char_offset_0based": 0,
+          "surface_text": "〔尹〕"
+        },
+        {
+          "unit_id": "f034-L-09",
+          "surface_text": "",
+          "note": "姓氏待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 35,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=35",
+      "sha256": "f3a52ee5c91e3e4f6785d9f13e9ef76b1b4ac1445f8bf57f11bb98fa68aeb0bf",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 36,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=36",
+      "sha256": "2f8bd63d472d08604e79743c4cc72be6d17d07ece6eb8ed10ce707b40d827be3",
+      "scan_width": 772,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f036-R-01",
+          "surface_text": "",
+          "note": "承上幅方末，小字劑量待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 37,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=37",
+      "sha256": "c1737d41c23b8d084ca29444feee63af78f9da0965053745c17e055281fe8fa8",
+      "scan_width": 771,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f037-L-04",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f037-L-05",
+          "char_offset_0based": 11,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 38,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=38",
+      "sha256": "22d890cbf53aaa5871489d2df606b1eac420220a040e409aed6ca438436c332a",
+      "scan_width": 773,
+      "scan_height": 536,
+      "uncertainty": [
+        {
+          "unit_id": "f038-R-01",
+          "surface_text": "",
+          "note": "孤欄起筆較低，接上幅方。"
+        },
+        {
+          "unit_id": "f038-R-06",
+          "surface_text": "",
+          "note": "欄首較低。"
+        },
+        {
+          "unit_id": "f038-L-10",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 39,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=39",
+      "sha256": "55f077bbcbf0e0a3ea5f5ac37586f3348b82c42c97eb6fb7fc4607d6aa5406a1",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f039-L-09",
+          "char_offset_0based": 9,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f039-L-12",
+          "surface_text": "",
+          "note": "前兩筆與方名待核。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 40,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=40",
+      "sha256": "f64693c9537a99f6024ce9c86cb541c072d53ae65ef5033b1fc7194ca5c16ca3",
+      "scan_width": 769,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f040-L-02",
+          "surface_text": "",
+          "note": "欄中另起小寫。"
+        },
+        {
+          "unit_id": "f040-L-07",
+          "char_offset_0based": 10,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 41,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=41",
+      "sha256": "37b269f69844acec0f9bb28ada1d34cf29896170588bb7bae51775e311e4bbc3",
+      "scan_width": 770,
+      "scan_height": 529,
+      "uncertainty": [
+        {
+          "unit_id": "f041-R-12",
+          "surface_text": "",
+          "note": "本欄起在面中偏下。"
+        },
+        {
+          "unit_id": "f041-L-09",
+          "surface_text": "",
+          "note": "本欄較低。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 42,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=42",
+      "sha256": "b82bbccb4ab1598078accad46db4f2c1236f3d3fa45cf253f322c93b7c83b3ca",
+      "scan_width": 771,
+      "scan_height": 529,
+      "uncertainty": [
+        {
+          "unit_id": "f042-R-05",
+          "surface_text": "",
+          "note": "欄起較低，中部淡。"
+        }
+      ],
+      "physical_volume_order": 2,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 43,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=43",
+      "sha256": "4de72989302b2ad99e7ef6c9733bed8f51387b0612724892301dfb18d27e4e92",
+      "scan_width": 770,
+      "scan_height": 529,
+      "uncertainty": [],
+      "physical_volume_order": 2,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 44,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=44",
+      "sha256": "08cb303076e9eafeece2c996ef8f068d2ea4bb85667a322a750662cdd9c988a4",
+      "scan_width": 498,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 2,
+      "frame_type": "back_cover"
+    },
+    {
+      "image": 45,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=45",
+      "sha256": "ca1333dd5d21dc11fd3572f2a82efb3b8216c13dbf43d80f80bb7e3d7adb1eaf",
+      "scan_width": 506,
+      "scan_height": 531,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 46,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=46",
+      "sha256": "27310e8bec5af627848e7f0ef32cef9fbf2b0b20ed783073e233bd2c4e2aa82a",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f046-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔347798〕"
+        },
+        {
+          "unit_id": "f046-L-annotation-01",
+          "surface_text": "",
+          "note": "放大可辨 v.3，前組數字暫讀。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "front_endpapers"
+    },
+    {
+      "image": 47,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=47",
+      "sha256": "92b970c71a6d01a7ffdcbd5977094874fc4794187f953e086ab65f64f360403a",
+      "scan_width": 779,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f047-L-03",
+          "surface_text": "",
+          "note": "欄起偏低。"
+        },
+        {
+          "unit_id": "f047-L-seal-01",
+          "surface_text": "",
+          "note": "印文待辨。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 48,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=48",
+      "sha256": "1493c2978ac74610aea57ea56f8982ebc0f8281e12e63a207c7727483bbb1b00",
+      "scan_width": 778,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f048-L-04",
+          "surface_text": "",
+          "note": "短欄起中段。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 49,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=49",
+      "sha256": "08efd2eb0e3da473696b3667a8d606a36fc48f1ac59a244b751dce172cb05986",
+      "scan_width": 777,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f049-L-04",
+          "surface_text": "",
+          "note": "短欄比兩旁略低。"
+        },
+        {
+          "unit_id": "f049-L-12",
+          "surface_text": "",
+          "note": "本欄偏低小寫。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 50,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=50",
+      "sha256": "95aca4716e4f74da49fb27cf6d8ce8e3ea0b9232c43c857c8dc98d39b96efb77",
+      "scan_width": 778,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f050-R-08",
+          "surface_text": "",
+          "note": "量字較小。"
+        },
+        {
+          "unit_id": "f050-L-01",
+          "surface_text": "",
+          "note": "下旁小字待核。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 51,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=51",
+      "sha256": "e0268341e62cc616a2629fa04d573a94ad8d134aa2439aabc88792f09772428d",
+      "scan_width": 778,
+      "scan_height": 533,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 52,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=52",
+      "sha256": "3028ecd4fe0ab4008a86f0d4ced73fadb7e52fb01a56f2ac94951bcf4a7bf427",
+      "scan_width": 778,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f052-L-09",
+          "surface_text": "",
+          "note": "落筆低於旁欄。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 53,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=53",
+      "sha256": "b5a488b90b8eef6f3f7c06b85b05ecae79657c5967540c0d7ea89a0be33304d9",
+      "scan_width": 778,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f053-R-04",
+          "surface_text": "",
+          "note": "末兩筆淡。"
+        },
+        {
+          "unit_id": "f053-R-07",
+          "char_offset_0based": 3,
+          "surface_text": "〔十二〕"
+        },
+        {
+          "unit_id": "f053-R-07",
+          "surface_text": "",
+          "note": "日數「十二」待覆。"
+        },
+        {
+          "unit_id": "f053-L-06",
+          "surface_text": "",
+          "note": "欄尾有小字，在下注。"
+        },
+        {
+          "unit_id": "f053-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔如咳〕"
+        },
+        {
+          "unit_id": "f053-L-annotation-01",
+          "surface_text": "",
+          "note": "語序及左側兩字待核。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 54,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=54",
+      "sha256": "69e6bebbb3c806ca1cad7fcea8dcf43a42824508e242bbe54a1976e185b2cc33",
+      "scan_width": 777,
+      "scan_height": 531,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 55,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=55",
+      "sha256": "3c61d6ca18f59a894ed66be3c814ac578f299e0878288f052807c1c26dbb9678",
+      "scan_width": 778,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f055-R-08",
+          "char_offset_0based": 14,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f055-L-06",
+          "surface_text": "",
+          "note": "本欄較低。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 56,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=56",
+      "sha256": "67370fec638ddb699ec46a8b7f752634fda254a62beaef294e221006c247275f",
+      "scan_width": 777,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f056-R-05",
+          "surface_text": "",
+          "note": "欄起偏低。"
+        },
+        {
+          "unit_id": "f056-L-03",
+          "char_offset_0based": 0,
+          "surface_text": "〔次〕"
+        },
+        {
+          "unit_id": "f056-L-03",
+          "surface_text": "",
+          "note": "日期首字形暫讀。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 57,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=57",
+      "sha256": "4d42b6cb2bde371eb5a85735b52a162f24e5d861ce1e1bd373c1db03bfc6b86c",
+      "scan_width": 777,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f057-R-11",
+          "char_offset_0based": 1,
+          "surface_text": "〔外〕"
+        },
+        {
+          "unit_id": "f057-R-11",
+          "surface_text": "",
+          "note": "末欄短筆，下連左面。第二字待核。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 58,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=58",
+      "sha256": "259fb2d9415076724f1fd7858686636dd36ca941f2d274b3e50d37fbde2f12c9",
+      "scan_width": 775,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 59,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=59",
+      "sha256": "fd5eacf7876d51a3b4b7c9d1749cd3366f116cbfabbb8f7190beb6bfbad053ba",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 60,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=60",
+      "sha256": "fe39139349c2b3531f38e1822e58ddaf63f2556703ea6b7c2e8d74adc9847959",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 61,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=61",
+      "sha256": "3fe45121cb17de3d1fde270cbdb94104f0bf84faa59751a98b3f14db86a3abe5",
+      "scan_width": 769,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f061-R-02",
+          "char_offset_0based": 1,
+          "surface_text": "〔庚辰〕"
+        },
+        {
+          "unit_id": "f061-R-02",
+          "surface_text": "",
+          "note": "干支「庚辰」暫讀。"
+        },
+        {
+          "unit_id": "f061-R-12",
+          "surface_text": "",
+          "note": "短欄起中段。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 62,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=62",
+      "sha256": "75eeafdb6ba0777fbb9f6b3506dfbb30dc9e0362a51574079e6f96223875096b",
+      "scan_width": 771,
+      "scan_height": 531,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 63,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=63",
+      "sha256": "4a7e64e0870d64af7831149aa9110342f4d68da15d8408f0cf00836f32ec6528",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f063-R-11",
+          "surface_text": "",
+          "note": "欄起中段。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 64,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=64",
+      "sha256": "ba296344f2090320a85cff551a2b2654371ef3114479b52f34a9f100c6e96274",
+      "scan_width": 770,
+      "scan_height": 529,
+      "uncertainty": [
+        {
+          "unit_id": "f064-R-01",
+          "surface_text": "",
+          "note": "「左」後留空，以下仍在同一欄。"
+        },
+        {
+          "unit_id": "f064-L-01",
+          "char_offset_0based": 4,
+          "surface_text": "〔一〕"
+        },
+        {
+          "unit_id": "f064-L-01",
+          "surface_text": "",
+          "note": "「十」後小橫待核。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 65,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=65",
+      "sha256": "e669e84f188580961d157a7393f42a8e7d5f38d2388e517aece008f896d02bd6",
+      "scan_width": 767,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f065-R-10",
+          "char_offset_0based": 8,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f065-R-10",
+          "char_offset_0based": 21,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f065-R-11",
+          "char_offset_0based": 17,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f065-R-12",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f065-L-08",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f065-L-08",
+          "char_offset_0based": 19,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f065-L-10",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f065-L-10",
+          "surface_text": "",
+          "note": "末字待核。"
+        },
+        {
+          "unit_id": "f065-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔紅糖炒〕"
+        },
+        {
+          "unit_id": "f065-R-annotation-01",
+          "surface_text": "",
+          "note": "三字筆畫短細，暫讀。"
+        },
+        {
+          "unit_id": "f065-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔取鮮汁〕"
+        },
+        {
+          "unit_id": "f065-L-annotation-01",
+          "surface_text": "",
+          "note": "淡小三字暫讀。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 66,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=66",
+      "sha256": "ba70dfc8502560ec48f1982f9f49b94af556d9f53d15deb35a292d69bfdcf0ab",
+      "scan_width": 770,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f066-R-01",
+          "char_offset_0based": 5,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f066-R-08",
+          "char_offset_0based": 3,
+          "surface_text": "〔苦〕"
+        },
+        {
+          "unit_id": "f066-R-09",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f066-R-09",
+          "surface_text": "",
+          "note": "中段墨淡，與灰色館徽、紅水印重疊。"
+        },
+        {
+          "unit_id": "f066-L-09",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f066-R-annotation-01",
+          "surface_text": "",
+          "note": "筆淡，「淡」暫讀。"
+        },
+        {
+          "unit_id": "f066-R-annotation-02",
+          "char_offset_0based": 3,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f066-R-annotation-02",
+          "surface_text": "",
+          "note": "中段字形待核。"
+        },
+        {
+          "unit_id": "f066-R-annotation-03",
+          "char_offset_0based": 0,
+          "surface_text": "〔淡鹽水煮去腥〕"
+        },
+        {
+          "unit_id": "f066-R-annotation-03",
+          "surface_text": "",
+          "note": "連筆與層次待核。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 67,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=67",
+      "sha256": "b2ff5dcfcf3cbff7c52ee45508820211c72033823ca8b997dc61b91001279388",
+      "scan_width": 769,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f067-R-03",
+          "char_offset_0based": 13,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f067-R-12",
+          "char_offset_0based": 9,
+          "surface_text": "〔煎〕"
+        },
+        {
+          "unit_id": "f067-R-12",
+          "surface_text": "",
+          "note": "「白蜜」下半欄筆互黏，末字似「遍」。"
+        }
+      ],
+      "physical_volume_order": 3,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 68,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=68",
+      "sha256": "b7c9578abadc1aef670f5705b746494cc7a08d74354cfc7052f2bca5c266c187",
+      "scan_width": 501,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 3,
+      "frame_type": "back_cover"
+    },
+    {
+      "image": 69,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=69",
+      "sha256": "ae219e5a72ebb1921a0f69dc663390fcf720d5873093587966b90849d4f94d30",
+      "scan_width": 507,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 4,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 70,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=70",
+      "sha256": "61f639d29ebf91b42763d097d8b19f9569dcc2952c37bb152aa0b8a960243987",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f070-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔347799〕"
+        },
+        {
+          "unit_id": "f070-L-annotation-01",
+          "surface_text": "",
+          "note": "放大可辨 v.4，前組數字暫讀，可與第三冊襯葉對看。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "front_endpapers"
+    },
+    {
+      "image": 71,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=71",
+      "sha256": "3857d0c0bf4c79138bf2ee87f0bdf7b18c4a6bfc6581f1b45bbb05c2b2889e83",
+      "scan_width": 778,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f071-L-01",
+          "char_offset_0based": 2,
+          "surface_text": "〔羅〕"
+        },
+        {
+          "unit_id": "f071-L-01",
+          "surface_text": "",
+          "note": "中縫旁抬頭，「羅」暫讀。"
+        },
+        {
+          "unit_id": "f071-L-09",
+          "surface_text": "",
+          "note": "兩味連筆，後味待核。"
+        },
+        {
+          "unit_id": "f071-L-seal-01",
+          "surface_text": "",
+          "note": "淡朱文方印，印文待辨。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 72,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=72",
+      "sha256": "1bf54b3c11d54d0363c7e9409e05b191f6b9e08b8855c6fb16810d22f98ac878",
+      "scan_width": 776,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f072-R-03",
+          "surface_text": "",
+          "note": "天冬下方夾字及末字難辨。"
+        },
+        {
+          "unit_id": "f072-R-05",
+          "surface_text": "",
+          "note": "欄由中部起寫。"
+        },
+        {
+          "unit_id": "f072-R-11",
+          "surface_text": "",
+          "note": "欄由中部起寫。"
+        },
+        {
+          "unit_id": "f072-L-annotation-01",
+          "char_offset_0based": 11,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f072-L-annotation-01",
+          "surface_text": "",
+          "note": "細字位於主欄左旁，有黏筆。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 73,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=73",
+      "sha256": "9424830c447e54206e3901e02c33cd4898e2bbaf5cfd381c4e870504df536291",
+      "scan_width": 780,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f073-R-03",
+          "char_offset_0based": 5,
+          "surface_text": "〔仲四〕"
+        },
+        {
+          "unit_id": "f073-R-03",
+          "surface_text": "",
+          "note": "人名或地名及末小字暫讀。"
+        },
+        {
+          "unit_id": "f073-L-08",
+          "surface_text": "",
+          "note": "較低起。"
+        },
+        {
+          "unit_id": "f073-L-09",
+          "surface_text": "",
+          "note": "題稱人名連筆暫讀。"
+        },
+        {
+          "unit_id": "f073-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔新山川楊花法〕"
+        },
+        {
+          "unit_id": "f073-R-annotation-01",
+          "surface_text": "",
+          "note": "細書墨薄，暫讀。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 74,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=74",
+      "sha256": "4da0ebe2fd8c54bef35ab54be8fc9a819aa45d7e9e2fed06ab382104392b7a36",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f074-R-10",
+          "char_offset_0based": 2,
+          "surface_text": "□"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 75,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=75",
+      "sha256": "c28d0b34be745d50de7e4ef0ef76606ca06a7b42afd7384ad93d20800c086430",
+      "scan_width": 774,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f075-R-03",
+          "surface_text": "",
+          "note": "中部起。"
+        },
+        {
+          "unit_id": "f075-R-05",
+          "char_offset_0based": 7,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f075-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "□"
+        },
+        {
+          "unit_id": "f075-L-annotation-01",
+          "surface_text": "",
+          "note": "前字筆畫不完。"
+        },
+        {
+          "unit_id": "f075-L-annotation-02",
+          "surface_text": "",
+          "note": "暫讀，分行待核。"
+        },
+        {
+          "unit_id": "f075-L-annotation-03",
+          "char_offset_0based": 4,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f075-L-annotation-03",
+          "surface_text": "",
+          "note": "細字墨淡，層次待核。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 76,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=76",
+      "sha256": "16b2aff3f82dad10ae0ceab7a21e5766b3486c1b316cb32447fcad2b1dc511d0",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f076-R-04",
+          "surface_text": "",
+          "note": "枸杞下留空，續文起於欄身偏左。"
+        },
+        {
+          "unit_id": "f076-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔研末〕"
+        },
+        {
+          "unit_id": "f076-R-annotation-01",
+          "surface_text": "",
+          "note": "細字暫讀。"
+        },
+        {
+          "unit_id": "f076-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔明三〕"
+        },
+        {
+          "unit_id": "f076-L-annotation-01",
+          "surface_text": "",
+          "note": "位於稱位下，暫讀。"
+        },
+        {
+          "unit_id": "f076-L-annotation-02",
+          "surface_text": "",
+          "note": "兩字偏低。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 77,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=77",
+      "sha256": "086ff8ee79c0abcbb930b3a1bc7a24029c63cdd659fd313d8b1a3c4ae612d49e",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f077-R-09",
+          "surface_text": "",
+          "note": "「左」下第二字可辨似九。"
+        },
+        {
+          "unit_id": "f077-L-03",
+          "surface_text": "",
+          "note": "居中始書。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 78,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=78",
+      "sha256": "0190aea222c9b7cc10da2ebe7f933cbf3ab1e1a95742849156b5f75958bef69a",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f078-R-01",
+          "surface_text": "",
+          "note": "復診二字與下文間留空。"
+        },
+        {
+          "unit_id": "f078-R-09",
+          "surface_text": "",
+          "note": "偏低起。"
+        },
+        {
+          "unit_id": "f078-L-03",
+          "surface_text": "",
+          "note": "中段起。"
+        },
+        {
+          "unit_id": "f078-L-09",
+          "surface_text": "",
+          "note": "短欄較低起。"
+        },
+        {
+          "unit_id": "f078-L-12",
+          "surface_text": "",
+          "note": "詞形連筆，後三字暫讀。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 79,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=79",
+      "sha256": "f1eaa0b1a7cba77075c99a0d0313c63a9e4c12880ab0532025ce5f1bfa7ce1bc",
+      "scan_width": 772,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 80,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=80",
+      "sha256": "f9de5ebbfd843340e036ab2a62c88164ec932578f5fbc1ab7d9c6dd304b9c59f",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f080-R-02",
+          "surface_text": "",
+          "note": "低起。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 81,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=81",
+      "sha256": "d174b7c27308321944f30fa5a33126953312ebe755bebec16ca3cd61542694eb",
+      "scan_width": 772,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f081-R-annotation-01",
+          "surface_text": "",
+          "note": "字細，末字待核。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 82,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=82",
+      "sha256": "deef0ec6e7660856f46a18213b604bef0d7780b8de980f011ed385f1756922b8",
+      "scan_width": 772,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f082-R-08",
+          "surface_text": "",
+          "note": "位置在欄中段。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 83,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=83",
+      "sha256": "a7364dbef3fac7e22a731358e66db4076572e85b719191cbef3238b388a97655",
+      "scan_width": 770,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f083-R-08",
+          "surface_text": "",
+          "note": "欄中偏低。"
+        },
+        {
+          "unit_id": "f083-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔再淡後〕"
+        },
+        {
+          "unit_id": "f083-R-annotation-01",
+          "surface_text": "",
+          "note": "字小連筆。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 84,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=84",
+      "sha256": "49e1619502e3781e3b2a6a8c7e423801eaaac034c6703189352f1f0e2f4d6b55",
+      "scan_width": 770,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f084-R-03",
+          "surface_text": "",
+          "note": "中段始書。"
+        },
+        {
+          "unit_id": "f084-R-09",
+          "surface_text": "",
+          "note": "旁細字可見。"
+        },
+        {
+          "unit_id": "f084-L-05",
+          "surface_text": "",
+          "note": "中段起。"
+        },
+        {
+          "unit_id": "f084-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔九制晾乾〕"
+        },
+        {
+          "unit_id": "f084-R-annotation-01",
+          "surface_text": "",
+          "note": "分列與讀法待核。"
+        },
+        {
+          "unit_id": "f084-R-annotation-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔入乳蒸煮〕"
+        },
+        {
+          "unit_id": "f084-R-annotation-02",
+          "char_offset_0based": 6,
+          "surface_text": "〔炒熟〕"
+        },
+        {
+          "unit_id": "f084-R-annotation-02",
+          "surface_text": "",
+          "note": "兩處連筆待核。"
+        },
+        {
+          "unit_id": "f084-R-annotation-03",
+          "surface_text": "",
+          "note": "首二字暫讀。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 85,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=85",
+      "sha256": "f1ed4cbc48e37102f0c50398ac4545969b0bc4bdc469570be16ce90ae75ed512",
+      "scan_width": 771,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f085-R-05",
+          "surface_text": "",
+          "note": "偏低起。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 86,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=86",
+      "sha256": "463d5cfbe086745c11cd55f56500293bcb2d078743f0dc1e1772ef7cef46baef",
+      "scan_width": 768,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f086-R-annotation-01",
+          "surface_text": "",
+          "note": "短小兩字。"
+        },
+        {
+          "unit_id": "f086-R-annotation-02",
+          "surface_text": "",
+          "note": "墨跡黏結，暫讀。"
+        },
+        {
+          "unit_id": "f086-R-annotation-03",
+          "surface_text": "",
+          "note": "三字縮寫。"
+        },
+        {
+          "unit_id": "f086-R-annotation-04",
+          "surface_text": "",
+          "note": "細字暫讀。"
+        }
+      ],
+      "physical_volume_order": 4,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 87,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=87",
+      "sha256": "42c2cd4f29b2e43e17bd829521efd2f24401387e8ce1077680e2566135436caa",
+      "scan_width": 767,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 4,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 88,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=88",
+      "sha256": "2542e76c463621d26afd4f51f11fd91a5064636febf6d094f5756814101bce28",
+      "scan_width": 506,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 4,
+      "frame_type": "back_cover"
+    },
+    {
+      "image": 89,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=89",
+      "sha256": "10ca042932f714d5cfc76356e492f4b5b7e25b08f4b3fbf6887f524267e711f6",
+      "scan_width": 504,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 5,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 90,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=90",
+      "sha256": "b12b38ca4104f07c18eb6ffdc889e9acc35c43ffdbf937d2448a7bbbbbfb7812",
+      "scan_width": 774,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f090-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔347800〕"
+        },
+        {
+          "unit_id": "f090-L-annotation-01",
+          "surface_text": "",
+          "note": "淡色橫書，v.5 可辨；前組數字暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "front_endpapers"
+    },
+    {
+      "image": 91,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=91",
+      "sha256": "0b732c975f841f0e94bc12df75f2ab3c2e3748e61ca56fc71c8de199eeeed8df",
+      "scan_width": 779,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f091-L-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔臂痛藥〕"
+        },
+        {
+          "unit_id": "f091-L-01",
+          "surface_text": "",
+          "note": "欄頭近縫，首三字漫漶暫讀。"
+        },
+        {
+          "unit_id": "f091-L-seal-01",
+          "surface_text": "",
+          "note": "淡朱文方印與正文近，印文待辨。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 92,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=92",
+      "sha256": "4dab56326fea23ed325cb1a065d4e16011194a8feb1b956d30b9cf50399d77a5",
+      "scan_width": 777,
+      "scan_height": 535,
+      "uncertainty": [],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 93,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=93",
+      "sha256": "d8206efbcc2a2f3c59ebf960f992c5a815c69419c3f31c86a81527e498edb5b4",
+      "scan_width": 777,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f093-R-09",
+          "surface_text": "",
+          "note": "中段起筆，前有痕似逗。"
+        },
+        {
+          "unit_id": "f093-L-01",
+          "surface_text": "",
+          "note": "抬首，前三字待核。"
+        },
+        {
+          "unit_id": "f093-L-annotation-01",
+          "surface_text": "",
+          "note": "連筆暫讀。"
+        },
+        {
+          "unit_id": "f093-L-annotation-02",
+          "surface_text": "",
+          "note": "暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 94,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=94",
+      "sha256": "dd3180a9c0f90ba40d8bb86e210464e7408976cd915627a52ce2b453d891e810",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f094-R-annotation-01",
+          "surface_text": "",
+          "note": "小字連筆暫讀。"
+        },
+        {
+          "unit_id": "f094-R-annotation-02",
+          "surface_text": "",
+          "note": "插入位置及部分字待核。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 95,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=95",
+      "sha256": "5cd9d6b44fc6728e767643603da785d651d301b3bd9633e31428825714d3918e",
+      "scan_width": 777,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f095-R-annotation-01",
+          "surface_text": "",
+          "note": "分屬兩處，字形待核。"
+        },
+        {
+          "unit_id": "f095-R-annotation-02",
+          "surface_text": "",
+          "note": "末字與主字黏筆。"
+        },
+        {
+          "unit_id": "f095-R-annotation-03",
+          "surface_text": "",
+          "note": "暫讀。"
+        },
+        {
+          "unit_id": "f095-R-annotation-04",
+          "char_offset_0based": 0,
+          "surface_text": "〔炒熟〕"
+        },
+        {
+          "unit_id": "f095-R-annotation-04",
+          "char_offset_0based": 4,
+          "surface_text": "〔炒〕"
+        },
+        {
+          "unit_id": "f095-R-annotation-04",
+          "surface_text": "",
+          "note": "細部互疊，暫讀。"
+        },
+        {
+          "unit_id": "f095-R-annotation-05",
+          "char_offset_0based": 0,
+          "surface_text": "〔炒粉〕"
+        },
+        {
+          "unit_id": "f095-R-annotation-05",
+          "surface_text": "",
+          "note": "墨細。"
+        },
+        {
+          "unit_id": "f095-L-annotation-01",
+          "surface_text": "",
+          "note": "直寫小字暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 96,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=96",
+      "sha256": "1285383a3c46c0cc9ee328a0192e114f28440795a26439676e01cd706e20f11b",
+      "scan_width": 776,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f096-R-03",
+          "surface_text": "",
+          "note": "欄起中間偏下。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 97,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=97",
+      "sha256": "60b619c3cac8b208eda9a6f47e0e19a07ea16d3fec2c96b3f06abb4762182953",
+      "scan_width": 776,
+      "scan_height": 533,
+      "uncertainty": [
+        {
+          "unit_id": "f097-R-02",
+          "surface_text": "",
+          "note": "低起，前有細記。"
+        },
+        {
+          "unit_id": "f097-R-11",
+          "surface_text": "",
+          "note": "由中段起。"
+        },
+        {
+          "unit_id": "f097-R-annotation-01",
+          "char_offset_0based": 2,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f097-R-annotation-01",
+          "surface_text": "",
+          "note": "筆畫微弱。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 98,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=98",
+      "sha256": "d9a6840982adf568ac538f44cab6f352f21b49dc4e5ecd8537ebf47b016d91f1",
+      "scan_width": 777,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f098-L-01",
+          "surface_text": "",
+          "note": "末二字暫讀。"
+        },
+        {
+          "unit_id": "f098-R-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔勿作〕"
+        },
+        {
+          "unit_id": "f098-R-annotation-01",
+          "surface_text": "",
+          "note": "小字暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 99,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=99",
+      "sha256": "0a83cad0f73ee68fd4e2e3af0d2af6a758defdc94cba317f655aa92d08808dd6",
+      "scan_width": 776,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f099-R-04",
+          "surface_text": "",
+          "note": "居中起。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 100,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=100",
+      "sha256": "905479407e80616b313960f518e0579cde28d86ea79ba4e12c9ddb2f36062e82",
+      "scan_width": 776,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f100-L-12",
+          "surface_text": "",
+          "note": "起自中段，後數字較細。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 101,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=101",
+      "sha256": "8878fb111f85a95943d7e7018e37231099fc641da523cb8344ee6b847377564a",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f101-R-06",
+          "surface_text": "",
+          "note": "姓名第二字暫讀。"
+        },
+        {
+          "unit_id": "f101-L-01",
+          "surface_text": "",
+          "note": "末稱分兩級，姓氏暫讀。"
+        },
+        {
+          "unit_id": "f101-L-05",
+          "char_offset_0based": 13,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f101-L-09",
+          "surface_text": "",
+          "note": "中段起。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 102,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=102",
+      "sha256": "6bbadbdd9598f89bab7205f5afccc1f3e163bb477f55b33e691b3e44b54a0df5",
+      "scan_width": 776,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f102-R-11",
+          "surface_text": "",
+          "note": "中段起。"
+        },
+        {
+          "unit_id": "f102-R-12",
+          "surface_text": "",
+          "note": "中段起。"
+        },
+        {
+          "unit_id": "f102-L-01",
+          "surface_text": "",
+          "note": "一字近縫，左面最右緣。"
+        },
+        {
+          "unit_id": "f102-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔茯神〕"
+        },
+        {
+          "unit_id": "f102-L-annotation-01",
+          "surface_text": "",
+          "note": "可能是並列藥名或夾入，暫列側小字。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 103,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=103",
+      "sha256": "d858625232f1cafb45c3ca409c2dfb6523408aec7738caf5f60db98431c8ba69",
+      "scan_width": 775,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f103-R-05",
+          "surface_text": "",
+          "note": "稍低起。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 104,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=104",
+      "sha256": "ba0dfcb610243bc5d97ae1eea38bb340874824d0f70d3ebed38f1fa606160439",
+      "scan_width": 776,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f104-L-05",
+          "char_offset_0based": 7,
+          "surface_text": "□□"
+        },
+        {
+          "unit_id": "f104-L-05",
+          "surface_text": "",
+          "note": "中部有白色破斑，缺字待回圖。"
+        },
+        {
+          "unit_id": "f104-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔炒熟〕"
+        },
+        {
+          "unit_id": "f104-L-annotation-01",
+          "surface_text": "",
+          "note": "墨跡混紙面裂損，暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 105,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=105",
+      "sha256": "45066ee01843491bc9b5bd076251d92a4ce0a41eda828b435a9953c527c34bfe",
+      "scan_width": 776,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f105-R-04",
+          "surface_text": "",
+          "note": "欄由中部起書。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 106,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=106",
+      "sha256": "ae75a848aac875b45a1b078cf0e87f4a364e927dd098d2bfdabc10498a9aebb5",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f106-R-07",
+          "surface_text": "",
+          "note": "末是否稱謂字待核。"
+        },
+        {
+          "unit_id": "f106-L-01",
+          "surface_text": "",
+          "note": "「之林」暫讀。"
+        },
+        {
+          "unit_id": "f106-R-annotation-01",
+          "surface_text": "",
+          "note": "墨色較淡。"
+        },
+        {
+          "unit_id": "f106-R-annotation-02",
+          "surface_text": "",
+          "note": "藥名小字待核。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 107,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=107",
+      "sha256": "ff4bf8874ab0b2fdae6e9e8077b52dbf983d348beaeed89cc95149e1b7966f73",
+      "scan_width": 768,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 108,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=108",
+      "sha256": "aef56098ecc1be9e33ff0d863e700d7af2b736ade7eddf2b0e364750ef4d5991",
+      "scan_width": 771,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f108-R-01",
+          "surface_text": "",
+          "note": "首三字暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 109,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=109",
+      "sha256": "01a0677db6e78f49e4186c4dd3871bf4172c2f876fd2ff8416eb34345e309344",
+      "scan_width": 768,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 110,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=110",
+      "sha256": "57286f5b2bbb910d39ba55ae6fdb3d6d061c85667598ca1ffeb368d502c97a0a",
+      "scan_width": 771,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f110-R-annotation-01",
+          "surface_text": "",
+          "note": "細筆暫讀。"
+        },
+        {
+          "unit_id": "f110-R-annotation-02",
+          "surface_text": "",
+          "note": "末筆與主文相近。"
+        },
+        {
+          "unit_id": "f110-R-annotation-03",
+          "surface_text": "",
+          "note": "暫讀，末字待核。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 111,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=111",
+      "sha256": "74a8edd5eaef0c6ffe545b2aac2a6e6bb1a9b40d67e16435dd568a4047aef81c",
+      "scan_width": 770,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f111-R-06",
+          "surface_text": "",
+          "note": "中段起筆。"
+        },
+        {
+          "unit_id": "f111-R-07",
+          "surface_text": "",
+          "note": "姓暫讀。"
+        }
+      ],
+      "physical_volume_order": 5,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 112,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=112",
+      "sha256": "3704f40c3783b0a1ea31eccb50de613fe136305cef3e6f9e7eb91765dd9e312e",
+      "scan_width": 500,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 5,
+      "frame_type": "back_cover"
+    },
+    {
+      "image": 113,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=113",
+      "sha256": "0f95c2b71226b4f208bd6577fdb91d0f75c341b4c260662078444eeba4d432a9",
+      "scan_width": 503,
+      "scan_height": 528,
+      "uncertainty": [],
+      "physical_volume_order": 6,
+      "frame_type": "front_cover"
+    },
+    {
+      "image": 114,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=114",
+      "sha256": "1e13ae4c4abbc0678dd41abc7daf1e75137ea1f8112af84636d195a0bdb3e43f",
+      "scan_width": 775,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f114-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔347801〕"
+        },
+        {
+          "unit_id": "f114-L-annotation-01",
+          "surface_text": "",
+          "note": "淡色橫書，可辨 v.6；前組數字暫讀。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "front_endpapers"
+    },
+    {
+      "image": 115,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=115",
+      "sha256": "3540954bed16b366ace323b523d5b46fabdffb418032ddb2b830b70ece24db2c",
+      "scan_width": 776,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f115-L-01",
+          "char_offset_0based": 3,
+          "surface_text": "〔越芳頁〕"
+        },
+        {
+          "unit_id": "f115-L-01",
+          "surface_text": "",
+          "note": "近縫抬首。地域及姓氏可辨，後三字暫讀。"
+        },
+        {
+          "unit_id": "f115-L-annotation-01",
+          "surface_text": "",
+          "note": "筆跡偏小，末字暫讀。"
+        },
+        {
+          "unit_id": "f115-L-seal-01",
+          "surface_text": "",
+          "note": "淡朱色小方篆印，印文待辨。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_opening"
+    },
+    {
+      "image": 116,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=116",
+      "sha256": "33395f5ec783c7768f2dbdda76d501a062497f6ce483c209b445975821c3c39f",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f116-L-01",
+          "surface_text": "",
+          "note": "欄在右側中段起。"
+        },
+        {
+          "unit_id": "f116-L-02",
+          "surface_text": "",
+          "note": "下有小字。"
+        },
+        {
+          "unit_id": "f116-L-09",
+          "surface_text": "",
+          "note": "中段始書。"
+        },
+        {
+          "unit_id": "f116-L-annotation-01",
+          "surface_text": "",
+          "note": "筆色較淡。"
+        },
+        {
+          "unit_id": "f116-L-annotation-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔眼〕"
+        },
+        {
+          "unit_id": "f116-L-annotation-02",
+          "surface_text": "",
+          "note": "較小，與目勞句相鄰。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 117,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=117",
+      "sha256": "f398cf795464c5b28e198308f3a290f8c2a1d640baf25364988c8294009c69cd",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f117-L-01",
+          "surface_text": "",
+          "note": "地名與名中一字暫讀。"
+        },
+        {
+          "unit_id": "f117-R-annotation-01",
+          "surface_text": "",
+          "note": "原為分項旁註，串讀及若干字候核。"
+        },
+        {
+          "unit_id": "f117-R-annotation-02",
+          "surface_text": "",
+          "note": "小寫連筆。"
+        },
+        {
+          "unit_id": "f117-R-annotation-03",
+          "surface_text": "",
+          "note": "小字連筆多，暫讀。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 118,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=118",
+      "sha256": "48d93ab3651e364ab4bfb0367fb421eb7b30309ba3dcc20f8ebc2495a08a0ab8",
+      "scan_width": 775,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f118-R-annotation-01",
+          "surface_text": "",
+          "note": "墨淡，字形暫讀。"
+        },
+        {
+          "unit_id": "f118-R-annotation-02",
+          "surface_text": "",
+          "note": "形近同面右六小註。"
+        },
+        {
+          "unit_id": "f118-L-annotation-01",
+          "surface_text": "",
+          "note": "分段與字形待核，末部與紙裂相接。"
+        },
+        {
+          "unit_id": "f118-L-annotation-02",
+          "surface_text": "",
+          "note": "兩字暫讀，疑為補入月份。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 119,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=119",
+      "sha256": "89dda28ea0264acd81a01efc1689ad7e154ccdbdec15fd780ecb4c343a3a3fe9",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 120,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=120",
+      "sha256": "e9b2dbc856123793e71c2cf12f90874e6c89caecc92e8101a96fc2620b42d011",
+      "scan_width": 772,
+      "scan_height": 532,
+      "uncertainty": [
+        {
+          "unit_id": "f120-R-09",
+          "surface_text": "",
+          "note": "姓名、身分語暫讀。"
+        },
+        {
+          "unit_id": "f120-R-10",
+          "surface_text": "",
+          "note": "欄中白裂近「疾頑」。"
+        },
+        {
+          "unit_id": "f120-L-07",
+          "surface_text": "",
+          "note": "低起。"
+        },
+        {
+          "unit_id": "f120-L-08",
+          "surface_text": "",
+          "note": "低起。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 121,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=121",
+      "sha256": "fff6302418a2d2353c8818ce6126508bf365bd01b297114203b9b516c0b2c90b",
+      "scan_width": 773,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f121-R-07",
+          "surface_text": "",
+          "note": "中段起。"
+        },
+        {
+          "unit_id": "f121-L-11",
+          "surface_text": "",
+          "note": "低起。"
+        },
+        {
+          "unit_id": "f121-R-annotation-01",
+          "surface_text": "",
+          "note": "原分項，末數小字待核。"
+        },
+        {
+          "unit_id": "f121-R-annotation-02",
+          "char_offset_0based": 0,
+          "surface_text": "〔酒炒〕"
+        },
+        {
+          "unit_id": "f121-R-annotation-02",
+          "surface_text": "",
+          "note": "與量字相鄰，暫讀。"
+        },
+        {
+          "unit_id": "f121-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔煎另入汁〕"
+        },
+        {
+          "unit_id": "f121-L-annotation-01",
+          "surface_text": "",
+          "note": "連筆待核。"
+        },
+        {
+          "unit_id": "f121-L-annotation-02",
+          "surface_text": "",
+          "note": "兩字偏小。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 122,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=122",
+      "sha256": "a671300473a83f57ffcbd5d5948a8b576c32787d02db72a9637ad9aee05bea88",
+      "scan_width": 773,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f122-L-11",
+          "surface_text": "",
+          "note": "由中部起。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 123,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=123",
+      "sha256": "8fb4afcb83a4d698f36c2a2861938fa03a3c2c17e18e02a6f429aadcc439600a",
+      "scan_width": 771,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f123-L-02",
+          "surface_text": "",
+          "note": "中段始書。"
+        },
+        {
+          "unit_id": "f123-L-09",
+          "surface_text": "",
+          "note": "中段始書。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 124,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=124",
+      "sha256": "0199c3331f0469facf76b552c50bce65d8761cdd041c947a5757bf80a8709fa4",
+      "scan_width": 770,
+      "scan_height": 531,
+      "uncertainty": [
+        {
+          "unit_id": "f124-L-01",
+          "surface_text": "",
+          "note": "欄在左面最右側，下段另起。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 125,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=125",
+      "sha256": "d2be5b72a4811196070158e13ba5c16608d52385d91b3a6aa6d23bb55cb7b9b7",
+      "scan_width": 768,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f125-R-05",
+          "surface_text": "",
+          "note": "由欄中段起。"
+        },
+        {
+          "unit_id": "f125-L-annotation-01",
+          "char_offset_0based": 0,
+          "surface_text": "〔蛻〕"
+        },
+        {
+          "unit_id": "f125-L-annotation-01",
+          "char_offset_0based": 3,
+          "surface_text": "〔詭〕"
+        },
+        {
+          "unit_id": "f125-L-annotation-01",
+          "surface_text": "",
+          "note": "兩處待核。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 126,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=126",
+      "sha256": "189b253034b780d758fb5e6af237da1b7143140d78631542322ff9ce78d79695",
+      "scan_width": 770,
+      "scan_height": 530,
+      "uncertainty": [
+        {
+          "unit_id": "f126-R-01",
+          "surface_text": "",
+          "note": "右側多紙破，版面留痕。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "manuscript_spread"
+    },
+    {
+      "image": 127,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=127",
+      "sha256": "e81b01440cfff3fc335d0211edcbeb66d0cb9cd0e80d4a616e70c4153d30fdeb",
+      "scan_width": 768,
+      "scan_height": 529,
+      "uncertainty": [
+        {
+          "unit_id": "f127-R-01",
+          "surface_text": "",
+          "note": "首三味字形與行內小字待核。"
+        },
+        {
+          "unit_id": "f127-L-02",
+          "char_offset_0based": 9,
+          "surface_text": "〔常〕"
+        },
+        {
+          "unit_id": "f127-L-02",
+          "surface_text": "",
+          "note": "兩處「𪼇」有王旁，以館目字碼暫記，右部草體待覆。「常」與「嘗」待核。"
+        },
+        {
+          "unit_id": "f127-L-04",
+          "char_offset_0based": 2,
+          "surface_text": "〔熟〕"
+        },
+        {
+          "unit_id": "f127-L-04",
+          "surface_text": "",
+          "note": "「熟」首筆與下部黏結，暫讀。"
+        },
+        {
+          "unit_id": "f127-L-05",
+          "char_offset_0based": 7,
+          "surface_text": "〔元福〕"
+        },
+        {
+          "unit_id": "f127-L-05",
+          "surface_text": "",
+          "note": "「也」在欄頂，紀年與署名另在同欄下部。姓名兩字保留暫讀。"
+        },
+        {
+          "unit_id": "f127-R-seal-01",
+          "surface_text": "",
+          "note": "紅色約方形篆印，多字格，印文待辨。"
+        }
+      ],
+      "physical_volume_order": 6,
+      "frame_type": "last_manuscript_leaf"
+    },
+    {
+      "image": 128,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=128",
+      "sha256": "b7667768a408518e33b04bfcd507d4adb5d938abe3111ffc0a57a22ede3e2761",
+      "scan_width": 765,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 6,
+      "frame_type": "back_endpapers"
+    },
+    {
+      "image": 129,
+      "locator": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=129",
+      "sha256": "5cf14aae6c0a376c23557032e18b136fb6f4819c16105d4e6b7074415bee49da",
+      "scan_width": 506,
+      "scan_height": 530,
+      "uncertainty": [],
+      "physical_volume_order": 6,
+      "frame_type": "back_cover"
+    }
+  ]
+}
