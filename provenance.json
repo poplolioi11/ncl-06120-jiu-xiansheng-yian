@@ -3,7 +3,7 @@
   "image_viewer": "https://commons.wikimedia.org/wiki/File:NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf",
   "source_rights": "https://commons.wikimedia.org/wiki/File:NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#Licensing",
   "shelfmark": "臺灣國家圖書館 06120",
-  "data_version": "0.1.0",
+  "data_version": "0.2.0",
   "image_inventory": [
     {
       "image": 1,

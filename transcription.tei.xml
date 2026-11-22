@@ -10,10 +10,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>0.1.0</edition>
+        <edition>0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>2026-11-22. AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
+        <p>2026-11-22. All 129 images were reviewed. The revision documents 14 source-image-supported changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.</p>
       </publicationStmt>
       <sourceDesc>
         <p>臺灣國家圖書館 06120 <ref target="https://catalog.digitalarchives.tw/item/00/08/67/7d.html">Source catalogue</ref>
@@ -52,7 +52,7 @@
         </div>
         <div type="surface" n="L">
           <ab type="title" n="f003-L-01" xml:id="u-f003-L-01">九〔𪼇〕先生醫案</ab>
-          <ab type="case_heading" n="f003-L-02" xml:id="u-f003-L-02">徐州諸左</ab>
+          <ab type="case_heading" n="f003-L-02" xml:id="u-f003-L-02">徐州潘左</ab>
           <ab type="main_text" n="f003-L-03" xml:id="u-f003-L-03">癘風為腎督□□調治擬詳辨微法治之</ab>
           <ab type="main_text" n="f003-L-04" xml:id="u-f003-L-04">當歸半防風半白芷半全蝎半川芎半</ab>
           <ab type="main_text" n="f003-L-05" xml:id="u-f003-L-05">貝母半天花粉半乳香半没藥半角針半</ab>
@@ -702,7 +702,7 @@
           <note type="editorial">f027-frame-layout-01 第二冊始見正文，左面十二欄，右面空襯。左一「謝夫人」後即醫案。</note>
         </div>
         <div type="surface" n="L">
-          <ab type="case_heading" n="f027-L-01" xml:id="u-f027-L-01">謝夫人</ab>
+          <ab type="case_heading" n="f027-L-01" xml:id="u-f027-L-01">謝大人</ab>
           <ab type="main_text" n="f027-L-02" xml:id="u-f027-L-02">脾乃生痰之源肺為貯痰之器痰之標在脾痰之本</ab>
           <ab type="main_text" n="f027-L-03" xml:id="u-f027-L-03">在腎三陰眞陽不旺脾虛健運无常痰起中州中</ab>
           <ab type="main_text" n="f027-L-04" xml:id="u-f027-L-04">虚則肺虚清肅不行陰犯為痰諸法若能培脾而在</ab>
@@ -1407,7 +1407,7 @@
           <ab type="main_text" n="f053-R-04" xml:id="u-f053-R-04">丹皮三錢鮮藕汁一兩</ab>
           <ab type="main_text" n="f053-R-05" xml:id="u-f053-R-05">紅糖為丸</ab>
           <ab type="formula_heading" n="f053-R-06" xml:id="u-f053-R-06">左說方</ab>
-          <ab type="main_text" n="f053-R-07" xml:id="u-f053-R-07">十一月〔十二〕日接函悉前十月初一日舊病慈容語無倫</ab>
+          <ab type="main_text" n="f053-R-07" xml:id="u-f053-R-07">十一月十三日接函悉前十月初一日舊病慈容語無倫</ab>
           <ab type="main_text" n="f053-R-08" xml:id="u-f053-R-08">次較前更甚平静後常振數日方退至十月早晨</ab>
           <ab type="main_text" n="f053-R-09" xml:id="u-f053-R-09">吐出舊痰帶血一口夜間大吐一口聲顫復前故由於部</ab>
           <ab type="main_text" n="f053-R-10" xml:id="u-f053-R-10">氣逆於中其若難受逢時痰多氣不接續勢歉</ab>
@@ -1509,7 +1509,7 @@
         <div type="surface" n="L">
           <ab type="main_text" n="f056-L-01" xml:id="u-f056-L-01">用生姜汁半加煉蜜和丸</ab>
           <ab type="main_text" n="f056-L-02" xml:id="u-f056-L-02">晚服孔聖枕中丹半早服眼黒歸脾丸三錢</ab>
-          <ab type="follow_up_heading" n="f056-L-03" xml:id="u-f056-L-03">〔次〕年五月診</ab>
+          <ab type="follow_up_heading" n="f056-L-03" xml:id="u-f056-L-03">次年五月診</ab>
           <ab type="main_text" n="f056-L-04" xml:id="u-f056-L-04">昨日夏至節今心跳神逆病又復脾之虛濕痰</ab>
           <ab type="main_text" n="f056-L-05" xml:id="u-f056-L-05">常動擾吐姜調心湯</ab>
           <ab type="main_text" n="f056-L-06" xml:id="u-f056-L-06">川連半法干姜半法黄芩半西黨參三錢</ab>
@@ -1645,7 +1645,7 @@
       <div n="61" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=61">
         <div type="surface" n="R">
           <ab type="main_text" n="f061-R-01" xml:id="u-f061-R-01">益母膏汁茯苓三錢紅糖棗肉三錢沙參三錢童便一杯</ab>
-          <ab type="case_heading" n="f061-R-02" xml:id="u-f061-R-02">左〔庚辰〕九月曾診</ab>
+          <ab type="case_heading" n="f061-R-02" xml:id="u-f061-R-02">左庚辰九月曾診</ab>
           <ab type="main_text" n="f061-R-03" xml:id="u-f061-R-03">幼科男兒尚門東南九歲純陽之體無常炎延六</ab>
           <ab type="main_text" n="f061-R-04" xml:id="u-f061-R-04">月午前染病久年蒸熱一向發熱深感大深幼科</ab>
           <ab type="main_text" n="f061-R-05" xml:id="u-f061-R-05">醫治遲至八月初又發展兩手時刻擾動二目無</ab>
@@ -1659,7 +1659,7 @@
           <note type="editorial">f061-frame-layout-01 第三冊雙面，各十二欄。右二有干支月分，右三幼科案，左九後似另論痢症，無另書姓氏。</note>
         </div>
         <div type="surface" n="L">
-          <ab type="main_text" n="f061-L-01" xml:id="u-f061-L-01">病原已載原長之方服諸症頗退之法今仍刻抽搐</ab>
+          <ab type="main_text" n="f061-L-01" xml:id="u-f061-L-01">病原已載庚辰之方服諸症頗退之法今仍刻抽搐</ab>
           <ab type="main_text" n="f061-L-02" xml:id="u-f061-L-02">而食喊多咬人不已噴糞嗅俱已全浮悸時而眼動服</ab>
           <ab type="main_text" n="f061-L-03" xml:id="u-f061-L-03">清腦之方脾分足心憂先天不足脾胃伏熱以丸代煎</ab>
           <ab type="main_text" n="f061-L-04" xml:id="u-f061-L-04">徐徐調養</ab>
@@ -1749,7 +1749,7 @@
           <note type="editorial">f064-frame-layout-01 第三冊雙面，右十一、左十二欄。右一標「左」後接病況。左一見干支月分，與前右案分開。</note>
         </div>
         <div type="surface" n="L">
-          <ab type="case_heading" n="f064-L-01" xml:id="u-f064-L-01">左庚辰十〔一〕月</ab>
+          <ab type="case_heading" n="f064-L-01" xml:id="u-f064-L-01">左庚辰十一月</ab>
           <ab type="main_text" n="f064-L-02" xml:id="u-f064-L-02">上年四月偶得血症脉見浮大先天素弱肝腎陰虛</ab>
           <ab type="main_text" n="f064-L-03" xml:id="u-f064-L-03">相火不寧原載血之調治已雄今已有感擁擠發汗</ab>
           <ab type="main_text" n="f064-L-04" xml:id="u-f064-L-04">數日後血痰復前未約稍愈飲食變受涼咳嗽</ab>
@@ -1770,7 +1770,7 @@
           <ab type="main_text" n="f065-R-03" xml:id="u-f065-R-03">懷牛膝半藕根半童便一杯</ab>
           <ab type="main_text" n="f065-R-04" xml:id="u-f065-R-04">永春服藥二劑痰已活動紅痰已去咳已好些原方</ab>
           <ab type="main_text" n="f065-R-05" xml:id="u-f065-R-05">加生地半丹皮半</ab>
-          <ab type="follow_up_heading" n="f065-R-06" xml:id="u-f065-R-06">六日復診加旱蓮草三錢</ab>
+          <ab type="follow_up_heading" n="f065-R-06" xml:id="u-f065-R-06">十一日復診加旱蓮草三錢</ab>
           <ab type="main_text" n="f065-R-07" xml:id="u-f065-R-07">十日服藥以來咳嗽大減血痰漸少仍有青白黄痰</ab>
           <ab type="main_text" n="f065-R-08" xml:id="u-f065-R-08">仍舒肺胃</ab>
           <ab type="main_text" n="f065-R-09" xml:id="u-f065-R-09">杏仁泥三錢參三七半炮姜灰三錢丹皮半棗肉三錢</ab>
@@ -1961,7 +1961,7 @@
         <div type="surface" n="R">
           <ab type="main_text" n="f074-R-01" xml:id="u-f074-R-01">生可見養先天鍊後天養精血以延年必知節嗇斷</ab>
           <ab type="main_text" n="f074-R-02" xml:id="u-f074-R-02">喪元陽經云以酒為漿醉以入房以慾竭其精耗散</ab>
-          <ab type="main_text" n="f074-R-03" xml:id="u-f074-R-03">其眞精血內奪元海空虛生氣日少根蒂日虧虛</ab>
+          <ab type="main_text" n="f074-R-03" xml:id="u-f074-R-03">其氣精血內奪元海空虛生氣日少根蒂日虧虛</ab>
           <ab type="main_text" n="f074-R-04" xml:id="u-f074-R-04">極及見實已諸病發生豈獨虛陽發於頰中而</ab>
           <ab type="main_text" n="f074-R-05" xml:id="u-f074-R-05">已哉尊脉上浮合參素為氣弱之實命天寸不靜</ab>
           <ab type="main_text" n="f074-R-06" xml:id="u-f074-R-06">二氣不固之象由陰為偏及則犯五行之忌則乃</ab>
@@ -2781,7 +2781,7 @@
       </div>
       <div n="103" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=103">
         <div type="surface" n="R">
-          <ab type="main_text" n="f103-R-01" xml:id="u-f103-R-01">力血脉虛寒難以取效不宜煩心</ab>
+          <ab type="main_text" n="f103-R-01" xml:id="u-f103-R-01">力血脉虛衰難以取效不宜煩心</ab>
           <ab type="main_text" n="f103-R-02" xml:id="u-f103-R-02">大生地兩冬木兩半遠志肉半歸頭兩木香半</ab>
           <ab type="main_text" n="f103-R-03" xml:id="u-f103-R-03">孩兒參兩茯神兩棗仁兩半藿草兩桑葉四兩</ab>
           <ab type="main_text" n="f103-R-04" xml:id="u-f103-R-04">黑芝麻兩</ab>
@@ -3420,9 +3420,9 @@
         <div type="surface" n="L">
           <ab type="main_text" n="f126-L-01" xml:id="u-f126-L-01">此一星之火忙如犬旁遂已以客眼慘若飛蛾為貪</ab>
           <ab type="main_text" n="f126-L-02" xml:id="u-f126-L-02">燈而殞命甚為害也可勝言哉無其辭之於欲戒良</ab>
-          <ab type="main_text" n="f126-L-03" xml:id="u-f126-L-03">方以顧歸根樣勢若戒之於存妄念分而不拔羅</ab>
-          <ab type="main_text" n="f126-L-04" xml:id="u-f126-L-04">網悔而往不可追悔後未晚果肯毀鏡器具既不致於</ab>
-          <ab type="main_text" n="f126-L-05" xml:id="u-f126-L-05">傷財從此塗塗脂膏而又可以永壽莫再為人所誘</ab>
+          <ab type="main_text" n="f126-L-03" xml:id="u-f126-L-03">方以顧歸根株勢若戒之於存妄念分而不拔羅</ab>
+          <ab type="main_text" n="f126-L-04" xml:id="u-f126-L-04">網悔而往不可追悔後未晚果肯毀銷器具既不致於</ab>
+          <ab type="main_text" n="f126-L-05" xml:id="u-f126-L-05">傷財從此培養脂膏而又可以永壽莫再為人所誘</ab>
           <ab type="main_text" n="f126-L-06" xml:id="u-f126-L-06">如餅之見索旋速務宜捨地而居如鶴立荒谷必避</ab>
           <ab type="main_text" n="f126-L-07" xml:id="u-f126-L-07">燈留與子孫血讀有他為鑒壁之匡衡床儘抱為</ab>
           <ab type="main_text" n="f126-L-08" xml:id="u-f126-L-08">夫婦合歡免君作無兒之虛過若欲掃除絕患</ab>
@@ -3448,7 +3448,7 @@
           <ab type="postscript" n="f127-L-02" xml:id="u-f127-L-02">九𪼇先生之說甚多是〔常〕受教于九𪼇</ab>
           <ab type="postscript" n="f127-L-03" xml:id="u-f127-L-03">者此醫案六卷論治本于靈素用藥通于</ab>
           <ab type="postscript" n="f127-L-04" xml:id="u-f127-L-04">神明〔熟〕而讀之足以啟發靈機是可寶</ab>
-          <ab type="postscript_and_inscription" n="f127-L-05" xml:id="u-f127-L-05">也光緒戊戌秋謝〔元福〕識</ab>
+          <ab type="postscript_and_inscription" n="f127-L-05" xml:id="u-f127-L-05">也光緒戊戌秋謝元福識</ab>
         </div>
       </div>
       <div n="128" type="scan" corresp="https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf#page=128">

@@ -2,7 +2,7 @@ cff-version: 1.2.0
 type: dataset
 title: '九𪼇先生醫案（1898 年跋，臺灣國家圖書館 06120） / Jiu 𪼇 xian sheng yi an [Medical Case Records
   of Master Jiu 𪼇]: Transcription Dataset'
-version: 0.1.0
+version: 0.2.0
 message: Please cite this dataset version and source copy.
 authors:
 - family-names: Chu

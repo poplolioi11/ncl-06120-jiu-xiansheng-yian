@@ -1,0 +1,6827 @@
+{
+  "initial_sha256": "e23560e4e1fa13c48257d8298beca836ec8aaee0fdfa3d0417fe150553ba86a3",
+  "source_pdf_sha256": "e379af1d09682a69cc1cf707246174c9f395781334d6c15cd40373bb21199739",
+  "base_readbacks": [
+    "0453bcf4c4296b5e8ae0617401f8b372e1ae59a1c6fe8c7ab5fd10a2f572a9ff",
+    "931f3cd55042739ce935f1ac5e50d6c5680913b0b6059dffec55232a85d49014"
+  ],
+  "frames_reviewed": [
+    {
+      "frame": 1,
+      "image_sha256": "f1d218039e1ac95bb1dcb8eee1804efa5009679db93ff50ca5b82d4cd9497f31",
+      "independent_raster_sha256": "8d164a7699345f9fc447c9ba1f2e36ce9ae2a74df3483e3738888a3ee83844e9",
+      "independent_raster_dimensions": [
+        1413,
+        1500
+      ],
+      "layout": "青灰線裝封面，四道橫線在右，兩角磨穿露底，原面無可辨墨題。圓徽、紅字、右側色卡為館影像層。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f001-e01",
+          "location": "封面",
+          "layer": "binding",
+          "bbox_approx_xywh_px": [
+            34,
+            23,
+            966,
+            1445
+          ],
+          "reading": "〔第一冊封面，線裝在右，右上及右下角紙損〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 2,
+      "image_sha256": "19ab740da5c324a2aaf79f33d60c1cbcf1ff4d8a34b0ceb6f8b760ac33e0abc1",
+      "independent_raster_sha256": "c1af45da5f3700559aabf5711420276d6fecd7dde41be21a993781878eec98e6",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "開冊護葉，右貼紅框館籤，左下有鉛筆樣冊次手記。護葉本身無縱欄正文。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f002-e01",
+          "location": "R館籤",
+          "layer": "shelf_label",
+          "bbox_approx_xywh_px": [
+            794,
+            344,
+            173,
+            220
+          ],
+          "reading": "003846　子部醫家類　六冊"
+        },
+        {
+          "evidence_id": "f002-e02",
+          "location": "R館籤",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            837,
+            364,
+            83,
+            81
+          ],
+          "reading": "〔紅圓印，篆字待釋〕"
+        },
+        {
+          "evidence_id": "f002-e03",
+          "location": "L下緣",
+          "layer": "manuscript_inventory",
+          "bbox_approx_xywh_px": [
+            302,
+            975,
+            126,
+            31
+          ],
+          "reading": "〔347936？〕 v.1"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 3,
+      "image_sha256": "6a7d29005e241e9dcabd7507deb4bc1da9cc1d7abafa89c2b4f8424826cf6209",
+      "independent_raster_sha256": "e2aef68b42f805eb626a2725b073ee35b533c8cf7666754a5c728380fcd014ff",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "右白護葉，左褐紙起題與首案，靠縫兩朱印。左下有紙邊磨損；早期筆有濃淡。",
+      "observed_counts": {
+        "R": 0,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f003-e01",
+          "location": "L01",
+          "layer": "title",
+          "bbox_approx_xywh_px": [
+            573,
+            234,
+            38,
+            226
+          ],
+          "reading": "九𪼇先生醫案"
+        },
+        {
+          "evidence_id": "f003-e02",
+          "location": "L01",
+          "layer": "title_glyph",
+          "bbox_approx_xywh_px": [
+            573,
+            274,
+            37,
+            47
+          ],
+          "reading": "𪼇〔左王，右部上密下斜，字形待專核〕"
+        },
+        {
+          "evidence_id": "f003-e03",
+          "location": "L02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            530,
+            236,
+            47,
+            128
+          ],
+          "reading": "徐州潘左"
+        },
+        {
+          "evidence_id": "f003-e04",
+          "location": "L03",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            488,
+            236,
+            44,
+            554
+          ],
+          "reading": "瘰癧〔端首候讀〕　宜當科調治"
+        },
+        {
+          "evidence_id": "f003-e05",
+          "location": "L06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            352,
+            241,
+            44,
+            484
+          ],
+          "reading": "穿山甲　陳皮　百花酒"
+        },
+        {
+          "evidence_id": "f003-e06",
+          "location": "L07",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            306,
+            238,
+            43,
+            204
+          ],
+          "reading": "即與潘左"
+        },
+        {
+          "evidence_id": "f003-e07",
+          "location": "L近縫",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            469,
+            663,
+            136,
+            251
+          ],
+          "reading": "〔上下朱印二枚，印文待釋〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 4,
+      "image_sha256": "5211644fc01e411346b5f07b35db5986920610a715c8baa95a663b006a02d2c8",
+      "independent_raster_sha256": "7510a9eb7279e5c396d2b6a527c770b10748a637593d4c3370104464b40ebf26",
+      "independent_raster_dimensions": [
+        1500,
+        1023
+      ],
+      "layout": "雙面褐紙十二主軸，右第三軸低寫少字，左右中有縱裂及白色蟲蝕；紙損與細劑量字並見。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f004-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1118,
+            236,
+            43,
+            285
+          ],
+          "reading": "加減　〔請同學酌之？〕"
+        },
+        {
+          "evidence_id": "f004-e02",
+          "location": "R04",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            975,
+            228,
+            49,
+            655
+          ],
+          "reading": "心勞　〔作病下接原欄〕"
+        },
+        {
+          "evidence_id": "f004-e03",
+          "location": "R09",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            746,
+            457,
+            64,
+            279
+          ],
+          "reading": "前方加糯稻根"
+        },
+        {
+          "evidence_id": "f004-e04",
+          "location": "L03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            478,
+            234,
+            43,
+            530
+          ],
+          "reading": "杜仲　秫米　夜交藤　白蜜"
+        },
+        {
+          "evidence_id": "f004-e05",
+          "location": "L05",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            385,
+            240,
+            42,
+            285
+          ],
+          "reading": "〔欄首人名有疑〕　楊道憲"
+        },
+        {
+          "evidence_id": "f004-e06",
+          "location": "L11",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            106,
+            234,
+            43,
+            655
+          ],
+          "reading": "紫河車　〔同欄藥旁細字待裁〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 5,
+      "image_sha256": "090992c56f1eeb52d6813da93131a731a5170bd668e5f0b8dbde75f64753bdfe",
+      "independent_raster_sha256": "e1acea3ed56acd1abd3ebe6d89dcb478002b5e01fb722ec24a5e2d6046e3b75f",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "雙面滿欄，右起方藥後接案，左有長句、方藥及中上行小字。右頂與中縫旁蟲蝕、圈形水漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f005-e01",
+          "location": "R01–R04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            990,
+            234,
+            191,
+            639
+          ],
+          "reading": "於术　生地　龜膠　川杜仲　湘蓮　山藥　杜元肉"
+        },
+        {
+          "evidence_id": "f005-e02",
+          "location": "R05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            943,
+            232,
+            47,
+            223
+          ],
+          "reading": "前方即與潘左"
+        },
+        {
+          "evidence_id": "f005-e03",
+          "location": "R08",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            802,
+            226,
+            45,
+            617
+          ],
+          "reading": "調治心脉消遺"
+        },
+        {
+          "evidence_id": "f005-e04",
+          "location": "R11",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            665,
+            232,
+            44,
+            226
+          ],
+          "reading": "秋七月"
+        },
+        {
+          "evidence_id": "f005-e05",
+          "location": "L05",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            393,
+            231,
+            48,
+            661
+          ],
+          "reading": "東流決河西方"
+        },
+        {
+          "evidence_id": "f005-e06",
+          "location": "L08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            254,
+            235,
+            44,
+            668
+          ],
+          "reading": "黃茋　地骨皮　山藥　黨參　赤小荳"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 6,
+      "image_sha256": "04e780fbe48f02397181e8e7287867c3f21060a9569d54f8f9cebdd2dbc7e5c1",
+      "independent_raster_sha256": "20ba5a396e5946209ad988fde8c6814d22bfe248fef3161ea43fde257aa534f4",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "雙面十二主軸。右中有一道白色蛀痕擦過方議，左較淡。左末另起病例，左外兩小破痕。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f006-e01",
+          "location": "R03",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1033,
+            236,
+            42,
+            134
+          ],
+          "reading": "剡州俞運〔名末待核〕"
+        },
+        {
+          "evidence_id": "f006-e02",
+          "location": "R06",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            892,
+            231,
+            43,
+            672
+          ],
+          "reading": "脾肺腎三經受困"
+        },
+        {
+          "evidence_id": "f006-e03",
+          "location": "R10",
+          "layer": "damage",
+          "bbox_approx_xywh_px": [
+            700,
+            269,
+            60,
+            248
+          ],
+          "reading": "〔白蛀線橫過正文數字〕"
+        },
+        {
+          "evidence_id": "f006-e04",
+          "location": "L01",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            567,
+            235,
+            43,
+            656
+          ],
+          "reading": "八月間"
+        },
+        {
+          "evidence_id": "f006-e05",
+          "location": "L03",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            478,
+            233,
+            46,
+            653
+          ],
+          "reading": "脉宜補中益氣"
+        },
+        {
+          "evidence_id": "f006-e06",
+          "location": "L10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            158,
+            235,
+            43,
+            234
+          ],
+          "reading": "竹溪朱施左〔中間偏旁待核〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 7,
+      "image_sha256": "a20825c79c3340beb5723c4ba0d06be507db349311055c53a7141dca32834d45",
+      "independent_raster_sha256": "5c1b226c73dc253fedd2771d26573f8b2408fc97ad5f74ec8a1683ba87fd7402",
+      "independent_raster_dimensions": [
+        1500,
+        1023
+      ],
+      "layout": "雙面十二軸，右中有短方藥與一孤列題頭，左中方名低格。右中白蛀線細長。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f007-e01",
+          "location": "R03",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1032,
+            231,
+            44,
+            672
+          ],
+          "reading": "此症本虛"
+        },
+        {
+          "evidence_id": "f007-e02",
+          "location": "R08",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            798,
+            235,
+            46,
+            649
+          ],
+          "reading": "舉行動勞　經脉不通"
+        },
+        {
+          "evidence_id": "f007-e03",
+          "location": "R10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            703,
+            231,
+            44,
+            125
+          ],
+          "reading": "東閣陳右"
+        },
+        {
+          "evidence_id": "f007-e04",
+          "location": "L04",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            482,
+            233,
+            41,
+            270
+          ],
+          "reading": "病延已久"
+        },
+        {
+          "evidence_id": "f007-e05",
+          "location": "L06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            383,
+            237,
+            44,
+            627
+          ],
+          "reading": "枳實　茯苓"
+        },
+        {
+          "evidence_id": "f007-e06",
+          "location": "L11",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            111,
+            237,
+            43,
+            398
+          ],
+          "reading": "改方加黃芩"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 8,
+      "image_sha256": "2a4a16bab32e49b0e770cc0b011f80cb64681bf5f45b3d08ba6491319eab55c3",
+      "independent_raster_sha256": "c0473abbdc71d7db1709bfdf0db013188c5bb46a881e3ae32df837624857c482",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "上緣中縫兩條白蝕高於主要墨文；右面靠縫短旁列淡墨，左面末欄另起案。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f008-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1122,
+            228,
+            49,
+            667
+          ],
+          "reading": "反胃"
+        },
+        {
+          "evidence_id": "f008-e02",
+          "location": "R03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1027,
+            221,
+            49,
+            578
+          ],
+          "reading": "補中益氣去茂朴"
+        },
+        {
+          "evidence_id": "f008-e03",
+          "location": "R04",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            984,
+            229,
+            45,
+            108
+          ],
+          "reading": "廖右〔姓形候讀〕"
+        },
+        {
+          "evidence_id": "f008-e04",
+          "location": "R10",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            699,
+            224,
+            47,
+            669
+          ],
+          "reading": "黨參　乾薑"
+        },
+        {
+          "evidence_id": "f008-e05",
+          "location": "R11",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            663,
+            484,
+            46,
+            365
+          ],
+          "reading": "〔米、汁、三分等小墨，讀序待裁〕"
+        },
+        {
+          "evidence_id": "f008-e06",
+          "location": "L12",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            63,
+            237,
+            43,
+            225
+          ],
+          "reading": "紹興潘左接前"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 9,
+      "image_sha256": "7c4dd67f672382306ec63dcc8d002b599dc35342316ac6701b40e51e2bce6972",
+      "independent_raster_sha256": "cbbd33cc04cd995ce1eb52b00cab1e6adebfed879197966129e039f0a5ea5789",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "雙面十二欄，右中續方與短注，左首承案與方。中縫上蟲蝕高於墨文。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f009-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1122,
+            226,
+            45,
+            659
+          ],
+          "reading": "服藥七劑飢渴已好"
+        },
+        {
+          "evidence_id": "f009-e02",
+          "location": "R05",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            930,
+            227,
+            45,
+            647
+          ],
+          "reading": "當救胃津"
+        },
+        {
+          "evidence_id": "f009-e03",
+          "location": "R06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            889,
+            227,
+            48,
+            661
+          ],
+          "reading": "小支人參　茯神　五味　陳黑秫米"
+        },
+        {
+          "evidence_id": "f009-e04",
+          "location": "R12",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            622,
+            220,
+            44,
+            675
+          ],
+          "reading": "閩縣吳〔姓下疑讀〕"
+        },
+        {
+          "evidence_id": "f009-e05",
+          "location": "L03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            478,
+            235,
+            43,
+            666
+          ],
+          "reading": "太子參　白术　茯神　半夏"
+        },
+        {
+          "evidence_id": "f009-e06",
+          "location": "L12",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            59,
+            238,
+            47,
+            659
+          ],
+          "reading": "河車　黨參　沙參　生地　白术"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 10,
+      "image_sha256": "56a13c3e2d7c471900e1034bbdc5152d52204df0d9224281cd560d8a048616d8",
+      "independent_raster_sha256": "c6af2c94a38a823ef28e6725c8060b8288ce54bc7f1de9f8b2367ef4406dec79",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "兩面十二欄，右第四、五欄字少，右第六欄另起案。中縫上兩側白蟲蝕伸到字首附近。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f010-e01",
+          "location": "R01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1120,
+            235,
+            45,
+            664
+          ],
+          "reading": "天冬　麥冬　茯神　龜版　杜仲"
+        },
+        {
+          "evidence_id": "f010-e02",
+          "location": "R05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            931,
+            262,
+            42,
+            239
+          ],
+          "reading": "薑汁加〔九？〕"
+        },
+        {
+          "evidence_id": "f010-e03",
+          "location": "R06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            882,
+            236,
+            49,
+            149
+          ],
+          "reading": "儀徵王左"
+        },
+        {
+          "evidence_id": "f010-e04",
+          "location": "R07",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            839,
+            235,
+            45,
+            655
+          ],
+          "reading": "兩脉細小"
+        },
+        {
+          "evidence_id": "f010-e05",
+          "location": "L04",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            426,
+            233,
+            46,
+            657
+          ],
+          "reading": "去秋"
+        },
+        {
+          "evidence_id": "f010-e06",
+          "location": "L08",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            244,
+            488,
+            48,
+            405
+          ],
+          "reading": "四月"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 11,
+      "image_sha256": "1b709a09e8e41933223f7e088d36f063888896eac694bc8ce3ead253dcca0fd2",
+      "independent_raster_sha256": "7eafb83cecce8cbb77392e7c2c10b2aa0f77b714bd7439c403e69b9e3bde16bc",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "左右十二欄。右聯方有低格小列，後案首「北鄉郭左」。右下及左外下見白蟲蝕。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f011-e01",
+          "location": "R04",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            978,
+            234,
+            50,
+            106
+          ],
+          "reading": "褚〔為／茂？〕成"
+        },
+        {
+          "evidence_id": "f011-e02",
+          "location": "R05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            931,
+            231,
+            48,
+            631
+          ],
+          "reading": "大熟地　龜版　知母　當歸"
+        },
+        {
+          "evidence_id": "f011-e03",
+          "location": "R08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            795,
+            237,
+            48,
+            147
+          ],
+          "reading": "北鄉郭左"
+        },
+        {
+          "evidence_id": "f011-e04",
+          "location": "R09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            750,
+            231,
+            48,
+            654
+          ],
+          "reading": "年經四十〔經字候讀〕"
+        },
+        {
+          "evidence_id": "f011-e05",
+          "location": "L03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            480,
+            252,
+            47,
+            273
+          ],
+          "reading": "熟地　續斷　胡桃"
+        },
+        {
+          "evidence_id": "f011-e06",
+          "location": "L04",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            436,
+            252,
+            49,
+            215
+          ],
+          "reading": "間服前四劑"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 12,
+      "image_sha256": "b935ad765011b35d3e81bc2c4fa5d349c889cbcaab7e94ecce39c5c6176e4988",
+      "independent_raster_sha256": "9c2c07e5aaaaad54dc1ed6885865946acb7901c4537935825eea84a02d994e5c",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "右十一個可見字軸，靠縫沒有墨文。左右原紙深淺不一，左首接人名，右第六欄短方題。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f012-e01",
+          "location": "R04",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            967,
+            328,
+            47,
+            572
+          ],
+          "reading": "此方〔按字待核〕四氣"
+        },
+        {
+          "evidence_id": "f012-e02",
+          "location": "R06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            877,
+            257,
+            43,
+            124
+          ],
+          "reading": "利院方〔前二字疑〕"
+        },
+        {
+          "evidence_id": "f012-e03",
+          "location": "R07",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            835,
+            257,
+            43,
+            171
+          ],
+          "reading": "癸〔？〕十三日"
+        },
+        {
+          "evidence_id": "f012-e04",
+          "location": "R11",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            648,
+            260,
+            47,
+            467
+          ],
+          "reading": "人參　橘紅　竹瀝"
+        },
+        {
+          "evidence_id": "f012-e05",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            572,
+            254,
+            34,
+            100
+          ],
+          "reading": "張治〔末字疑〕"
+        },
+        {
+          "evidence_id": "f012-e06",
+          "location": "L06–L07",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            298,
+            248,
+            91,
+            652
+          ],
+          "reading": "黨參　大生地　山藥　甘草　升麻　歸身　陳皮"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 13,
+      "image_sha256": "d21b483cb1ddeb38e4fafd5ba7304ad8bf7dabcc856635706903fec8d696a806",
+      "independent_raster_sha256": "4bae7606fad76bc5284cad653525c6489807bbb1ac7b85c7ef4cdccfe103cecf",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "雙面十二墨軸，右面一短欄從中部下書。左有方藥及後文，右外色卡。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f013-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1116,
+            249,
+            56,
+            650
+          ],
+          "reading": "小兒早期"
+        },
+        {
+          "evidence_id": "f013-e02",
+          "location": "R04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            976,
+            246,
+            47,
+            650
+          ],
+          "reading": "參鬚　黨參　升麻　甘草"
+        },
+        {
+          "evidence_id": "f013-e03",
+          "location": "R05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            931,
+            249,
+            48,
+            650
+          ],
+          "reading": "竹茹　生地　柴胡　山藥　玉竹"
+        },
+        {
+          "evidence_id": "f013-e04",
+          "location": "R06旁",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            881,
+            466,
+            65,
+            114
+          ],
+          "reading": "〔紅線似疊水印，小筆待裁〕"
+        },
+        {
+          "evidence_id": "f013-e05",
+          "location": "L02",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            516,
+            249,
+            46,
+            650
+          ],
+          "reading": "方救治"
+        },
+        {
+          "evidence_id": "f013-e06",
+          "location": "L08–L09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            198,
+            241,
+            106,
+            668
+          ],
+          "reading": "旗見參〔首兩字待核〕　熟地　真黃粉　甘草　北沙參"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 14,
+      "image_sha256": "4796e2fc7ca843c7c9ac65945405275ba39367d7ab87d99b851e060b34499a15",
+      "independent_raster_sha256": "5127779cc8a1f91addf8031a45a77cc1f1982193247160304e6d04104ae7e4cb",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "兩面均十二軸，左靠縫一低行小注夾藥，紅橫水印過字中，紙下橢圓形水跡未見另字。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f014-e01",
+          "location": "R03",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1022,
+            245,
+            50,
+            658
+          ],
+          "reading": "脘胃部仍腫〔後接字待核〕"
+        },
+        {
+          "evidence_id": "f014-e02",
+          "location": "R06",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            884,
+            238,
+            49,
+            661
+          ],
+          "reading": "胃額未〔候讀〕"
+        },
+        {
+          "evidence_id": "f014-e03",
+          "location": "R12",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            610,
+            238,
+            49,
+            664
+          ],
+          "reading": "大生地　北沙參　天冬"
+        },
+        {
+          "evidence_id": "f014-e04",
+          "location": "L01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            561,
+            227,
+            44,
+            701
+          ],
+          "reading": "黨參　龜膠　元參"
+        },
+        {
+          "evidence_id": "f014-e05",
+          "location": "L02",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            518,
+            512,
+            43,
+            388
+          ],
+          "reading": "蒲鬱〔候讀〕　〔此低寫窄列字形淡〕"
+        },
+        {
+          "evidence_id": "f014-e06",
+          "location": "L07",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            291,
+            237,
+            48,
+            681
+          ],
+          "reading": "氣綱〔候讀〕　動血"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 15,
+      "image_sha256": "7047578017e98e830ae369f373c8e8afa8b9e7c3339ad58b8d0c6f21eebde49b",
+      "independent_raster_sha256": "85e99e69c4e30b436c975c2c3193b39fdd29010620fa0ccd1f67d82d070fdef9",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "十二欄間短方藥較多，右第四、左第九欄各見姓名式短行，書口無可辨葉序。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f015-e01",
+          "location": "R04",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            976,
+            226,
+            49,
+            136
+          ],
+          "reading": "鳳陽桐左"
+        },
+        {
+          "evidence_id": "f015-e02",
+          "location": "R07",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            832,
+            224,
+            50,
+            673
+          ],
+          "reading": "且藥不必"
+        },
+        {
+          "evidence_id": "f015-e03",
+          "location": "R12",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            612,
+            239,
+            48,
+            656
+          ],
+          "reading": "生地　澤瀉　龜版"
+        },
+        {
+          "evidence_id": "f015-e04",
+          "location": "L01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            559,
+            231,
+            43,
+            648
+          ],
+          "reading": "山藥　茄肉〔候讀〕　鹿膠　枸杞　黨參"
+        },
+        {
+          "evidence_id": "f015-e05",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            192,
+            226,
+            47,
+            84
+          ],
+          "reading": "包右"
+        },
+        {
+          "evidence_id": "f015-e06",
+          "location": "L10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            147,
+            225,
+            49,
+            651
+          ],
+          "reading": "年甫十四"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 16,
+      "image_sha256": "9893d943fede8700121b99963a4684841ab0058b9572a3db78f0958f279846d9",
+      "independent_raster_sha256": "8d547f754d1c2cc76768d40cceeb9039b6ecd9548a9fde711267fce9dd774b83",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "雙面滿欄。左上方有與正文相離的墨字，另見左中方藥。右側書口細傷延在紙緣。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f016-e01",
+          "location": "R01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1100,
+            228,
+            56,
+            536
+          ],
+          "reading": "貝母　桔梗　白菊花　桑葉　棠花〔末項疑〕"
+        },
+        {
+          "evidence_id": "f016-e02",
+          "location": "R02",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1063,
+            223,
+            49,
+            664
+          ],
+          "reading": "鼻開竅於肺"
+        },
+        {
+          "evidence_id": "f016-e03",
+          "location": "R10",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            691,
+            227,
+            49,
+            667
+          ],
+          "reading": "血病　二月"
+        },
+        {
+          "evidence_id": "f016-e04",
+          "location": "L05",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            375,
+            219,
+            49,
+            669
+          ],
+          "reading": "九曲回腸"
+        },
+        {
+          "evidence_id": "f016-e05",
+          "location": "L08",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            237,
+            216,
+            50,
+            662
+          ],
+          "reading": "甘加味　〔後接候讀〕"
+        },
+        {
+          "evidence_id": "f016-e06",
+          "location": "L上",
+          "layer": "marginal",
+          "bbox_approx_xywh_px": [
+            233,
+            104,
+            43,
+            45
+          ],
+          "reading": "〔獲？〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 17,
+      "image_sha256": "1a9a27826a31cdaa5323bb2e08e5956319f8eb34c8515546aeb58b0ccd2f6004",
+      "independent_raster_sha256": "2702605648e756c7c38c63f7db7fa85173e431811fb25db702c4d37fadd4df8b",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "雙面均十二個縱軸，右中幾欄藥名帶低小計量，左末第二軸另寫「復診」。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f017-e01",
+          "location": "R03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1024,
+            219,
+            47,
+            613
+          ],
+          "reading": "芡實　紅莎〔第二項候讀〕"
+        },
+        {
+          "evidence_id": "f017-e02",
+          "location": "R06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            879,
+            218,
+            54,
+            680
+          ],
+          "reading": "大白芍　生牡蠣"
+        },
+        {
+          "evidence_id": "f017-e03",
+          "location": "R11",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            646,
+            218,
+            53,
+            660
+          ],
+          "reading": "河車一具　龜版"
+        },
+        {
+          "evidence_id": "f017-e04",
+          "location": "L01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            558,
+            223,
+            49,
+            526
+          ],
+          "reading": "用六味地黃〔首讀〕加砂仁"
+        },
+        {
+          "evidence_id": "f017-e05",
+          "location": "L02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            514,
+            218,
+            46,
+            223
+          ],
+          "reading": "黃岡葉少爺"
+        },
+        {
+          "evidence_id": "f017-e06",
+          "location": "L11",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            94,
+            253,
+            44,
+            306
+          ],
+          "reading": "復診加〔續下字待核〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 18,
+      "image_sha256": "7353cdc7e786e20db31aa173b792ba37ded3418e6554e57c1a0b9382966fa0bd",
+      "independent_raster_sha256": "0734eb9d63416e9d00b2a2d172d1e2946fb02ca9a26be75300828dd2e524cf92",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "雙面十二墨軸。藥旁小數多；右第十軸及左第四、十一軸有案首或續診標記。左下見橢圓水跡。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f018-e01",
+          "location": "R02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1064,
+            219,
+            48,
+            673
+          ],
+          "reading": "補中益氣湯"
+        },
+        {
+          "evidence_id": "f018-e02",
+          "location": "R10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            690,
+            219,
+            48,
+            226
+          ],
+          "reading": "徽州石左"
+        },
+        {
+          "evidence_id": "f018-e03",
+          "location": "L04",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            461,
+            220,
+            47,
+            502
+          ],
+          "reading": "復診用六味地黃湯加肉桂"
+        },
+        {
+          "evidence_id": "f018-e04",
+          "location": "L07",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            323,
+            218,
+            49,
+            671
+          ],
+          "reading": "水穀之氣"
+        },
+        {
+          "evidence_id": "f018-e05",
+          "location": "L11",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            91,
+            225,
+            48,
+            123
+          ],
+          "reading": "謝大人"
+        },
+        {
+          "evidence_id": "f018-e06",
+          "location": "L12旁",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            96,
+            688,
+            26,
+            41
+          ],
+          "reading": "〔脉？〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 19,
+      "image_sha256": "a842d95b7880cb685e7b4d5971b1982cff5734095c82e0027f7d03753e13cdba",
+      "independent_raster_sha256": "042727859ee70b105545c89d9b2015908a3226d0b26a8cca72309f58213b286e",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "兩面各十二軸。右第八軸及左第五軸短而低書。左末兩軸接新人名及診語，紙下水跡。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f019-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1110,
+            221,
+            53,
+            664
+          ],
+          "reading": "尾閭不振"
+        },
+        {
+          "evidence_id": "f019-e02",
+          "location": "R03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1018,
+            215,
+            52,
+            645
+          ],
+          "reading": "鹿膠　熟地　枸杞　人參"
+        },
+        {
+          "evidence_id": "f019-e03",
+          "location": "R08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            789,
+            274,
+            39,
+            415
+          ],
+          "reading": "原方加〔左部難讀〕"
+        },
+        {
+          "evidence_id": "f019-e04",
+          "location": "L05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            373,
+            218,
+            45,
+            139
+          ],
+          "reading": "謝少爺"
+        },
+        {
+          "evidence_id": "f019-e05",
+          "location": "L11",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            92,
+            233,
+            49,
+            167
+          ],
+          "reading": "高郵孫左〔姓形有疑〕"
+        },
+        {
+          "evidence_id": "f019-e06",
+          "location": "L12",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            48,
+            228,
+            47,
+            653
+          ],
+          "reading": "肺　〔欄端症候待裁〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 20,
+      "image_sha256": "d07237bde78c1883014f11aab3124551838b0e5365ad7112f7ef455428a2db9b",
+      "independent_raster_sha256": "6085ad02f1b4513e4f46f522b9712408d53ab0ff8fef9f9aa5ab275c5c789d99",
+      "independent_raster_dimensions": [
+        1500,
+        1036
+      ],
+      "layout": "雙面滿欄，右第十一欄及左第八欄見案頭；左第三軸極短，上外有一大塊淡紙漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f020-e01",
+          "location": "R03",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            1026,
+            228,
+            48,
+            670
+          ],
+          "reading": "九月　〔月前似十，可再裁〕"
+        },
+        {
+          "evidence_id": "f020-e02",
+          "location": "R09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            744,
+            228,
+            47,
+            647
+          ],
+          "reading": "桔梗　甘草"
+        },
+        {
+          "evidence_id": "f020-e03",
+          "location": "R11",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            654,
+            221,
+            48,
+            260
+          ],
+          "reading": "徽州吳敬之"
+        },
+        {
+          "evidence_id": "f020-e04",
+          "location": "L02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            509,
+            230,
+            49,
+            660
+          ],
+          "reading": "原方加減"
+        },
+        {
+          "evidence_id": "f020-e05",
+          "location": "L08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            243,
+            229,
+            48,
+            326
+          ],
+          "reading": "蘇州崑山朱敬〔末字有疑〕"
+        },
+        {
+          "evidence_id": "f020-e06",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            195,
+            228,
+            48,
+            659
+          ],
+          "reading": "腎根不固"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 21,
+      "image_sha256": "e491101171d2c45800d45b2d651b675f0b92cb9c4a2ff925e67b7334746efd9a",
+      "independent_raster_sha256": "e629fc5b84c0342576093c099a24e474bd8661a840a5953ed2af6d11178f54e1",
+      "independent_raster_dimensions": [
+        1500,
+        1035
+      ],
+      "layout": "兩面十二欄，右上有兩墨漬，右中藥項計量與正文同軸低寫，左第五、九軸可見補方。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f021-e01",
+          "location": "R03",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1015,
+            226,
+            50,
+            599
+          ],
+          "reading": "便諸同學裁酌"
+        },
+        {
+          "evidence_id": "f021-e02",
+          "location": "R05–R06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            882,
+            222,
+            89,
+            653
+          ],
+          "reading": "遠志　黃芡〔第二項待核〕　黨參　人參　野料豆"
+        },
+        {
+          "evidence_id": "f021-e03",
+          "location": "R12",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            606,
+            227,
+            45,
+            651
+          ],
+          "reading": "土虛木旺"
+        },
+        {
+          "evidence_id": "f021-e04",
+          "location": "L01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            550,
+            214,
+            41,
+            670
+          ],
+          "reading": "鹿膠　鹿霜　人參"
+        },
+        {
+          "evidence_id": "f021-e05",
+          "location": "L02旁",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            500,
+            593,
+            56,
+            124
+          ],
+          "reading": "〔兩細行與藥項並見，字跡淡〕"
+        },
+        {
+          "evidence_id": "f021-e06",
+          "location": "L09",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            183,
+            286,
+            45,
+            286
+          ],
+          "reading": "復診加沉香　〔首字疑〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 22,
+      "image_sha256": "1dfba46b25e680ccf60bce9089dc2778dce221d72576aa9a13b515bce77f81c2",
+      "independent_raster_sha256": "10ba9b8be8fe369d7e454d907921018caa1abe4b1fc8d06d470668d9a4cb9a35",
+      "independent_raster_dimensions": [
+        1500,
+        1038
+      ],
+      "layout": "兩面十二縱軸，右方藥夾細量，左面有近上部墨圈，紅水印橫過雙葉。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f022-e01",
+          "location": "R05–R06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            883,
+            216,
+            90,
+            634
+          ],
+          "reading": "人參　鹿茸　鹿霜"
+        },
+        {
+          "evidence_id": "f022-e02",
+          "location": "R07",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            832,
+            214,
+            50,
+            655
+          ],
+          "reading": "又服四劑"
+        },
+        {
+          "evidence_id": "f022-e03",
+          "location": "L01–L02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            514,
+            235,
+            95,
+            642
+          ],
+          "reading": "於术　肉桂　車前子"
+        },
+        {
+          "evidence_id": "f022-e04",
+          "location": "L06前",
+          "layer": "marginal",
+          "bbox_approx_xywh_px": [
+            350,
+            182,
+            29,
+            46
+          ],
+          "reading": "〔一細墨圈，旁有拖筆〕"
+        },
+        {
+          "evidence_id": "f022-e05",
+          "location": "L12",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            48,
+            223,
+            50,
+            677
+          ],
+          "reading": "病勢大減"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 23,
+      "image_sha256": "7cfa3b8c8718e9ba56bcb9b3141a8f0e5166e1002003f18e2c856931a97bc680",
+      "independent_raster_sha256": "b81c076e0193e28076ec857e531278ca17c6bca164ddfd44af4806ca3b81bba9",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "第一冊最後正文開面，右七個字軸；左白護葉略透淡痕，未見可辨正面墨文。褐葉有長水痕。",
+      "observed_counts": {
+        "R": 7,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f023-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1096,
+            226,
+            49,
+            661
+          ],
+          "reading": "仍當清心"
+        },
+        {
+          "evidence_id": "f023-e02",
+          "location": "R02",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1048,
+            224,
+            45,
+            422
+          ],
+          "reading": "健中陽調臟府化痰積"
+        },
+        {
+          "evidence_id": "f023-e03",
+          "location": "R03–R05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            904,
+            221,
+            145,
+            630
+          ],
+          "reading": "生地　柏子仁〔中項候讀〕　茯神　黨參　遠志"
+        },
+        {
+          "evidence_id": "f023-e04",
+          "location": "R07",
+          "layer": "ending",
+          "bbox_approx_xywh_px": [
+            812,
+            269,
+            47,
+            483
+          ],
+          "reading": "〔第一冊墨文末欄，未見卷終題〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 24,
+      "image_sha256": "87b2dfb92f82c845428fb9ce47e92cf31f6df525bcc33e7f926bf3ab69dba69a",
+      "independent_raster_sha256": "6cbf0b3675b6ad80260474ae3868dd485ed00f10986840b31c23a8a0ad3a718f",
+      "independent_raster_dimensions": [
+        1420,
+        1500
+      ],
+      "layout": "第一冊線裝封背，綁線在左，單幅青灰封面無原墨。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f024-e01",
+          "location": "封背",
+          "layer": "fascicle_boundary",
+          "bbox_approx_xywh_px": [
+            33,
+            26,
+            967,
+            1445
+          ],
+          "reading": "〔第一冊封背〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 25,
+      "image_sha256": "47366d37d28d4af9656188851f2605bfc90581759dc33a57b4f3f1b3432aaee3",
+      "independent_raster_sha256": "fc35c9c73bdd4fc25528fdca98c9e3f7d40dedc685661319f7d71a3ad409882a",
+      "independent_raster_dimensions": [
+        1436,
+        1500
+      ],
+      "layout": "第二冊線裝封面，綁線在右，右下角翹損，沒有可辨書題。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f025-e01",
+          "location": "封面",
+          "layer": "fascicle_boundary",
+          "bbox_approx_xywh_px": [
+            36,
+            29,
+            956,
+            1440
+          ],
+          "reading": "〔第二冊封面〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 26,
+      "image_sha256": "4b9400d79c658c7066d2ebd5323ef5e7dccd78e1f01444f979befe9554ba5c5d",
+      "independent_raster_sha256": "d3d5337fd5bb5f432f6a2a4e16ffac9f469aeebb1d1e28c35f2a0447c1f8e641",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "第二冊護葉，兩面白，左下橫筆冊號，右面無館貼。右側色卡完整。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f026-e01",
+          "location": "L下緣",
+          "layer": "fascicle_boundary",
+          "bbox_approx_xywh_px": [
+            282,
+            972,
+            126,
+            29
+          ],
+          "reading": "〔347937？〕 v.2"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 27,
+      "image_sha256": "8f1092fc3ab17b1ec1048f79b01ef787eaa807becee4ade6bc16de10a04f2700",
+      "independent_raster_sha256": "5cd9c5f1217bbba733cca2c5a64ef2b5ca8dbe675906e382eea08b1757732a37",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "第二冊褐紙正文自左首「謝大人」起，對面白。左近縫下一長方朱印、上緣蟲蝕。",
+      "observed_counts": {
+        "R": 0,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f027-e01",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            569,
+            225,
+            41,
+            106
+          ],
+          "reading": "謝大人"
+        },
+        {
+          "evidence_id": "f027-e02",
+          "location": "L02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            523,
+            225,
+            47,
+            678
+          ],
+          "reading": "脾乃生痰之源肺爲貯痰之器"
+        },
+        {
+          "evidence_id": "f027-e03",
+          "location": "L07–L08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            254,
+            237,
+            91,
+            669
+          ],
+          "reading": "鹿膠　兎絲　生地　鹿霜　黨參"
+        },
+        {
+          "evidence_id": "f027-e04",
+          "location": "L近縫",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            564,
+            757,
+            48,
+            87
+          ],
+          "reading": "〔朱印一枚，印文待釋〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 28,
+      "image_sha256": "67edefee7ca98ba03d6ad2d8919da94c9966b3c8e290403bc74ea10915db598f",
+      "independent_raster_sha256": "29339925688eb57b63ceb5e177d7bdb4c3d67b18d00a13e25e4e7a68e7790a4b",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "雙面十二軸，右第一欄短，下部留白；上縫及右上有大段水漬。左側中低細裂。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f028-e01",
+          "location": "R01",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            1120,
+            233,
+            46,
+            133
+          ],
+          "reading": "陳仲二劑〔中一字疑〕"
+        },
+        {
+          "evidence_id": "f028-e02",
+          "location": "R02–R03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1026,
+            230,
+            100,
+            650
+          ],
+          "reading": "人參　熟地　茯神　甘草"
+        },
+        {
+          "evidence_id": "f028-e03",
+          "location": "R05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            934,
+            230,
+            44,
+            666
+          ],
+          "reading": "服藥後〔下文窄淡〕"
+        },
+        {
+          "evidence_id": "f028-e04",
+          "location": "L06",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            348,
+            238,
+            45,
+            301
+          ],
+          "reading": "先天造化之氣"
+        },
+        {
+          "evidence_id": "f028-e05",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            216,
+            242,
+            43,
+            167
+          ],
+          "reading": "乞治高太爺〔候讀〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 29,
+      "image_sha256": "a1173e7f3853c5ad188588f4ed8f89fd2bd9fe71cd87287496a61273768fa2f6",
+      "independent_raster_sha256": "f85bea12701d2cf005cc82ae9bbb37a4bf4feac8ee667762c48d237baddc025d",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "兩面各十二墨軸。左最外欄後半小字起書。上縫蟲蝕而墨文主要在下。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f029-e01",
+          "location": "R01–R03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1024,
+            237,
+            146,
+            561
+          ],
+          "reading": "熟地　茯神　覆盆子　鹿尾　蓮鬚　燕根　遠志"
+        },
+        {
+          "evidence_id": "f029-e02",
+          "location": "R10",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            706,
+            241,
+            45,
+            152
+          ],
+          "reading": "九九潤方〔末字待核〕"
+        },
+        {
+          "evidence_id": "f029-e03",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            567,
+            233,
+            48,
+            664
+          ],
+          "reading": "南京董又愷〔末字候讀〕"
+        },
+        {
+          "evidence_id": "f029-e04",
+          "location": "L02",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            521,
+            236,
+            46,
+            664
+          ],
+          "reading": "年甫三二"
+        },
+        {
+          "evidence_id": "f029-e05",
+          "location": "L12",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            61,
+            480,
+            42,
+            405
+          ],
+          "reading": "〔最外列見細墨，與前方連屬待查〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 30,
+      "image_sha256": "8402389d7737e56efe3bccae7108dea8286b3193a6ff1a164934b35643fe9caa",
+      "independent_raster_sha256": "58141cd502c76d97dd871d3cdad288f45dad7ee098128b7f4c959f415d340302",
+      "independent_raster_dimensions": [
+        1500,
+        1024
+      ],
+      "layout": "雙面各十二軸，右靠縫有全高暗濕痕；左第四軸單「左」字，當作可見殘案首保留。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f030-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1119,
+            228,
+            42,
+            218
+          ],
+          "reading": "朱〔以下淡字，候讀〕"
+        },
+        {
+          "evidence_id": "f030-e02",
+          "location": "R05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            932,
+            226,
+            45,
+            654
+          ],
+          "reading": "完骨〔首二字待裁〕"
+        },
+        {
+          "evidence_id": "f030-e03",
+          "location": "R07",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            841,
+            224,
+            47,
+            654
+          ],
+          "reading": "一旬　六月　八月"
+        },
+        {
+          "evidence_id": "f030-e04",
+          "location": "L03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            473,
+            485,
+            47,
+            290
+          ],
+          "reading": "北小麥　紅棗二枚"
+        },
+        {
+          "evidence_id": "f030-e05",
+          "location": "L04",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            426,
+            225,
+            41,
+            56
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f030-e06",
+          "location": "L05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            382,
+            223,
+            45,
+            663
+          ],
+          "reading": "年逾七〔「十」未可確〕　因讀書"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 31,
+      "image_sha256": "a2b1c4aad94d8cca9498f5cd9e1f6f3bca11c55b367e504e74f9f344c1b2a976",
+      "independent_raster_sha256": "3fdf5936f191975416e2e5d170e7fc89a8f0542bf169bb3dc5d9b87ad1d9e373",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "右第一軸低寫，右近縫有深水痕。左十一可見欄，外側大片空白，右側方名與細計等並寫。",
+      "observed_counts": {
+        "R": 12,
+        "L": 11
+      },
+      "evidence": [
+        {
+          "evidence_id": "f031-e01",
+          "location": "R01",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            1119,
+            346,
+            46,
+            393
+          ],
+          "reading": "葛仙翁治五行調氣之法〔中讀待核〕"
+        },
+        {
+          "evidence_id": "f031-e02",
+          "location": "R06",
+          "layer": "citation",
+          "bbox_approx_xywh_px": [
+            885,
+            222,
+            50,
+            658
+          ],
+          "reading": "論曰東方生木"
+        },
+        {
+          "evidence_id": "f031-e03",
+          "location": "R12",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            613,
+            222,
+            47,
+            499
+          ],
+          "reading": "尊大人服藥仍〔字疑〕未見減"
+        },
+        {
+          "evidence_id": "f031-e04",
+          "location": "L01–L02",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            516,
+            225,
+            85,
+            672
+          ],
+          "reading": "珍珠母　龜甲　蘇頭〔一項待核〕"
+        },
+        {
+          "evidence_id": "f031-e05",
+          "location": "L11",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            106,
+            243,
+            47,
+            623
+          ],
+          "reading": "未識文童然中試官〔續字有疑〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 32,
+      "image_sha256": "732ac647b7bdbe581c91914aba49b4c30c2a1c434d395f011a43663c48271df0",
+      "independent_raster_sha256": "cfe88988fa65da8bf0f297e923bf5037843b39c75f7ea0a291bee89e71347c9b",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "右首「左」獨書，右外旁有雙行小字。左後新起「朱左」，上緣寬白，兩面可見水漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f032-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1112,
+            229,
+            43,
+            59
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f032-e02",
+          "location": "R01旁",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            1115,
+            604,
+            54,
+            117
+          ],
+          "reading": "〔兩窄墨行，見「甘」，餘字待裁〕"
+        },
+        {
+          "evidence_id": "f032-e03",
+          "location": "R02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1069,
+            228,
+            43,
+            660
+          ],
+          "reading": "冬溫一候"
+        },
+        {
+          "evidence_id": "f032-e04",
+          "location": "R07–R08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            788,
+            231,
+            94,
+            655
+          ],
+          "reading": "熟地　人參　白芍　炮薑　黨參"
+        },
+        {
+          "evidence_id": "f032-e05",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            207,
+            223,
+            47,
+            115
+          ],
+          "reading": "朱左"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 33,
+      "image_sha256": "5d24d95c711dd52a21a4eeeb4669462ca886a742fa0ba77241821bd2da7b6676",
+      "independent_raster_sha256": "21255b431039b4c55821f9fac9cc1292fdfcc72b7cc198bd495f8257fbade61d",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "雙面十二軸，右第二軸單「右」字，左第五軸「丁左」另起。右中縫方向有淡褐直水痕。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f033-e01",
+          "location": "R01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1114,
+            220,
+            41,
+            360
+          ],
+          "reading": "八味加麥冬　五味　沉香〔末字疑〕"
+        },
+        {
+          "evidence_id": "f033-e02",
+          "location": "R02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1067,
+            225,
+            41,
+            55
+          ],
+          "reading": "右"
+        },
+        {
+          "evidence_id": "f033-e03",
+          "location": "R03",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1019,
+            222,
+            49,
+            654
+          ],
+          "reading": "奇經閉〔下字待核〕"
+        },
+        {
+          "evidence_id": "f033-e04",
+          "location": "R09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            744,
+            220,
+            45,
+            441
+          ],
+          "reading": "白薇　龍齒〔第二項候讀〕　鹿膠"
+        },
+        {
+          "evidence_id": "f033-e05",
+          "location": "L05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            381,
+            229,
+            41,
+            107
+          ],
+          "reading": "丁左"
+        },
+        {
+          "evidence_id": "f033-e06",
+          "location": "L07",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            285,
+            229,
+            51,
+            666
+          ],
+          "reading": "病延多月"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 34,
+      "image_sha256": "078f8b43f0b2365dcd141a3a300a506151b0b6b4089a331a3caf2dd487ec3771",
+      "independent_raster_sha256": "f5a0d444533dcf1bdc222487e4a0c758f0299f532825b0dfdce8114805a5a5f1",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "雙面十二墨軸。右第一、七及左第一、六、九軸有短案首，方藥夾在各段內。右近縫長暗漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f034-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1118,
+            230,
+            46,
+            131
+          ],
+          "reading": "丹徒王左"
+        },
+        {
+          "evidence_id": "f034-e02",
+          "location": "R06",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            877,
+            234,
+            50,
+            307
+          ],
+          "reading": "六味地黃湯加沉香"
+        },
+        {
+          "evidence_id": "f034-e03",
+          "location": "R07",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            835,
+            222,
+            45,
+            84
+          ],
+          "reading": "李左"
+        },
+        {
+          "evidence_id": "f034-e04",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            564,
+            245,
+            42,
+            70
+          ],
+          "reading": "紀右〔姓形候讀〕"
+        },
+        {
+          "evidence_id": "f034-e05",
+          "location": "L06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            333,
+            238,
+            46,
+            56
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f034-e06",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            196,
+            235,
+            45,
+            85
+          ],
+          "reading": "尹左〔姓形候讀〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 35,
+      "image_sha256": "f3a52ee5c91e3e4f6785d9f13e9ef76b1b4ac1445f8bf57f11bb98fa68aeb0bf",
+      "independent_raster_sha256": "06ef7f68cac258170896fd37fc259baf4511985955d0b2cc4e4b4b6545b81645",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "雙面十二墨軸。右上整塊缺角與圓孔高於字頂，左上也有大片紙損。右第一及第六欄低短案首。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f035-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1117,
+            230,
+            43,
+            57
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f035-e02",
+          "location": "R04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            971,
+            232,
+            47,
+            644
+          ],
+          "reading": "六味地黃加遠志　麥冬"
+        },
+        {
+          "evidence_id": "f035-e03",
+          "location": "R06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            880,
+            233,
+            48,
+            93
+          ],
+          "reading": "許左"
+        },
+        {
+          "evidence_id": "f035-e04",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            553,
+            228,
+            47,
+            91
+          ],
+          "reading": "王左"
+        },
+        {
+          "evidence_id": "f035-e05",
+          "location": "L09",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            185,
+            236,
+            49,
+            133
+          ],
+          "reading": "調藥方"
+        },
+        {
+          "evidence_id": "f035-e06",
+          "location": "R上",
+          "layer": "damage",
+          "bbox_approx_xywh_px": [
+            749,
+            77,
+            101,
+            93
+          ],
+          "reading": "〔圓形擦損，中央露背色〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 36,
+      "image_sha256": "2f8bd63d472d08604e79743c4cc72be6d17d07ece6eb8ed10ce707b40d827be3",
+      "independent_raster_sha256": "e9d8f541eef159eaf243272e5604634cc1c87ed1b13e9a0bc4c26bae39cfefe5",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "雙面十二縱欄，有獨字案首與短方藥，右第一軸低起；右近縫褐線延整頁。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f036-e01",
+          "location": "R01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1113,
+            328,
+            50,
+            327
+          ],
+          "reading": "用百花酒"
+        },
+        {
+          "evidence_id": "f036-e02",
+          "location": "R02",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1066,
+            242,
+            46,
+            55
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f036-e03",
+          "location": "R10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            692,
+            237,
+            45,
+            93
+          ],
+          "reading": "鄒左〔姓形候讀〕"
+        },
+        {
+          "evidence_id": "f036-e04",
+          "location": "R12",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            608,
+            244,
+            46,
+            261
+          ],
+          "reading": "八仙長壽加肉桂"
+        },
+        {
+          "evidence_id": "f036-e05",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            558,
+            219,
+            47,
+            88
+          ],
+          "reading": "陳左"
+        },
+        {
+          "evidence_id": "f036-e06",
+          "location": "L09–L10",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            147,
+            224,
+            86,
+            404
+          ],
+          "reading": "歸脾湯去遠志加首烏"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 37,
+      "image_sha256": "c1737d41c23b8d084ca29444feee63af78f9da0965053745c17e055281fe8fa8",
+      "independent_raster_sha256": "795ce1988a3cd0d390f9af4d20d03c748db44f4b5bea7932cdf0444326fcd153",
+      "independent_raster_dimensions": [
+        1500,
+        1034
+      ],
+      "layout": "雙面十二軸。連續短案標記，單「左」「右」仍各位於主軸。右暗水線跨墨欄。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f037-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1116,
+            221,
+            45,
+            58
+          ],
+          "reading": "右"
+        },
+        {
+          "evidence_id": "f037-e02",
+          "location": "R08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            790,
+            225,
+            47,
+            95
+          ],
+          "reading": "吳左"
+        },
+        {
+          "evidence_id": "f037-e03",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            558,
+            237,
+            42,
+            53
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f037-e04",
+          "location": "L05",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            382,
+            267,
+            45,
+            506
+          ],
+          "reading": "石斛　桂元肉　麥冬"
+        },
+        {
+          "evidence_id": "f037-e05",
+          "location": "L06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            337,
+            230,
+            45,
+            54
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f037-e06",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            201,
+            234,
+            45,
+            60
+          ],
+          "reading": "左"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 38,
+      "image_sha256": "22d890cbf53aaa5871489d2df606b1eac420220a040e409aed6ca438436c332a",
+      "independent_raster_sha256": "c16decec9a4401f1e0e7c8d122ff6761b82c451b78abf824a818cb1c79699be5",
+      "independent_raster_dimensions": [
+        1500,
+        1040
+      ],
+      "layout": "左上露一條淡紙邊，右近縫暗線；右第一、六及左第四、十二欄均低書，其中末「洗方」刷新讀序。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f038-e01",
+          "location": "R05",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            931,
+            236,
+            46,
+            569
+          ],
+          "reading": "大便不通　每日服"
+        },
+        {
+          "evidence_id": "f038-e02",
+          "location": "R06",
+          "layer": "small_text",
+          "bbox_approx_xywh_px": [
+            886,
+            290,
+            49,
+            334
+          ],
+          "reading": "香砂六君子"
+        },
+        {
+          "evidence_id": "f038-e03",
+          "location": "L04",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            422,
+            438,
+            49,
+            420
+          ],
+          "reading": "童便"
+        },
+        {
+          "evidence_id": "f038-e04",
+          "location": "L09",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            193,
+            280,
+            50,
+            625
+          ],
+          "reading": "人參　大生地　升麻　北柴胡"
+        },
+        {
+          "evidence_id": "f038-e05",
+          "location": "L12",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            55,
+            337,
+            44,
+            108
+          ],
+          "reading": "洗方"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 39,
+      "image_sha256": "55f077bbcbf0e0a3ea5f5ac37586f3348b82c42c97eb6fb7fc4607d6aa5406a1",
+      "independent_raster_sha256": "50e59f2771cc437061b485e98ad0f180d6387be252fceffc76c0971e2035077c",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "雙面十二軸，頂端露白紙及掉色，右第二軸短洗方語。左右各有單字案首。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f039-e01",
+          "location": "R02",
+          "layer": "heading",
+          "bbox_approx_xywh_px": [
+            1069,
+            272,
+            43,
+            337
+          ],
+          "reading": "煎湯薰洗"
+        },
+        {
+          "evidence_id": "f039-e02",
+          "location": "R08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            781,
+            273,
+            46,
+            59
+          ],
+          "reading": "右"
+        },
+        {
+          "evidence_id": "f039-e03",
+          "location": "R09",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            732,
+            272,
+            48,
+            659
+          ],
+          "reading": "按症月事"
+        },
+        {
+          "evidence_id": "f039-e04",
+          "location": "L05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            375,
+            267,
+            46,
+            546
+          ],
+          "reading": "硼砂　蒲黃　阿膠　紅糖"
+        },
+        {
+          "evidence_id": "f039-e05",
+          "location": "L08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            240,
+            268,
+            44,
+            56
+          ],
+          "reading": "左"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 40,
+      "image_sha256": "f64693c9537a99f6024ce9c86cb541c072d53ae65ef5033b1fc7194ca5c16ca3",
+      "independent_raster_sha256": "1ebc901c981f553ecc7dba8377deb3c399439b91c288848039e80f78125ae7a2",
+      "independent_raster_dimensions": [
+        1500,
+        1036
+      ],
+      "layout": "雙面十二欄，右第八欄下部低寫，左第八欄亦低書，左第九案首獨書「左」。雙葉頂框紙緣廣損。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f040-e01",
+          "location": "R01",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            1114,
+            261,
+            49,
+            550
+          ],
+          "reading": "六味加巴戟天　鹿角膠"
+        },
+        {
+          "evidence_id": "f040-e02",
+          "location": "R08",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            788,
+            509,
+            46,
+            233
+          ],
+          "reading": "生薑一片　紅棗二枚"
+        },
+        {
+          "evidence_id": "f040-e03",
+          "location": "R11",
+          "layer": "body",
+          "bbox_approx_xywh_px": [
+            653,
+            262,
+            42,
+            515
+          ],
+          "reading": "〔大病二字疑〕　痛音啞"
+        },
+        {
+          "evidence_id": "f040-e04",
+          "location": "L09",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            185,
+            282,
+            44,
+            58
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f040-e05",
+          "location": "L10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            139,
+            284,
+            48,
+            671
+          ],
+          "reading": "年逾五旬〔末字候讀〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 41,
+      "image_sha256": "37b269f69844acec0f9bb28ada1d34cf29896170588bb7bae51775e311e4bbc3",
+      "independent_raster_sha256": "a3ae37cb3f3c7c32c7de4448ca8a3cb04bb54297bace5c904fe995f39c4de472",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "兩面十二軸，右第五與左第一各「左」獨書；右末幾欄方藥量細，左第九欄起於中段。右頂有淡紙邊。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f041-e01",
+          "location": "R01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            1111,
+            277,
+            47,
+            655
+          ],
+          "reading": "形神日羸飲食不爲肌膚"
+        },
+        {
+          "evidence_id": "f041-e02",
+          "location": "R05",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            922,
+            279,
+            46,
+            60
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f041-e03",
+          "location": "R06",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            875,
+            281,
+            47,
+            656
+          ],
+          "reading": "伏所晚卷〔上段候讀〕　十四劑"
+        },
+        {
+          "evidence_id": "f041-e04",
+          "location": "L01",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            554,
+            274,
+            45,
+            69
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f041-e05",
+          "location": "L03",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            461,
+            275,
+            50,
+            654
+          ],
+          "reading": "七月　咳勢日劇"
+        },
+        {
+          "evidence_id": "f041-e06",
+          "location": "L10",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            141,
+            274,
+            51,
+            657
+          ],
+          "reading": "內傷七月有餘"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 42,
+      "image_sha256": "b82bbccb4ab1598078accad46db4f2c1236f3d3fa45cf253f322c93b7c83b3ca",
+      "independent_raster_sha256": "b54b1e9990fe2b182e62f6c23540270f319c92db084865aa552e981110c4da79",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "兩面十二軸，右上露窄白邊，中段一列低起細字，左亦有低起方藥。右第一至五欄有小量。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f042-e01",
+          "location": "R04",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            966,
+            273,
+            47,
+            657
+          ],
+          "reading": "服藥咳稍好"
+        },
+        {
+          "evidence_id": "f042-e02",
+          "location": "R05",
+          "layer": "faint_note",
+          "bbox_approx_xywh_px": [
+            924,
+            345,
+            45,
+            280
+          ],
+          "reading": "〔服三劑？〕"
+        },
+        {
+          "evidence_id": "f042-e03",
+          "location": "R08",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            782,
+            274,
+            49,
+            650
+          ],
+          "reading": "痰中夾血"
+        },
+        {
+          "evidence_id": "f042-e04",
+          "location": "L01",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            553,
+            248,
+            46,
+            679
+          ],
+          "reading": "服藥已"
+        },
+        {
+          "evidence_id": "f042-e05",
+          "location": "L03",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            460,
+            245,
+            45,
+            664
+          ],
+          "reading": "旱蓮草　南沙參"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 43,
+      "image_sha256": "4de72989302b2ad99e7ef6c9733bed8f51387b0612724892301dfb18d27e4e92",
+      "independent_raster_sha256": "4e40f86cf06426dc65121664a64b07b7d5185cd265f4e8a41d24dccc9f0fa1f9",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "第二冊正文尾，右十二主軸，最後一欄只寫「矣」。左白護葉。右葉中央有貫穿暗漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f043-e01",
+          "location": "R05",
+          "layer": "formula",
+          "bbox_approx_xywh_px": [
+            924,
+            292,
+            49,
+            554
+          ],
+          "reading": "如法修製"
+        },
+        {
+          "evidence_id": "f043-e02",
+          "location": "R06",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            877,
+            239,
+            41,
+            59
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f043-e03",
+          "location": "R07",
+          "layer": "case",
+          "bbox_approx_xywh_px": [
+            828,
+            239,
+            46,
+            677
+          ],
+          "reading": "年逾六〔年歲末字候讀〕"
+        },
+        {
+          "evidence_id": "f043-e04",
+          "location": "R12",
+          "layer": "ending",
+          "bbox_approx_xywh_px": [
+            601,
+            235,
+            36,
+            67
+          ],
+          "reading": "矣"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 44,
+      "image_sha256": "08cb303076e9eafeece2c996ef8f068d2ea4bb85667a322a750662cdd9c988a4",
+      "independent_raster_sha256": "f8021be4aa4fb9919edcce9621973a615bcad1b5a8065e98433154fcfa2aec17",
+      "independent_raster_dimensions": [
+        1414,
+        1500
+      ],
+      "layout": "第二冊藍灰封背，左裝訂緣；中、下有零星棕痕。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f044-e01",
+          "location": "封背",
+          "layer": "fascicle_boundary",
+          "bbox_approx_xywh_px": [
+            34,
+            28,
+            952,
+            1446
+          ],
+          "reading": "〔第二冊封背〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 45,
+      "image_sha256": "ca1333dd5d21dc11fd3572f2a82efb3b8216c13dbf43d80f80bb7e3d7adb1eaf",
+      "independent_raster_sha256": "995309e75487c3f512e10371e2154fd8fb4fe5d6bd0ce24a2c024b559a8a5c28",
+      "independent_raster_dimensions": [
+        1428,
+        1500
+      ],
+      "layout": "第三冊藍灰封面，右裝訂緣，下角磨損，上緣有突出的褐痕。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f045-e01",
+          "location": "封面",
+          "layer": "fascicle_boundary",
+          "bbox_approx_xywh_px": [
+            31,
+            30,
+            962,
+            1444
+          ],
+          "reading": "〔第三冊封面〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 46,
+      "image_sha256": "27310e8bec5af627848e7f0ef32cef9fbf2b0b20ed783073e233bd2c4e2aa82a",
+      "independent_raster_sha256": "27614fdb8f84f09bca19d42cab87702502f418b2684f8ca924b460aabeb98bca",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "第三冊護葉，左葉下有鉛筆細記；右葉灰色襯面。",
+      "observed_counts": {
+        "R": 0,
+        "L": 0
+      },
+      "evidence": [
+        {
+          "evidence_id": "f046-e01",
+          "location": "左護葉",
+          "layer": "pencil",
+          "bbox_approx_xywh_px": [
+            293,
+            969,
+            133,
+            32
+          ],
+          "reading": "〔數字待核〕 v.3"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 47,
+      "image_sha256": "92b970c71a6d01a7ffdcbd5977094874fc4794187f953e086ab65f64f360403a",
+      "independent_raster_sha256": "03faadd63ddc4a33eb3b6367b7b4153c3b7ab59291f27aa668c3ceb63b15724f",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "第三冊首見正文，右葉白；左葉數欄短書，近縫有紅印，印分層。",
+      "observed_counts": {
+        "R": 0,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f047-e01",
+          "location": "L02",
+          "layer": "historical_text",
+          "bbox_approx_xywh_px": [
+            531,
+            219,
+            51,
+            219
+          ],
+          "reading": "丹皮　麥冬"
+        },
+        {
+          "evidence_id": "f047-e02",
+          "location": "L07",
+          "layer": "historical_text",
+          "bbox_approx_xywh_px": [
+            306,
+            105,
+            50,
+            317
+          ],
+          "reading": "參麥六味加貝母"
+        },
+        {
+          "evidence_id": "f047-e03",
+          "location": "L08",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            264,
+            113,
+            41,
+            63
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f047-e04",
+          "location": "L09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            208,
+            102,
+            51,
+            368
+          ],
+          "reading": "年逾六五便後血出"
+        },
+        {
+          "evidence_id": "f047-e05",
+          "location": "左葉近縫",
+          "layer": "seal",
+          "bbox_approx_xywh_px": [
+            543,
+            775,
+            65,
+            90
+          ],
+          "reading": "〔長方紅印，印文字待核〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 48,
+      "image_sha256": "1493c2978ac74610aea57ea56f8982ebc0f8281e12e63a207c7727483bbb1b00",
+      "independent_raster_sha256": "24f2e3e4f52eb73f56c74d867e7b73e0b7bb69e9aa9077f0de86d7244d9e015a",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "兩葉舊水痕，右葉中部紅水印。左葉外緣有單字案首與另一欄間距增大，內側有中段短欄。",
+      "observed_counts": {
+        "R": 12,
+        "L": 11
+      },
+      "evidence": [
+        {
+          "evidence_id": "f048-e01",
+          "location": "R01",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            1113,
+            230,
+            47,
+            58
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f048-e02",
+          "location": "R03",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1032,
+            257,
+            42,
+            571
+          ],
+          "reading": "飲食日減"
+        },
+        {
+          "evidence_id": "f048-e03",
+          "location": "L04",
+          "layer": "marginal_short",
+          "bbox_approx_xywh_px": [
+            438,
+            467,
+            46,
+            103
+          ],
+          "reading": "薑棗"
+        },
+        {
+          "evidence_id": "f048-e04",
+          "location": "L05",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            391,
+            215,
+            53,
+            422
+          ],
+          "reading": "因於氣為腫"
+        },
+        {
+          "evidence_id": "f048-e05",
+          "location": "L11",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            66,
+            225,
+            43,
+            60
+          ],
+          "reading": "左"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 49,
+      "image_sha256": "08efd2eb0e3da473696b3667a8d606a36fc48f1ac59a244b751dce172cb05986",
+      "independent_raster_sha256": "5d59250c98308271a1165fc94a44ed13e654a543bc135846b69c308254be15d9",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "右葉中段起新案，左葉中部獨立書復診，雙葉底緣舊漬。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f049-e01",
+          "location": "R07",
+          "layer": "historical_text",
+          "bbox_approx_xywh_px": [
+            844,
+            218,
+            46,
+            170
+          ],
+          "reading": "八仙長壽"
+        },
+        {
+          "evidence_id": "f049-e02",
+          "location": "R08",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            801,
+            215,
+            44,
+            49
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f049-e03",
+          "location": "R09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            753,
+            213,
+            54,
+            266
+          ],
+          "reading": "臍中出水歷四五年"
+        },
+        {
+          "evidence_id": "f049-e04",
+          "location": "L04",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            439,
+            308,
+            40,
+            111
+          ],
+          "reading": "復診"
+        },
+        {
+          "evidence_id": "f049-e05",
+          "location": "L05",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            388,
+            233,
+            53,
+            307
+          ],
+          "reading": "臍中出膿血"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 50,
+      "image_sha256": "95aca4716e4f74da49fb27cf6d8ce8e3ea0b9232c43c857c8dc98d39b96efb77",
+      "independent_raster_sha256": "ddab3f349c0f673469b3fa4a2d18c89b48eebcef51225247383f59f8a1e926d3",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "右外側單字案首；兩葉欄內皆可見小字，近右葉末端和左葉起欄較明顯。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f050-e01",
+          "location": "R01",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            1118,
+            215,
+            40,
+            60
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f050-e02",
+          "location": "R02",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1063,
+            226,
+            51,
+            242
+          ],
+          "reading": "經以任脈為病"
+        },
+        {
+          "evidence_id": "f050-e03",
+          "location": "R12",
+          "layer": "historical_text",
+          "bbox_approx_xywh_px": [
+            618,
+            675,
+            42,
+            150
+          ],
+          "reading": "山藥"
+        },
+        {
+          "evidence_id": "f050-e04",
+          "location": "L01",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            565,
+            466,
+            36,
+            84
+          ],
+          "reading": "〔小字兩行，筆勢交接待核〕"
+        },
+        {
+          "evidence_id": "f050-e05",
+          "location": "L11",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            111,
+            231,
+            54,
+            347
+          ],
+          "reading": "腎氣逆上犯中宮"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 51,
+      "image_sha256": "e0268341e62cc616a2629fa04d573a94ad8d134aa2439aabc88792f09772428d",
+      "independent_raster_sha256": "ab5d87421aa5032e141a4a9c9a7dc7714600393a02b3d2e991e75ab11bf39c42",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "右葉第七欄由中段開始，第八欄僅書案首。左葉內外各有病例續記，底水痕未及主要筆畫。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f051-e01",
+          "location": "R04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            977,
+            222,
+            50,
+            587
+          ],
+          "reading": "回府徐徐調養"
+        },
+        {
+          "evidence_id": "f051-e02",
+          "location": "R08",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            791,
+            222,
+            46,
+            47
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f051-e03",
+          "location": "R09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            747,
+            216,
+            49,
+            233
+          ],
+          "reading": "大怒則形氣絕"
+        },
+        {
+          "evidence_id": "f051-e04",
+          "location": "L04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            431,
+            228,
+            51,
+            400
+          ],
+          "reading": "病原已載前方"
+        },
+        {
+          "evidence_id": "f051-e05",
+          "location": "L12",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            63,
+            233,
+            44,
+            323
+          ],
+          "reading": "一方回府調理可也"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 52,
+      "image_sha256": "3028ecd4fe0ab4008a86f0d4ced73fadb7e52fb01a56f2ac94951bcf4a7bf427",
+      "independent_raster_sha256": "b18cc30f8b94a1c84bfab4233e859d61176d14f1dabb2cbc13c7af88bd8f9e52",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "右葉第十一欄後靠縫留空；左葉外側另以小欄標復診。深色直漬疊在右葉兩欄。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f052-e01",
+          "location": "R04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            980,
+            280,
+            60,
+            549
+          ],
+          "reading": "原方加薑汁"
+        },
+        {
+          "evidence_id": "f052-e02",
+          "location": "L01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            570,
+            230,
+            42,
+            152
+          ],
+          "reading": "慈原前方"
+        },
+        {
+          "evidence_id": "f052-e03",
+          "location": "L09",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            161,
+            282,
+            49,
+            104
+          ],
+          "reading": "復診"
+        },
+        {
+          "evidence_id": "f052-e04",
+          "location": "L12",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            68,
+            219,
+            54,
+            325
+          ],
+          "reading": "聲咳嗽痰活心慌"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 53,
+      "image_sha256": "b5a488b90b8eef6f3f7c06b85b05ecae79657c5967540c0d7ea89a0be33304d9",
+      "independent_raster_sha256": "17af94ac2f86708a0b4f072ab880040af49e1aede3044ba2b3a90119c89b754a",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "右葉第六欄另起複診文字，緊接第七欄另書日期；左葉第六至第七個有字欄間留白，第六欄左下仍有小字。",
+      "observed_counts": {
+        "R": 12,
+        "L": 11
+      },
+      "evidence": [
+        {
+          "evidence_id": "f053-e01",
+          "location": "R06",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            882,
+            233,
+            48,
+            130
+          ],
+          "reading": "左說方"
+        },
+        {
+          "evidence_id": "f053-e02",
+          "location": "R07",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            830,
+            217,
+            54,
+            143
+          ],
+          "reading": "十一月十三日"
+        },
+        {
+          "evidence_id": "f053-e03",
+          "location": "L06",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            322,
+            682,
+            64,
+            191
+          ],
+          "reading": "〔兩列小字，暫留待核〕"
+        },
+        {
+          "evidence_id": "f053-e04",
+          "location": "L07",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            249,
+            229,
+            49,
+            183
+          ],
+          "reading": "心脈短大"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 54,
+      "image_sha256": "69e6bebbb3c806ca1cad7fcea8dcf43a42824508e242bbe54a1976e185b2cc33",
+      "independent_raster_sha256": "37c009a78e843c38688b8e8c2184bdf7d735ab9d9998c0474762a6a60862cec2",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "右葉靠縫另留兩個欄距，最後兩欄低起。左葉上緣兩片淺斑，紙漬界線與墨書不連。",
+      "observed_counts": {
+        "R": 10,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f054-e01",
+          "location": "R01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1114,
+            235,
+            52,
+            230
+          ],
+          "reading": "今夏大病之後"
+        },
+        {
+          "evidence_id": "f054-e02",
+          "location": "R04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            978,
+            234,
+            48,
+            202
+          ],
+          "reading": "脾胃為主"
+        },
+        {
+          "evidence_id": "f054-e03",
+          "location": "L01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            566,
+            232,
+            46,
+            108
+          ],
+          "reading": "頃奉"
+        },
+        {
+          "evidence_id": "f054-e04",
+          "location": "L12",
+          "layer": "historical_text",
+          "bbox_approx_xywh_px": [
+            59,
+            235,
+            47,
+            292
+          ],
+          "reading": "八仙長壽"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 55,
+      "image_sha256": "3c61d6ca18f59a894ed66be3c814ac578f299e0878288f052807c1c26dbb9678",
+      "independent_raster_sha256": "a06fa71222d2d5e2d5025ae10157ae73f0b15da1b4ce2d6f36756e68ede9ba89",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "右葉第五欄僅書案首，第十欄低起，第十一欄見月份。左葉一短欄自葉中央起，第七欄見復診。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f055-e01",
+          "location": "R05",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            929,
+            231,
+            46,
+            61
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f055-e02",
+          "location": "R06",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            880,
+            234,
+            49,
+            269
+          ],
+          "reading": "神不守舍"
+        },
+        {
+          "evidence_id": "f055-e03",
+          "location": "R11",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            654,
+            231,
+            44,
+            136
+          ],
+          "reading": "五月"
+        },
+        {
+          "evidence_id": "f055-e04",
+          "location": "L07",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            293,
+            229,
+            51,
+            144
+          ],
+          "reading": "復診加"
+        },
+        {
+          "evidence_id": "f055-e05",
+          "location": "L09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            202,
+            224,
+            56,
+            398
+          ],
+          "reading": "神志不清記憶不明"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 56,
+      "image_sha256": "67370fec638ddb699ec46a8b7f752634fda254a62beaef294e221006c247275f",
+      "independent_raster_sha256": "22c0decb65ae299ea718bc87787c17860095459eff798053d74983f942a814c0",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "右葉近縫一帶有大面積縱漬；左葉近縫處的續方後另見複診日期及降格復診。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f056-e01",
+          "location": "R07",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            842,
+            226,
+            58,
+            278
+          ],
+          "reading": "茯神"
+        },
+        {
+          "evidence_id": "f056-e02",
+          "location": "R08",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            788,
+            231,
+            55,
+            242
+          ],
+          "reading": "心藏神腎藏志"
+        },
+        {
+          "evidence_id": "f056-e03",
+          "location": "L03",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            474,
+            266,
+            44,
+            202
+          ],
+          "reading": "次年五月診"
+        },
+        {
+          "evidence_id": "f056-e04",
+          "location": "L04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            432,
+            228,
+            48,
+            326
+          ],
+          "reading": "昨日夏至節"
+        },
+        {
+          "evidence_id": "f056-e05",
+          "location": "L08",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            249,
+            288,
+            46,
+            111
+          ],
+          "reading": "復診"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 57,
+      "image_sha256": "4d42b6cb2bde371eb5a85735b52a162f24e5d861ce1e1bd373c1db03bfc6b86c",
+      "independent_raster_sha256": "bf04c5334896525a4557814901840dd39bcf60a6ba94c7ce37d5e6750352b18d",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "右內側一個欄距空白後另有「左又」。右葉外側、左葉中部各見低起復診，細記附於左葉第四欄下。",
+      "observed_counts": {
+        "R": 11,
+        "L": 11
+      },
+      "evidence": [
+        {
+          "evidence_id": "f057-e01",
+          "location": "R02",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            1066,
+            294,
+            46,
+            111
+          ],
+          "reading": "復診"
+        },
+        {
+          "evidence_id": "f057-e02",
+          "location": "R03",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1016,
+            238,
+            50,
+            487
+          ],
+          "reading": "神安食暢"
+        },
+        {
+          "evidence_id": "f057-e03",
+          "location": "R11",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            608,
+            234,
+            49,
+            89
+          ],
+          "reading": "左又"
+        },
+        {
+          "evidence_id": "f057-e04",
+          "location": "L01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            565,
+            236,
+            43,
+            280
+          ],
+          "reading": "肝虛目眩腎虛耳暈"
+        },
+        {
+          "evidence_id": "f057-e05",
+          "location": "L06",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            341,
+            290,
+            45,
+            108
+          ],
+          "reading": "復診"
+        },
+        {
+          "evidence_id": "f057-e06",
+          "location": "L07",
+          "layer": "subheading",
+          "bbox_approx_xywh_px": [
+            296,
+            327,
+            44,
+            110
+          ],
+          "reading": "丸方"
+        },
+        {
+          "evidence_id": "f057-e07",
+          "location": "L04",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            431,
+            807,
+            47,
+            95
+          ],
+          "reading": "〔欄尾附細字，待核〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 58,
+      "image_sha256": "259fb2d9415076724f1fd7858686636dd36ca941f2d274b3e50d37fbde2f12c9",
+      "independent_raster_sha256": "93a3cfaf86ea40ac0919d7fc954b58086b25014fa10ab5457b657709071feb50",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "右葉第八欄後空一欄距，末三欄跨深漬。左葉第五欄只有頁首短記。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f058-e01",
+          "location": "R01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1112,
+            242,
+            54,
+            300
+          ],
+          "reading": "服丸以來諸恙悉退"
+        },
+        {
+          "evidence_id": "f058-e02",
+          "location": "R05",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            923,
+            239,
+            57,
+            394
+          ],
+          "reading": "現因感冒咽喉紅腫牙根腫痛"
+        },
+        {
+          "evidence_id": "f058-e03",
+          "location": "R09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            696,
+            238,
+            50,
+            235
+          ],
+          "reading": "服丸以來"
+        },
+        {
+          "evidence_id": "f058-e04",
+          "location": "L05",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            384,
+            223,
+            45,
+            111
+          ],
+          "reading": "進步"
+        },
+        {
+          "evidence_id": "f058-e05",
+          "location": "L09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            196,
+            236,
+            52,
+            223
+          ],
+          "reading": "服藥後心寧"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 59,
+      "image_sha256": "fd5eacf7876d51a3b4b7c9d1749cd3366f116cbfabbb8f7190beb6bfbad053ba",
+      "independent_raster_sha256": "0d7dfbd364300a46d54240db33cda6a47236ceebbf4def2d7350d60929203a7c",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "右葉第三欄低起，第四欄單書案首；左葉有兩整欄及數量細字。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f059-e01",
+          "location": "R04",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            982,
+            224,
+            40,
+            61
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f059-e02",
+          "location": "R05",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            930,
+            223,
+            52,
+            315
+          ],
+          "reading": "肝氣痛兩脇"
+        },
+        {
+          "evidence_id": "f059-e03",
+          "location": "R07",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            842,
+            220,
+            49,
+            247
+          ],
+          "reading": "又服養陰之品"
+        },
+        {
+          "evidence_id": "f059-e04",
+          "location": "R08",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            795,
+            219,
+            49,
+            368
+          ],
+          "reading": "十餘劑俱不見效"
+        },
+        {
+          "evidence_id": "f059-e05",
+          "location": "L11",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            101,
+            230,
+            50,
+            213
+          ],
+          "reading": "中宮健運"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 60,
+      "image_sha256": "fe39139349c2b3531f38e1822e58ddaf63f2556703ea6b7c2e8d74adc9847959",
+      "independent_raster_sha256": "4ed760a2e53aff8806ed1176572608b8d4d13ccb15972a643a453c26374d35b7",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "右葉中內側深漬。左葉第七欄獨起「右」，旁有一鉤；第八欄起懷孕案。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f060-e01",
+          "location": "R04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            978,
+            230,
+            55,
+            332
+          ],
+          "reading": "養腎通胃"
+        },
+        {
+          "evidence_id": "f060-e02",
+          "location": "L01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            566,
+            255,
+            48,
+            487
+          ],
+          "reading": "胸次已開"
+        },
+        {
+          "evidence_id": "f060-e03",
+          "location": "L07",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            291,
+            253,
+            65,
+            49
+          ],
+          "reading": "右"
+        },
+        {
+          "evidence_id": "f060-e04",
+          "location": "L08",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            246,
+            251,
+            50,
+            194
+          ],
+          "reading": "懷孕七月"
+        },
+        {
+          "evidence_id": "f060-e05",
+          "location": "L11",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            104,
+            259,
+            48,
+            248
+          ],
+          "reading": "調氣調和子宮"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 61,
+      "image_sha256": "3fe45121cb17de3d1fde270cbdb94104f0bf84faa59751a98b3f14db86a3abe5",
+      "independent_raster_sha256": "aea1c66b687b8b2171a0a4d5dad005d61544dbf5d3411530d2b5558f2e964d83",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "右第二欄為案首兼舊診紀年月份，右第三欄起幼科；左葉第六欄末附小字，左第八欄低起。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f061-e01",
+          "location": "R02",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            1056,
+            234,
+            57,
+            303
+          ],
+          "reading": "左庚辰九月曾診"
+        },
+        {
+          "evidence_id": "f061-e02",
+          "location": "R03",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            1017,
+            241,
+            59,
+            379
+          ],
+          "reading": "幼科"
+        },
+        {
+          "evidence_id": "f061-e03",
+          "location": "L01",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            562,
+            238,
+            44,
+            283
+          ],
+          "reading": "病原已載庚辰之方"
+        },
+        {
+          "evidence_id": "f061-e04",
+          "location": "L06",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            413,
+            813,
+            29,
+            72
+          ],
+          "reading": "〔旁細字，待核〕"
+        },
+        {
+          "evidence_id": "f061-e05",
+          "location": "L09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            190,
+            237,
+            47,
+            406
+          ],
+          "reading": "〔腸病辨記〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 62,
+      "image_sha256": "75eeafdb6ba0777fbb9f6b3506dfbb30dc9e0362a51574079e6f96223875096b",
+      "independent_raster_sha256": "46aca2bc4168a1873847f382506437bde294eefc6ff6f7aea12ac7324e59efc6",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "右葉第八欄後空一欄距，後三欄墨較淡；雙葉病例仍延續，底緣呈片狀舊漬。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f062-e01",
+          "location": "R04",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            975,
+            236,
+            49,
+            407
+          ],
+          "reading": "脈象左弦"
+        },
+        {
+          "evidence_id": "f062-e02",
+          "location": "R09",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            697,
+            237,
+            53,
+            258
+          ],
+          "reading": "年已十二"
+        },
+        {
+          "evidence_id": "f062-e03",
+          "location": "L02",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            514,
+            237,
+            48,
+            271
+          ],
+          "reading": "熱退又熱"
+        },
+        {
+          "evidence_id": "f062-e04",
+          "location": "L12",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            55,
+            242,
+            49,
+            327
+          ],
+          "reading": "病勢甚險"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 63,
+      "image_sha256": "4a7e64e0870d64af7831149aa9110342f4d68da15d8408f0cf00836f32ec6528",
+      "independent_raster_sha256": "106b1b0239906c68e9efc06f5c98cc69f44486bac118dbb977659034d5ea3ba0",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "右內側第十一欄低起；右葉中上及左內側各見「左」，左葉另有明寫丸方的案首。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f063-e01",
+          "location": "R03",
+          "layer": "subheading",
+          "bbox_approx_xywh_px": [
+            1005,
+            241,
+            51,
+            280
+          ],
+          "reading": "又方清燥潤肺湯"
+        },
+        {
+          "evidence_id": "f063-e02",
+          "location": "R06",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            871,
+            241,
+            42,
+            51
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f063-e03",
+          "location": "R07",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            819,
+            242,
+            58,
+            323
+          ],
+          "reading": "王海藏云腦為髓海"
+        },
+        {
+          "evidence_id": "f063-e04",
+          "location": "L01",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            561,
+            247,
+            46,
+            53
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f063-e05",
+          "location": "L05",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            362,
+            238,
+            56,
+            224
+          ],
+          "reading": "鄭小姐丸方"
+        },
+        {
+          "evidence_id": "f063-e06",
+          "location": "L07",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            283,
+            244,
+            51,
+            321
+          ],
+          "reading": "月經精不對〔精字疑〕"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 64,
+      "image_sha256": "ba296344f2090320a85cff551a2b2654371ef3114479b52f34a9f100c6e96274",
+      "independent_raster_sha256": "25fd3af0762aef129a5eef552f28e2e4a1d32e73668aed86bb7720f03c105f13",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "右葉一字「也」獨占一欄，第十一欄低起。左葉近縫紀年、月份與案首合書，外側另見復診續記。",
+      "observed_counts": {
+        "R": 11,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f064-e01",
+          "location": "R01",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            1107,
+            246,
+            53,
+            57
+          ],
+          "reading": "左"
+        },
+        {
+          "evidence_id": "f064-e02",
+          "location": "R08",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            784,
+            249,
+            45,
+            44
+          ],
+          "reading": "也"
+        },
+        {
+          "evidence_id": "f064-e03",
+          "location": "L01",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            555,
+            240,
+            49,
+            242
+          ],
+          "reading": "左庚辰十一月"
+        },
+        {
+          "evidence_id": "f064-e04",
+          "location": "L02",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            510,
+            247,
+            50,
+            166
+          ],
+          "reading": "上年四月"
+        },
+        {
+          "evidence_id": "f064-e05",
+          "location": "L10",
+          "layer": "followup",
+          "bbox_approx_xywh_px": [
+            146,
+            248,
+            42,
+            185
+          ],
+          "reading": "初八復診"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 65,
+      "image_sha256": "e669e84f188580961d157a7393f42a8e7d5f38d2388e517aece008f896d02bd6",
+      "independent_raster_sha256": "27d92b7e6e9df20ec51bfb97b8e6505bbf5cdf16ab2af198a09ec8d6bb20c55a",
+      "independent_raster_dimensions": [
+        1500,
+        1037
+      ],
+      "layout": "兩葉仍有正文，近右葉內側縱漬。日期另起，右葉內側及左葉內側藥末附小字，左葉外側另見案首。",
+      "observed_counts": {
+        "R": 12,
+        "L": 12
+      },
+      "evidence": [
+        {
+          "evidence_id": "f065-e01",
+          "location": "R06",
+          "layer": "date",
+          "bbox_approx_xywh_px": [
+            878,
+            240,
+            54,
+            173
+          ],
+          "reading": "十一日復診"
+        },
+        {
+          "evidence_id": "f065-e02",
+          "location": "R08",
+          "layer": "case_text",
+          "bbox_approx_xywh_px": [
+            786,
+            321,
+            45,
+            175
+          ],
+          "reading": "仍舒肺胃"
+        },
+        {
+          "evidence_id": "f065-e03",
+          "location": "R09",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            784,
+            841,
+            36,
+            75
+          ],
+          "reading": "〔欄末側有細字〕"
+        },
+        {
+          "evidence_id": "f065-e04",
+          "location": "L03",
+          "layer": "inline_note",
+          "bbox_approx_xywh_px": [
+            462,
+            868,
+            33,
+            62
+          ],
+          "reading": "〔欄末側有細字〕"
+        },
+        {
+          "evidence_id": "f065-e05",
+          "location": "L10",
+          "layer": "case_heading",
+          "bbox_approx_xywh_px": [
+            148,
+            247,
+            49,
+            230
+          ],
+          "reading": "儀徵左丸"
+        }
+      ],
+      "review_scope": "independent image reading and selected anchors"
+    },
+    {
+      "frame": 66,
+      "image_sha256": "ba70dfc8502560ec48f1982f9f49b94af556d9f53d15deb35a292d69bfdcf0ab",
+      "independent_raster_sha256": "bb74c76023ba7dcaf9a52bf4bc9a7baae5e784d45de81d523b17ba02196bfe5f",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f066-anchor-01",
+          "side": "R",
+          "reading": "復診原方加",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f066-R-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 67,
+      "image_sha256": "b2ff5dcfcf3cbff7c52ee45508820211c72033823ca8b997dc61b91001279388",
+      "independent_raster_sha256": "14f2323868749d2b1eeed410c6945703e0933e0999cae221768e5694e31a6aa9",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "第三冊末葉，右有正文、左後襯",
+      "evidence": [
+        {
+          "id": "f067-anchor-01",
+          "side": "R",
+          "reading": "肺司百脉",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f067-R-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 68,
+      "image_sha256": "b7c9578abadc1aef670f5705b746494cc7a08d74354cfc7052f2bca5c266c187",
+      "independent_raster_sha256": "bd06300ddf45a59efc5ec9f7d782d073720c00b13f19dd51d872538d70efeccf",
+      "independent_raster_dimensions": [
+        1424,
+        1500
+      ],
+      "layout": "第三冊藍封底，線在左",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 69,
+      "image_sha256": "ae219e5a72ebb1921a0f69dc663390fcf720d5873093587966b90849d4f94d30",
+      "independent_raster_sha256": "7393bf5de77502aa97a1833dd9ab43a71e25c90c148b2d62c238384f4fd42dde",
+      "independent_raster_dimensions": [
+        1439,
+        1500
+      ],
+      "layout": "第四冊藍封面，線在右",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 70,
+      "image_sha256": "61f639d29ebf91b42763d097d8b19f9569dcc2952c37bb152aa0b8a960243987",
+      "independent_raster_sha256": "1b1604c80e4ad3c6303fb879a6116f8b947cbf74dca972c54d677579b76d666f",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "白前襯與紙腳冊記，正文欄空",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 71,
+      "image_sha256": "3857d0c0bf4c79138bf2ee87f0bdf7b18c4a6bfc6581f1b45bbb05c2b2889e83",
+      "independent_raster_sha256": "84782a928688f32e15670f7a4caf23a9a52345006c360c0b3be62c842097c9a8",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "第四冊開卷，右前襯、左臨床文字及淡朱痕",
+      "evidence": [
+        {
+          "id": "f071-anchor-01",
+          "side": "L",
+          "reading": "大傷",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f071-L-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 72,
+      "image_sha256": "1bf54b3c11d54d0363c7e9409e05b191f6b9e08b8855c6fb16810d22f98ac878",
+      "independent_raster_sha256": "ae6e27fa323e34eb61abac32f69bd8e01943379129826046dd998a470fe5d309",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f072-anchor-01",
+          "side": "R",
+          "reading": "吐津色不甚",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f072-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 73,
+      "image_sha256": "9424830c447e54206e3901e02c33cd4898e2bbaf5cfd381c4e870504df536291",
+      "independent_raster_sha256": "b05a11ea48b02455f1ecc92ed66f679f231d00a2d942e3841ad9f2aa2bbd63ee",
+      "independent_raster_dimensions": [
+        1500,
+        1022
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f073-anchor-01",
+          "side": "R",
+          "reading": "生地",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f073-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 74,
+      "image_sha256": "4da0ebe2fd8c54bef35ab54be8fc9a819aa45d7e9e2fed06ab382104392b7a36",
+      "independent_raster_sha256": "e4ba3738c175ca029058b421659a60d073875ceb6904bb599c8ef39ad2cde197",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f074-anchor-01",
+          "side": "R",
+          "reading": "其氣精血內奪",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f074-R-03"
+          ]
+        },
+        {
+          "unit": "f074-R-03",
+          "bbox_xyxy": [
+            1011,
+            240,
+            1068,
+            389
+          ],
+          "reason": "其後一字的上部是一橫連回筆，下部有米形分點；不同於本頁的眞。"
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 75,
+      "image_sha256": "c28d0b34be745d50de7e4ef0ef76606ca06a7b42afd7384ad93d20800c086430",
+      "independent_raster_sha256": "3da98291ffa6811e4c3974398a9b9f2dbdb8459bbd9396d0acc44820433f2e20",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f075-anchor-01",
+          "side": "R",
+          "reading": "附子",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f075-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 76,
+      "image_sha256": "16b2aff3f82dad10ae0ceab7a21e5766b3486c1b316cb32447fcad2b1dc511d0",
+      "independent_raster_sha256": "0adaf2d8db60a831916f33f521e62b203310d6190afce4e8dcc957b004698c64",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f076-anchor-01",
+          "side": "R",
+          "reading": "酒方",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f076-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 77,
+      "image_sha256": "086ff8ee79c0abcbb930b3a1bc7a24029c63cdd659fd313d8b1a3c4ae612d49e",
+      "independent_raster_sha256": "da520d672f2725a3f8358907acb8d909bdb9ac98b145967d40b03b1885bd7770",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f077-anchor-01",
+          "side": "L",
+          "reading": "病將一月",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f077-L-05"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 78,
+      "image_sha256": "0190aea222c9b7cc10da2ebe7f933cbf3ab1e1a95742849156b5f75958bef69a",
+      "independent_raster_sha256": "299c0be5b3f0aee6d0db5f12c57fb71330259d45fd62616fb01cfadd862ddfe3",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f078-anchor-01",
+          "side": "R",
+          "reading": "復診",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f078-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 79,
+      "image_sha256": "f1eaa0b1a7cba77075c99a0d0313c63a9e4c12880ab0532025ce5f1bfa7ce1bc",
+      "independent_raster_sha256": "5508a45a6fed51569f280a22f9ac6aada999f0cdf541ba39d661d73cafea8be1",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f079-anchor-01",
+          "side": "R",
+          "reading": "小產",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f079-R-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 80,
+      "image_sha256": "f9de5ebbfd843340e036ab2a62c88164ec932578f5fbc1ab7d9c6dd304b9c59f",
+      "independent_raster_sha256": "2b05f5e934d56313c82ca83caf95ce8251cbbf8569d6c07e38f4f2e2e1fafe19",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f080-anchor-01",
+          "side": "R",
+          "reading": "病經十日",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f080-R-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 81,
+      "image_sha256": "d174b7c27308321944f30fa5a33126953312ebe755bebec16ca3cd61542694eb",
+      "independent_raster_sha256": "46867d688f49ff1fb09295c3292e844b87006c298dc8e51f53b0591fb70e500b",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f081-anchor-01",
+          "side": "R",
+          "reading": "復診",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f081-R-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 82,
+      "image_sha256": "deef0ec6e7660856f46a18213b604bef0d7780b8de980f011ed385f1756922b8",
+      "independent_raster_sha256": "7a47a456256d02e5570246ca85c6600de1d8560f6cce023b732f292dcce33354",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f082-anchor-01",
+          "side": "R",
+          "reading": "久病不食",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f082-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 83,
+      "image_sha256": "a7364dbef3fac7e22a731358e66db4076572e85b719191cbef3238b388a97655",
+      "independent_raster_sha256": "ec972c708430df3c3ab97d3fe52ca8b7004540964300c3cf6cbb43e4a57a1ccf",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f083-anchor-01",
+          "side": "R",
+          "reading": "導龍入海",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f083-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 84,
+      "image_sha256": "49e1619502e3781e3b2a6a8c7e423801eaaac034c6703189352f1f0e2f4d6b55",
+      "independent_raster_sha256": "9e8b2600dbb4d16bf2787db254e78fa93140e291a812b90d6976a44513611c4a",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f084-anchor-01",
+          "side": "R",
+          "reading": "熟地",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f084-R-01",
+            "f084-R-07"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 85,
+      "image_sha256": "f1ed4cbc48e37102f0c50398ac4545969b0bc4bdc469570be16ce90ae75ed512",
+      "independent_raster_sha256": "d334c5107152b78c655024722a9336fa1e1df896ea77d7bd380cabab98f7734a",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f085-anchor-01",
+          "side": "R",
+          "reading": "熟地",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f085-R-04",
+            "f085-R-12"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 86,
+      "image_sha256": "463d5cfbe086745c11cd55f56500293bcb2d078743f0dc1e1772ef7cef46baef",
+      "independent_raster_sha256": "4fb11c521fcc68e01d2af6c23899f0b1105a0283e68c311cf9a02cd97b9ff80c",
+      "independent_raster_dimensions": [
+        1500,
+        1036
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f086-anchor-01",
+          "side": "R",
+          "reading": "大熟地",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f086-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 87,
+      "image_sha256": "42c2cd4f29b2e43e17bd829521efd2f24401387e8ce1077680e2566135436caa",
+      "independent_raster_sha256": "2714bdc2af250eddc2e9299044b61f89936c9ce4a62450dc4137775ee32b9611",
+      "independent_raster_dimensions": [
+        1500,
+        1036
+      ],
+      "layout": "第四冊末葉，右有正文、左後襯",
+      "evidence": [
+        {
+          "id": "f087-anchor-01",
+          "side": "R",
+          "reading": "章七太爺",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f087-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 88,
+      "image_sha256": "2542e76c463621d26afd4f51f11fd91a5064636febf6d094f5756814101bce28",
+      "independent_raster_sha256": "df51cffcdd9c2aa30dd9f3f783c00f9edda29c8de09883462ed31163479e10c0",
+      "independent_raster_dimensions": [
+        1437,
+        1500
+      ],
+      "layout": "第四冊藍封底，線在左",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 89,
+      "image_sha256": "10ca042932f714d5cfc76356e492f4b5b7e25b08f4b3fbf6887f524267e711f6",
+      "independent_raster_sha256": "23fe0d87ab4bdd490e697801685a8ec9274c373b5cae190c0e1334deff54575a",
+      "independent_raster_dimensions": [
+        1431,
+        1500
+      ],
+      "layout": "第五冊藍封面，線在右",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 90,
+      "image_sha256": "b12b38ca4104f07c18eb6ffdc889e9acc35c43ffdbf937d2448a7bbbbbfb7812",
+      "independent_raster_sha256": "1cda18c5bc973e2786c383b7ea49b724d652c31acac7e79b939f9ea9425593b4",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "白前襯與紙腳冊記，正文欄空",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 91,
+      "image_sha256": "0b732c975f841f0e94bc12df75f2ab3c2e3748e61ca56fc71c8de199eeeed8df",
+      "independent_raster_sha256": "f446f6c733228ccc9427df0d38c30a2f8adbe90261ad2ac8964e9ae795fba521",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "第五冊開卷，右前襯、左正文及朱痕",
+      "evidence": [
+        {
+          "id": "f091-anchor-01",
+          "side": "L",
+          "reading": "大人閣下",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f091-L-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 92,
+      "image_sha256": "4dab56326fea23ed325cb1a065d4e16011194a8feb1b956d30b9cf50399d77a5",
+      "independent_raster_sha256": "edd76bae767dcaba4460e338bfdba9787fb6bb6a0f282be2855296c47202255b",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f092-anchor-01",
+          "side": "R",
+          "reading": "左脉弦大",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f092-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 93,
+      "image_sha256": "d8206efbcc2a2f3c59ebf960f992c5a815c69419c3f31c86a81527e498edb5b4",
+      "independent_raster_sha256": "bf7b2de0369dd0e60f32bab082ace50f31cad2b69acd3f4f4e6bbb19c23bb482",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f093-anchor-01",
+          "side": "R",
+          "reading": "十日",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f093-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 94,
+      "image_sha256": "dd3180a9c0f90ba40d8bb86e210464e7408976cd915627a52ce2b453d891e810",
+      "independent_raster_sha256": "121d1e80372377981089a9dfe14ef42d075405aaa9d5151fccb1179bce05d96d",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f094-anchor-01",
+          "side": "R",
+          "reading": "為水腫腹脹",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f094-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 95,
+      "image_sha256": "5cd9d6b44fc6728e767643603da785d651d301b3bd9633e31428825714d3918e",
+      "independent_raster_sha256": "267eedf86487cb8317e44d1d7e723d42bbef0ee299e297cd334d0f9b865da3fd",
+      "independent_raster_dimensions": [
+        1500,
+        1026
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f095-anchor-01",
+          "side": "R",
+          "reading": "大熟地",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f095-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 96,
+      "image_sha256": "1285383a3c46c0cc9ee328a0192e114f28440795a26439676e01cd706e20f11b",
+      "independent_raster_sha256": "8da0d18e77a89d9b5ef973f0ec7b81d84e1c77cc178f302c78a7d3b3b73c771a",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f096-anchor-01",
+          "side": "R",
+          "reading": "白芍",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f096-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 97,
+      "image_sha256": "60b619c3cac8b208eda9a6f47e0e19a07ea16d3fec2c96b3f06abb4762182953",
+      "independent_raster_sha256": "4c6f435fe6f3f4820d4c810e563208703da2aeabcc72aa7652b45650f961afe3",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f097-anchor-01",
+          "side": "R",
+          "reading": "九孔石決明",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f097-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 98,
+      "image_sha256": "d9a6840982adf568ac538f44cab6f352f21b49dc4e5ecd8537ebf47b016d91f1",
+      "independent_raster_sha256": "27b58061268b98e982d64c5c1dc4c64b3685188261d35872e15535d1154feceb",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f098-anchor-01",
+          "side": "R",
+          "reading": "守舍",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f098-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 99,
+      "image_sha256": "0a83cad0f73ee68fd4e2e3af0d2af6a758defdc94cba317f655aa92d08808dd6",
+      "independent_raster_sha256": "cfb2827d19293f4be8d223166956dc802b5f6b4ce6ef47d3dcfd2f80f29e8128",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f099-anchor-01",
+          "side": "R",
+          "reading": "丸方",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f099-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 100,
+      "image_sha256": "905479407e80616b313960f518e0579cde28d86ea79ba4e12c9ddb2f36062e82",
+      "independent_raster_sha256": "50aed0888791cc16965ee10ef8b0d11bd1e038f607b3ccb6508f0ff92a73db3f",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f100-anchor-01",
+          "side": "L",
+          "reading": "暑傷心氣",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f100-L-05"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 101,
+      "image_sha256": "8878fb111f85a95943d7e7018e37231099fc641da523cb8344ee6b847377564a",
+      "independent_raster_sha256": "c572f70789f5e10570d2f264dc053009f4f1306bca5ab55060cd76519beb3595",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f101-anchor-01",
+          "side": "R",
+          "reading": "中宮失運",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f101-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 102,
+      "image_sha256": "6bbadbdd9598f89bab7205f5afccc1f3e163bb477f55b33e691b3e44b54a0df5",
+      "independent_raster_sha256": "b9a760e680e03701d49e2434e9dd31393fd03d3477963e514744d5006a09ec38",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f102-anchor-01",
+          "side": "R",
+          "reading": "心為一身之主",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f102-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 103,
+      "image_sha256": "d858625232f1cafb45c3ca409c2dfb6523408aec7738caf5f60db98431c8ba69",
+      "independent_raster_sha256": "2e4d4b0cba545909057853d65a8cb354ed7fe540813d7e8b92c206b28f1c786c",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f103-anchor-01",
+          "side": "R",
+          "reading": "血脉虛衰",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f103-R-01"
+          ]
+        },
+        {
+          "unit": "f103-R-01",
+          "bbox_xyxy": [
+            1116,
+            253,
+            1162,
+            438
+          ],
+          "reason": "虛下字沒有宀蓋，字下從衣形，判為衰。"
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 104,
+      "image_sha256": "ba0dfcb610243bc5d97ae1eea38bb340874824d0f70d3ebed38f1fa606160439",
+      "independent_raster_sha256": "6c3b208a06dae58b09e7ad58ac3cd64f0bb9bcc7916801ee61d1ff1c68362214",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "左上緣有夾層白紙，兩面有正文",
+      "evidence": [
+        {
+          "id": "f104-anchor-01",
+          "side": "R",
+          "reading": "和經絡",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f104-R-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 105,
+      "image_sha256": "45066ee01843491bc9b5bd076251d92a4ce0a41eda828b435a9953c527c34bfe",
+      "independent_raster_sha256": "3a88ccfc32a7692186fd8c83f638939035e9b1d1bc75a12a9e891dc1b2f5a2f4",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "右上緣有夾層白紙，兩面有正文",
+      "evidence": [
+        {
+          "id": "f105-anchor-01",
+          "side": "R",
+          "reading": "二劑以和脉絡",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f105-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 106,
+      "image_sha256": "ae75a848aac875b45a1b078cf0e87f4a364e927dd098d2bfdabc10498a9aebb5",
+      "independent_raster_sha256": "4689d747a88a8ccb0f97c755fbfd869b9af7a96fff5f31a292cde6134bf61fd9",
+      "independent_raster_dimensions": [
+        1500,
+        1030
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f106-anchor-01",
+          "side": "R",
+          "reading": "皆病腎虛",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f106-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 107,
+      "image_sha256": "ff4bf8874ab0b2fdae6e9e8077b52dbf983d348beaeed89cc95149e1b7966f73",
+      "independent_raster_sha256": "69635d9c0c920c67d3a3ae51d33081964f006a8d92815c29bbd36f9884e008e9",
+      "independent_raster_dimensions": [
+        1500,
+        1035
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f107-anchor-01",
+          "side": "R",
+          "reading": "六君",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f107-R-01"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 108,
+      "image_sha256": "aef56098ecc1be9e33ff0d863e700d7af2b736ade7eddf2b0e364750ef4d5991",
+      "independent_raster_sha256": "5474dab3d352bb54888f150e4ee861e3a52880ccbe25f87c617d643d89c9169c",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f108-anchor-01",
+          "side": "R",
+          "reading": "三兄大人",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f108-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 109,
+      "image_sha256": "01a0677db6e78f49e4186c4dd3871bf4172c2f876fd2ff8416eb34345e309344",
+      "independent_raster_sha256": "8a16c94a803be2d34eea0607d9d0981233d53e87ec4dcdb6a0bfe882fe8066f2",
+      "independent_raster_dimensions": [
+        1500,
+        1035
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f109-anchor-01",
+          "side": "R",
+          "reading": "復診",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f109-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 110,
+      "image_sha256": "57286f5b2bbb910d39ba55ae6fdb3d6d061c85667598ca1ffeb368d502c97a0a",
+      "independent_raster_sha256": "92853a2e1e510a62833740415cdfdaf22f68b0848c9e3689b6f61bc3da18c75b",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f110-anchor-01",
+          "side": "R",
+          "reading": "陽衰矣",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f110-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 111,
+      "image_sha256": "74a8edd5eaef0c6ffe545b2aac2a6e6bb1a9b40d67e16435dd568a4047aef81c",
+      "independent_raster_sha256": "4ef8f21eb7d40e2be76db607e61a172e90d7aa3f3e8fbc24b06131b4fa9b42da",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "第五冊末葉，右有正文、左後襯",
+      "evidence": [
+        {
+          "id": "f111-anchor-01",
+          "side": "R",
+          "reading": "原方已服",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f111-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 112,
+      "image_sha256": "3704f40c3783b0a1ea31eccb50de613fe136305cef3e6f9e7eb91765dd9e312e",
+      "independent_raster_sha256": "c926b2c4bf8b6a54fdf28cf76c6ed3a1913e7ba0b1b7301e5c64a3856e1a4104",
+      "independent_raster_dimensions": [
+        1417,
+        1500
+      ],
+      "layout": "第五冊藍封底，線在左",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 113,
+      "image_sha256": "0f95c2b71226b4f208bd6577fdb91d0f75c341b4c260662078444eeba4d432a9",
+      "independent_raster_sha256": "9a8ea2eb2ec53d93db7432631f20a646a3326f6e0d43115199bffd2d7e65e093",
+      "independent_raster_dimensions": [
+        1429,
+        1500
+      ],
+      "layout": "第六冊藍封面，線在右",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 114,
+      "image_sha256": "1e13ae4c4abbc0678dd41abc7daf1e75137ea1f8112af84636d195a0bdb3e43f",
+      "independent_raster_sha256": "c707c3c701ef7dcde4604fd177675db7b806b2de8108daab981538ff16ed44b1",
+      "independent_raster_dimensions": [
+        1500,
+        1025
+      ],
+      "layout": "白前襯與紙腳冊記，正文欄空",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 115,
+      "image_sha256": "3540954bed16b366ace323b523d5b46fabdffb418032ddb2b830b70ece24db2c",
+      "independent_raster_sha256": "0c0ff99f3acf0df0c6f1cfd10e9dfc1d2dc5feea58cefc2a9d1d38ebaa1384df",
+      "independent_raster_dimensions": [
+        1500,
+        1027
+      ],
+      "layout": "第六冊開卷，右前襯、左正文；左上有缺蝕",
+      "evidence": [
+        {
+          "id": "f115-anchor-01",
+          "side": "L",
+          "reading": "本病脾肺腎",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f115-L-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 116,
+      "image_sha256": "33395f5ec783c7768f2dbdda76d501a062497f6ce483c209b445975821c3c39f",
+      "independent_raster_sha256": "e25a04f10382684f654bee9262d9753dbaa1a38a9b384e2bcc7cb44d15375f66",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f116-anchor-01",
+          "side": "R",
+          "reading": "服四劑",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f116-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 117,
+      "image_sha256": "f398cf795464c5b28e198308f3a290f8c2a1d640baf25364988c8294009c69cd",
+      "independent_raster_sha256": "7e07269592892ce5c7e5878f0ac0e53e0fe160a971137fbd86628a921763c679",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f117-anchor-01",
+          "side": "R",
+          "reading": "神智安藏",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f117-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 118,
+      "image_sha256": "48d93ab3651e364ab4bfb0367fb421eb7b30309ba3dcc20f8ebc2495a08a0ab8",
+      "independent_raster_sha256": "39bd59ab2bdc2ff50d4711f4e745f3162cc943b2da8e2c9c7557fab63957afcd",
+      "independent_raster_dimensions": [
+        1500,
+        1029
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f118-anchor-01",
+          "side": "R",
+          "reading": "服藥四劑",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f118-R-04"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 119,
+      "image_sha256": "89dda28ea0264acd81a01efc1689ad7e154ccdbdec15fd780ecb4c343a3a3fe9",
+      "independent_raster_sha256": "102e6e32f45bc3920609e7f36719d36970f83769010921ebf70ca2c7d02933e7",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f119-anchor-01",
+          "side": "R",
+          "reading": "補中益氣湯",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f119-R-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 120,
+      "image_sha256": "e9b2dbc856123793e71c2cf12f90874e6c89caecc92e8101a96fc2620b42d011",
+      "independent_raster_sha256": "f5fa3fd5db0c379238143c754222431f001c67f912bac1900a808e4f0326297f",
+      "independent_raster_dimensions": [
+        1500,
+        1034
+      ],
+      "layout": "左側書寫比右短，左外留空；非缺欄",
+      "evidence": [
+        {
+          "id": "f120-anchor-01",
+          "side": "R",
+          "reading": "千里馬",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f120-R-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 121,
+      "image_sha256": "fff6302418a2d2353c8818ce6126508bf365bd01b297114203b9b516c0b2c90b",
+      "independent_raster_sha256": "571998c41ad2d1a28d9a1cd62c5fb4a54903adc5991aba04e88a8533271755db",
+      "independent_raster_dimensions": [
+        1500,
+        1028
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f121-anchor-01",
+          "side": "L",
+          "reading": "復診加人參",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f121-L-05"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 122,
+      "image_sha256": "a671300473a83f57ffcbd5d5948a8b576c32787d02db72a9637ad9aee05bea88",
+      "independent_raster_sha256": "450fc2799b0209ee70ad1f0bdf63ad4d08f141d6842f00adb675bd76b35335b9",
+      "independent_raster_dimensions": [
+        1500,
+        1031
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f122-anchor-01",
+          "side": "R",
+          "reading": "不得臥",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f122-R-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 123,
+      "image_sha256": "8fb4afcb83a4d698f36c2a2861938fa03a3c2c17e18e02a6f429aadcc439600a",
+      "independent_raster_sha256": "7af4166a8c81b838c084a7ac59f5cb0952ee30631cb9f7b16f1879f1812eec64",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f123-anchor-01",
+          "side": "L",
+          "reading": "大承氣湯",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f123-L-02"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 124,
+      "image_sha256": "0199c3331f0469facf76b552c50bce65d8761cdd041c947a5757bf80a8709fa4",
+      "independent_raster_sha256": "5bd86434a42b8d04a982e0f733610042954e3e5a0d72d779c9c078cb1b9971ae",
+      "independent_raster_dimensions": [
+        1500,
+        1035
+      ],
+      "layout": "橫向對開，雙面正文可定位",
+      "evidence": [
+        {
+          "id": "f124-anchor-01",
+          "side": "L",
+          "reading": "頭痛背痛",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f124-L-05"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 125,
+      "image_sha256": "d2be5b72a4811196070158e13ba5c16608d52385d91b3a6aa6d23bb55cb7b9b7",
+      "independent_raster_sha256": "26113703657decab4ecc5a0ab4be3b7ac1fe28a86e04e95fd4ea2dafa2c473c6",
+      "independent_raster_dimensions": [
+        1500,
+        1035
+      ],
+      "layout": "下緣磨蝕，正文左右均可定位",
+      "evidence": [
+        {
+          "id": "f125-anchor-01",
+          "side": "R",
+          "reading": "鮮生地汁",
+          "approx_bbox_xywh": [
+            945,
+            218,
+            250,
+            244
+          ],
+          "text_matches": [
+            "f125-R-03"
+          ]
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 126,
+      "image_sha256": "189b253034b780d758fb5e6af237da1b7143140d78631542322ff9ce78d79695",
+      "independent_raster_sha256": "4e13a122c9d00a95b35063627bd191a78e77c132621f7b69136ba925f45d3a54",
+      "independent_raster_dimensions": [
+        1500,
+        1032
+      ],
+      "layout": "下緣磨蝕，左九收戒烟文，左末另接方字",
+      "evidence": [
+        {
+          "id": "f126-anchor-01",
+          "side": "L",
+          "reading": "根株",
+          "approx_bbox_xywh": [
+            462,
+            330,
+            61,
+            138
+          ],
+          "text_matches": [
+            "f126-L-03"
+          ]
+        },
+        {
+          "unit": "f126-L-03",
+          "bbox_xyxy": [
+            462,
+            330,
+            523,
+            468
+          ],
+          "reason": "根後一字右半見朱的一豎及撇捺，少於樣右旁。"
+        },
+        {
+          "unit": "f126-L-04",
+          "bbox_xyxy": [
+            417,
+            615,
+            459,
+            778
+          ],
+          "reason": "其字左從金，右小下月，與鏡的竟形不同。"
+        },
+        {
+          "unit": "f126-L-05",
+          "bbox_xyxy": [
+            371,
+            365,
+            414,
+            550
+          ],
+          "reason": "左五中段第一字土旁，第二字為上羊下食；後接脂膏。"
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 127,
+      "image_sha256": "e81b01440cfff3fc335d0211edcbeb66d0cb9cd0e80d4a616e70c4153d30fdeb",
+      "independent_raster_sha256": "1f8ac5d71ab3d3e04d73a147c33170b4a8a10736c21d8bfef11d501c7fa1d757",
+      "independent_raster_dimensions": [
+        1500,
+        1033
+      ],
+      "layout": "右末方字和朱印，左為字幅較大的晚出跋",
+      "evidence": [
+        {
+          "id": "f127-anchor-01",
+          "side": "L",
+          "reading": "寶素鎮江",
+          "approx_bbox_xywh": [
+            350,
+            218,
+            220,
+            244
+          ],
+          "text_matches": [
+            "f127-L-01"
+          ]
+        },
+        {
+          "unit": "f127-L-05",
+          "bbox_xyxy": [
+            184,
+            560,
+            255,
+            805
+          ],
+          "reason": "尾跋署名元、福二字可辨，福右側有畐形，亦與館目跋者相符。"
+        }
+      ],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 128,
+      "image_sha256": "b7667768a408518e33b04bfcd507d4adb5d938abe3111ffc0a57a22ede3e2761",
+      "independent_raster_sha256": "bd2cf97d4eefdb15c44f5a6384ec4160f24c4adb2e0d98c87fed1192b61e6289",
+      "independent_raster_dimensions": [
+        1500,
+        1038
+      ],
+      "layout": "右淺棕、左白兩色後襯，灰館徽與朱色水印為數位標記",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    },
+    {
+      "frame": 129,
+      "image_sha256": "5cf14aae6c0a376c23557032e18b136fb6f4819c16105d4e6b7074415bee49da",
+      "independent_raster_sha256": "cb11fab28a2a9691ce3856763f5113dfa8d9ae8fa3ff2bb5f490ba4764b6087c",
+      "independent_raster_dimensions": [
+        1431,
+        1500
+      ],
+      "layout": "第六冊藍封底，線在左",
+      "evidence": [],
+      "review_scope": "page inventory, selected anchors and local adjudication"
+    }
+  ],
+  "changes": [
+    {
+      "unit": "f003-L-02",
+      "frame": 3,
+      "image_sha256": "6a7d29005e241e9dcabd7507deb4bc1da9cc1d7abafa89c2b4f8424826cf6209",
+      "before": "徐州諸左",
+      "after": "徐州潘左",
+      "image_bbox": [
+        530,
+        236,
+        577,
+        364
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "案題第三字左有三點，右部下呈田形，與同幅 L07「潘左」同字。",
+      "replace_in_linked_readings": [
+        "徐州諸左",
+        "徐州潘左"
+      ]
+    },
+    {
+      "unit": "f027-L-01",
+      "frame": 27,
+      "image_sha256": "8f1092fc3ab17b1ec1048f79b01ef787eaa807becee4ade6bc16de10a04f2700",
+      "before": "謝夫人",
+      "after": "謝大人",
+      "image_bbox": [
+        569,
+        225,
+        610,
+        331
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "次字橫下見向兩側分開的捺，橫上無「夫」的另一下筆，且與第三字「人」各占一字位。",
+      "replace_in_linked_readings": [
+        "謝夫人",
+        "謝大人"
+      ]
+    },
+    {
+      "unit": "f053-R-07",
+      "frame": 53,
+      "image_sha256": "b5a488b90b8eef6f3f7c06b85b05ecae79657c5967540c0d7ea89a0be33304d9",
+      "before": "十一月〔十二〕日接函悉前十月初一日舊病慈容語無倫",
+      "after": "十一月十三日接函悉前十月初一日舊病慈容語無倫",
+      "image_bbox": [
+        830,
+        217,
+        884,
+        360
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "「月」後的十下見兩個緊接小橫與第三筆長橫，以下另起「日」。",
+      "replace_in_linked_readings": [
+        "十一月〔十二〕日",
+        "十一月十三日"
+      ]
+    },
+    {
+      "unit": "f056-L-03",
+      "frame": 56,
+      "image_sha256": "67370fec638ddb699ec46a8b7f752634fda254a62beaef294e221006c247275f",
+      "before": "〔次〕年五月診",
+      "after": "次年五月診",
+      "image_bbox": [
+        474,
+        266,
+        518,
+        468
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "首字左二點與右下欠形可分，下一字為年。",
+      "replace_in_linked_readings": [
+        "〔次〕年五月診",
+        "次年五月診"
+      ]
+    },
+    {
+      "unit": "f061-R-02",
+      "frame": 61,
+      "image_sha256": "3fe45121cb17de3d1fde270cbdb94104f0bf84faa59751a98b3f14db86a3abe5",
+      "before": "左〔庚辰〕九月曾診",
+      "after": "左庚辰九月曾診",
+      "image_bbox": [
+        1056,
+        234,
+        1113,
+        537
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "庚有廣部覆折，下字辰的長撇與捺可辨，可與同幅 L01 及 p064 L01 互核同筆。",
+      "replace_in_linked_readings": [
+        "左〔庚辰〕九月曾診",
+        "左庚辰九月曾診"
+      ]
+    },
+    {
+      "unit": "f061-L-01",
+      "frame": 61,
+      "image_sha256": "3fe45121cb17de3d1fde270cbdb94104f0bf84faa59751a98b3f14db86a3abe5",
+      "before": "病原已載原長之方服諸症頗退之法今仍刻抽搐",
+      "after": "病原已載庚辰之方服諸症頗退之法今仍刻抽搐",
+      "image_bbox": [
+        562,
+        238,
+        606,
+        521
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "載後兩字形為庚、辰，與同幅 R02 書法一致；「之方」前無另字。",
+      "replace_in_linked_readings": [
+        "病原已載原長之方",
+        "病原已載庚辰之方"
+      ]
+    },
+    {
+      "unit": "f064-L-01",
+      "frame": 64,
+      "image_sha256": "ba296344f2090320a85cff551a2b2654371ef3114479b52f34a9f100c6e96274",
+      "before": "左庚辰十〔一〕月",
+      "after": "左庚辰十一月",
+      "image_bbox": [
+        555,
+        240,
+        604,
+        482
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "辰下有帶豎的十，十和月之間另有一長橫，其位置與 p053 的「十一月」同。",
+      "replace_in_linked_readings": [
+        "左庚辰十〔一〕月",
+        "左庚辰十一月"
+      ]
+    },
+    {
+      "unit": "f065-R-06",
+      "frame": 65,
+      "image_sha256": "e669e84f188580961d157a7393f42a8e7d5f38d2388e517aece008f896d02bd6",
+      "before": "六日復診加旱蓮草三錢",
+      "after": "十一日復診加旱蓮草三錢",
+      "image_bbox": [
+        878,
+        240,
+        932,
+        413
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "首為有直畫的十，再一條獨立橫畫，之後另寫日，可與 p064 L01 寫十一的筆序互看。",
+      "replace_in_linked_readings": [
+        "六日復診",
+        "十一日復診"
+      ]
+    },
+    {
+      "unit": "f074-R-03",
+      "frame": 74,
+      "image_sha256": "4da0ebe2fd8c54bef35ab54be8fc9a819aa45d7e9e2fed06ab382104392b7a36",
+      "before": "其眞精血內奪元海空虛生氣日少根蒂日虧虛",
+      "after": "其氣精血內奪元海空虛生氣日少根蒂日虧虛",
+      "image_bbox": [
+        1011,
+        240,
+        1068,
+        389
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "其後一字的上部是一橫連回筆，下部有米形分點；不同於本頁的眞。",
+      "replace_in_linked_readings": [
+        "其眞精血內奪",
+        "其氣精血內奪"
+      ]
+    },
+    {
+      "unit": "f103-R-01",
+      "frame": 103,
+      "image_sha256": "d858625232f1cafb45c3ca409c2dfb6523408aec7738caf5f60db98431c8ba69",
+      "before": "力血脉虛寒難以取效不宜煩心",
+      "after": "力血脉虛衰難以取效不宜煩心",
+      "image_bbox": [
+        1116,
+        253,
+        1162,
+        438
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "虛下字沒有宀蓋，字下從衣形，判為衰。",
+      "replace_in_linked_readings": [
+        "血脉虛寒",
+        "血脉虛衰"
+      ]
+    },
+    {
+      "unit": "f126-L-03",
+      "frame": 126,
+      "image_sha256": "189b253034b780d758fb5e6af237da1b7143140d78631542322ff9ce78d79695",
+      "before": "方以顧歸根樣勢若戒之於存妄念分而不拔羅",
+      "after": "方以顧歸根株勢若戒之於存妄念分而不拔羅",
+      "image_bbox": [
+        462,
+        330,
+        523,
+        468
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "根後一字右半見朱的一豎及撇捺，少於樣右旁。",
+      "replace_in_linked_readings": [
+        "根樣",
+        "根株"
+      ]
+    },
+    {
+      "unit": "f126-L-04",
+      "frame": 126,
+      "image_sha256": "189b253034b780d758fb5e6af237da1b7143140d78631542322ff9ce78d79695",
+      "before": "網悔而往不可追悔後未晚果肯毀鏡器具既不致於",
+      "after": "網悔而往不可追悔後未晚果肯毀銷器具既不致於",
+      "image_bbox": [
+        417,
+        615,
+        459,
+        778
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "其字左從金，右小下月，與鏡的竟形不同。",
+      "replace_in_linked_readings": [
+        "毀鏡器具",
+        "毀銷器具"
+      ]
+    },
+    {
+      "unit": "f126-L-05",
+      "frame": 126,
+      "image_sha256": "189b253034b780d758fb5e6af237da1b7143140d78631542322ff9ce78d79695",
+      "before": "傷財從此塗塗脂膏而又可以永壽莫再為人所誘",
+      "after": "傷財從此培養脂膏而又可以永壽莫再為人所誘",
+      "image_bbox": [
+        371,
+        365,
+        414,
+        550
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "左五中段第一字土旁，第二字為上羊下食；後接脂膏。",
+      "replace_in_linked_readings": [
+        "塗塗脂膏",
+        "培養脂膏"
+      ]
+    },
+    {
+      "unit": "f127-L-05",
+      "frame": 127,
+      "image_sha256": "e81b01440cfff3fc335d0211edcbeb66d0cb9cd0e80d4a616e70c4153d30fdeb",
+      "before": "也光緒戊戌秋謝〔元福〕識",
+      "after": "也光緒戊戌秋謝元福識",
+      "image_bbox": [
+        184,
+        560,
+        255,
+        805
+      ],
+      "image_basis": "1500px independent PDF raster",
+      "reason": "尾跋署名元、福二字可辨，福右側有畐形，亦與館目跋者相符。",
+      "replace_in_linked_readings": [
+        "謝〔元福〕識",
+        "謝元福識"
+      ]
+    }
+  ],
+  "description": "第1–65頁先獨立讀圖與選取字錨，第66–129頁逐幅查欄序及另讀定位字，回原圖裁定選取異讀。保留病例日期、重出、疑讀，跋的撰寫年與全稿抄寫年代分開。",
+  "parallel_independent_pages": 65,
+  "selected_reread_pages": 64
+}

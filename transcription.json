@@ -7,10 +7,10 @@
     "source": "https://catalog.digitalarchives.tw/item/00/08/67/7d.html",
     "manifest": "https://commons.wikimedia.org/wiki/File:NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf",
     "language": "lzh",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "date": "2026-11-22",
-    "quality_zh": "AI 輔助初錄。保留原件缺損、疑讀及全冊影像定位。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
-    "quality_en": "AI-assisted initial transcription with source references and marked uncertainties. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
+    "quality_zh": "129幅逐幅回圖，按原圖與初錄核對並附訂正紀錄。採用 14 個可回圖的讀法調整。未做人類全文雙校、專家審定、同儕審查或準確率量測。",
+    "quality_en": "All 129 images were reviewed. The revision documents 14 source-image-supported changes. Human full-text double proofreading, expert review, peer review and accuracy measurement were not performed.",
     "editor": {
       "name": "Chu, Chen-Yu",
       "orcid": "0009-0003-9738-6914"
@@ -210,7 +210,7 @@
             {
               "id": "f003-L-02",
               "role": "case_heading",
-              "text": "徐州諸左",
+              "text": "徐州潘左",
               "reading_note": "末字上捺下工。"
             },
             {
@@ -4908,7 +4908,7 @@
             {
               "id": "f027-L-01",
               "role": "case_heading",
-              "text": "謝夫人"
+              "text": "謝大人"
             },
             {
               "id": "f027-L-02",
@@ -9049,7 +9049,7 @@
             {
               "id": "f053-R-07",
               "role": "main_text",
-              "text": "十一月〔十二〕日接函悉前十月初一日舊病慈容語無倫",
+              "text": "十一月十三日接函悉前十月初一日舊病慈容語無倫",
               "reading_note": "日數「十二」待覆。"
             },
             {
@@ -9636,7 +9636,7 @@
             {
               "id": "f056-L-03",
               "role": "follow_up_heading",
-              "text": "〔次〕年五月診",
+              "text": "次年五月診",
               "reading_note": "日期首字形暫讀。"
             },
             {
@@ -10407,7 +10407,7 @@
             {
               "id": "f061-R-02",
               "role": "case_heading",
-              "text": "左〔庚辰〕九月曾診",
+              "text": "左庚辰九月曾診",
               "reading_note": "干支「庚辰」暫讀。"
             },
             {
@@ -10472,7 +10472,7 @@
             {
               "id": "f061-L-01",
               "role": "main_text",
-              "text": "病原已載原長之方服諸症頗退之法今仍刻抽搐"
+              "text": "病原已載庚辰之方服諸症頗退之法今仍刻抽搐"
             },
             {
               "id": "f061-L-02",
@@ -10979,7 +10979,7 @@
             {
               "id": "f064-L-01",
               "role": "case_heading",
-              "text": "左庚辰十〔一〕月",
+              "text": "左庚辰十一月",
               "reading_note": "「十」後小橫待核。"
             },
             {
@@ -11119,7 +11119,7 @@
             {
               "id": "f065-R-06",
               "role": "follow_up_heading",
-              "text": "六日復診加旱蓮草三錢"
+              "text": "十一日復診加旱蓮草三錢"
             },
             {
               "id": "f065-R-07",
@@ -12417,7 +12417,7 @@
             {
               "id": "f074-R-03",
               "role": "main_text",
-              "text": "其眞精血內奪元海空虛生氣日少根蒂日虧虛"
+              "text": "其氣精血內奪元海空虛生氣日少根蒂日虧虛"
             },
             {
               "id": "f074-R-04",
@@ -17394,7 +17394,7 @@
             {
               "id": "f103-R-01",
               "role": "main_text",
-              "text": "力血脉虛寒難以取效不宜煩心"
+              "text": "力血脉虛衰難以取效不宜煩心"
             },
             {
               "id": "f103-R-02",
@@ -21233,17 +21233,17 @@
             {
               "id": "f126-L-03",
               "role": "main_text",
-              "text": "方以顧歸根樣勢若戒之於存妄念分而不拔羅"
+              "text": "方以顧歸根株勢若戒之於存妄念分而不拔羅"
             },
             {
               "id": "f126-L-04",
               "role": "main_text",
-              "text": "網悔而往不可追悔後未晚果肯毀鏡器具既不致於"
+              "text": "網悔而往不可追悔後未晚果肯毀銷器具既不致於"
             },
             {
               "id": "f126-L-05",
               "role": "main_text",
-              "text": "傷財從此塗塗脂膏而又可以永壽莫再為人所誘"
+              "text": "傷財從此培養脂膏而又可以永壽莫再為人所誘"
             },
             {
               "id": "f126-L-06",
@@ -21389,7 +21389,7 @@
             {
               "id": "f127-L-05",
               "role": "postscript_and_inscription",
-              "text": "也光緒戊戌秋謝〔元福〕識",
+              "text": "也光緒戊戌秋謝元福識",
               "reading_note": "「也」在欄頂，紀年與署名另在同欄下部。姓名兩字保留暫讀。"
             }
           ],
@@ -21572,7 +21572,9 @@
       "postscript_and_inscription": 1
     },
     "uncertainty_records": 492,
-    "duplicate_images": 0
+    "duplicate_images": 0,
+    "reviewed_image_frames": 129,
+    "columns_with_inline_uncertainty": 119
   },
   "source_reference": {
     "pdf": "https://upload.wikimedia.org/wikipedia/commons/b/bf/NCL-06120_%E4%B9%9D%F0%AA%BC%87%E5%85%88%E7%94%9F%E9%86%AB%E6%A1%88.pdf",
